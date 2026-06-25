@@ -1,0 +1,196 @@
+COMPETITIVE INTELLIGENCE REPORT — WORDPRESS
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://wordpress.org
+Category:     website_builder
+Overall Score: 81/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      24
+Assets Downloaded:  39 (CSS: 14 | JS: 8 | Images: 17)
+API Endpoints:      0
+Forms Found:        35
+Tech Stack Items:   5
+Sitemap URLs:       3
+
+SCORECARD
+---------
+Security:    45/100
+Tech Stack:  40/100
+SEO:        100/100
+Conversion: 100/100
+Design:     100/100
+UX:         100/100
+OVERALL:     81/100
+
+TECH STACK (detected)
+---------------------
+  + WordPress
+  + GTM
+  + GA4
+  + Tailwind
+  + jQuery
+
+SECURITY AUDIT
+--------------
+Score: 45/100  Grade: C
+  https: True
+  hsts: max-age=3600
+  x_frame: SAMEORIGIN
+  server: nginx
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-P24PF4B']
+
+API ENDPOINTS FOUND
+-------------------
+  None found
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Meet WordPress
+  Kim Parsell Memorial Scholarship Opens for WordCamp US 2026
+  Photos
+  Design
+  Forums
+  Hosting
+  Privacy policy
+  democratize publishing
+
+Meta Description:
+  Open source software which you can use to easily create a beautiful website, blog, or app.
+
+OG Title:
+  Blog Tool, Publishing Platform, and CMS - WordPress.org
+
+CTA Buttons Found:
+  Get Your Tickets Today
+  See all recommended hosts
+  Search
+  Download WordPress 7.0
+  Submit a site
+  About WCEU 2026
+  Explore the Showcase
+  Get WordPress
+
+PRICING SIGNALS
+---------------
+  $4
+  $8
+  $6
+  $7
+  $0
+  $5
+  $750
+  $1
+  $100
+  $3
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['s']
+  Form: action=POST | method=POST | fields=['s']
+  Form: action=POST | method=POST | fields=['email', 'action', 'source', 'sub-type', 'redirect_fragment', '_wpnonce', '_wp_http_referer']
+  Form: action=POST | method=POST | fields=['s']
+  Form: action=POST | method=POST | fields=['s']
+
+NAVIGATION STRUCTURE
+--------------------
+  https://wordpress.org/plugins/rt-carousel/
+  https://buddypress.org/
+  https://wordpress.org/plugins/ai/
+  https://wordpress.org/about/requirements/
+  https://events.wordpress.org/
+  https://wordpress.org/support/guidelines/
+  https://wordpress.org/about/history/
+  https://wordpress.org/photos/submit/
+  https://wordpress.org/about/logos/
+  https://ma.tt/
+  https://wordpress.org/support/forums/
+  https://wordpress.org/hosting/
+  https://make.wordpress.org/support/handbook/contributing-to-the-wordpress-forums/
+  https://wordpress.org/news/2024/09/wp-engine-banned/
+  https://wordpress.org/news/category/releases/
+
+ROBOTS.TXT (preview)
+--------------------
+Sitemap: https://wordpress.org/sitemap.xml
+Sitemap: https://wordpress.org/news-sitemap.xml
+Sitemap: https://wordpress.org/themes/sitemap.xml
+Sitemap: https://wordpress.org/plugins/sitemap.xml
+Sitemap: https://wordpress.org/news/sitemap.xml
+Sitemap: https://wordpress.org/showcase/sitemap.xml
+Sitemap:
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://wordpress.org/sitemap-1.xml
+  https://wordpress.org/image-sitemap-1.xml
+  https://wordpress.org/video-sitemap-1.xml
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Security score 45/100 — ENP runs enterprise-grade hardened infrastructure
+  2. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (14)
+  https://wordpress.org/plugins/wp-content/themes/wporg-parent-2021/build/print.css?ver=1748340064
+  https://wordpress.org/showcase/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1748340064
+  https://wordpress.org/plugins/wp-content/plugins/gallery-lightbox-enhancements/assets/lightbox-captions.css?ver=1781063479
+  https://wordpress.org/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1748271785
+  https://wordpress.org/wp-content/themes/wporg-parent-2021/build/print.css?ver=1748271785
+  https://c0.wp.com/p/jetpack/15.8/modules/related-posts/related-posts.css
+  https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1760573476
+  https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/navigation/style.min.css?ver=23.4.0
+  https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/cover/style.min.css?ver=23.4.0
+  https://wordpress.org/wp-includes/css/dashicons.min.css?ver=7.1-alpha-62517
+
+JS BUNDLES DOWNLOADED (8)
+  https://wordpress.org/photos/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642
+  https://wordpress.org/showcase/wp-content/mu-plugins/pub-sync/blocks/time/build/view.js?ver=385bfe9134bf98c52dda
+  https://wordpress.org/news/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js?ver=1751336038
+  https://s.w.org/wp-content/themes/pub/wporg/js/skip-link-focus-fix.min.js?ver=20151215
+  https://wordpress.org/news/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642
+  https://wordpress.org/support/wp-content/themes/pub/wporg-support-2024/js/navigation.js?ver=20181209
+  https://wordpress.org/photos/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=96a846e1d7b789c39ab9-20240308
+  https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642
+
+IMAGE ASSETS DOWNLOADED (17)
+  https://i0.wp.com/wordpress.org/files/2023/10/showcase-top-row-full.png?w=2660&amp;ssl=1
+  https://pd.w.org/2026/06/9816a3cdc48e07504.44234537-300x225.jpg
+  https://i0.wp.com/wordpress.org/files/2024/06/separator.png?resize=300%2C16&amp;ssl=1
+  https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-06-at-10.26.32-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1
+  https://i0.wp.com/wordpress.org/news/files/2025/08/20250826_215948-scaled.jpg?resize=2048%2C1153&amp;ssl=1
+  https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-05-at-05.23.01-scaled.jpeg?resize=1024%2C683&amp;ssl=1
+  https://i0.wp.com/wordpress.org/news/files/2026/05/image-12.png?w=1360&amp;ssl=1
+  https://pd.w.org/2026/06/4856a3cdb1fd67713.13901754-768x1024.jpg
+  https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-04-at-04.31.29-scaled.jpeg?resize=1536%2C1024&amp;ssl=1
+  https://i0.wp.com/wordpress.org/showcase/files/2025/09/400588019-80c275ed-3753-49b3-a7aa-7265282e9e91-scaled.png?resize=800%2C450&amp;ssl=1
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
