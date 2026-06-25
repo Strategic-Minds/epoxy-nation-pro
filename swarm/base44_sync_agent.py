@@ -264,12 +264,37 @@ async def push_base44_state(session: aiohttp.ClientSession) -> Dict:
         "notion_decision": "REJECTED — Supabase+GitHub+Drive is canonical system of record",
     }
 
-    mem_id = await brain_upsert(
-        session, "base44_superagent", "base44_current_state",
-        state, memory_type="working", importance=9,
-        tags=["sync", "awos", "state", "base44"], session_id="awos_sync"
-    )
-    return {"written": bool(mem_id), "memory_id": mem_id}
+    # Use PATCH→INSERT pattern (Supabase has UNIQUE constraint on agent_id+key)
+    PATCH_H = {**SH_BASE, "Prefer": "return=representation", "Content-Type": "application/json"}
+    patch_payload = {
+        "value": state, "importance": 9,
+        "tags": ["sync","awos","state","base44","v2"],
+        "session_id": "awos_sync", "memory_type": "working"
+    }
+    async with session.patch(
+        f"{SUPABASE_URL}/rest/v1/agent_memory"
+        "?agent_id=eq.base44_superagent&key=eq.base44_current_state",
+        headers=PATCH_H, json=patch_payload
+    ) as r_patch:
+        if r_patch.status in [200, 201]:
+            rows = await r_patch.json()
+            if isinstance(rows, list) and rows:
+                return {"written": True, "memory_id": rows[0].get("id")}
+    # No existing row — insert fresh
+    async with session.post(
+        f"{SUPABASE_URL}/rest/v1/agent_memory",
+        headers=PATCH_H, json={
+            "agent_id": "base44_superagent", "session_id": "awos_sync",
+            "memory_type": "working", "key": "base44_current_state",
+            "value": state, "importance": 9,
+            "tags": ["sync","awos","state","base44","v2"]
+        }
+    ) as r_ins:
+        if r_ins.status in [200, 201]:
+            rows2 = await r_ins.json()
+            if isinstance(rows2, list) and rows2:
+                return {"written": True, "memory_id": rows2[0].get("id")}
+    return {"written": False, "memory_id": None}
 
 
 # ─────────────────────────────────────────────────────────────────
