@@ -1,0 +1,323 @@
+{
+  "slug": "cascade-concrete",
+  "url": "https://cascadeconcrete.com",
+  "cat": "epoxy_competitor",
+  "pages_scraped": 19,
+  "css_files": [],
+  "js_files": [
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/951337b8a6cc89a6/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/1012cf8ab4d8583f/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/a985ac7096d86ef9/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/fb9225e343648395/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/6dbbce887158c5c4/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/7ebb6913bd1a4e86/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/15e78f28a5a9a2a/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/857a6491fc140766/script.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BF2FDR6KMM",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/5bddba70c509919b/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/6b874e5a5c2a45e7/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/bf69e8a91f75a652/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/9ed2fe3be795ae23/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/82e5544e87b35015/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/b11086fe2559a762/script.js",
+    "https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/2aea41b58108a498/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/fc2a51829c7fbc7f/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/a27427e0115404c4/script.js",
+    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/2fcccaabcd3c6bde/script.js"
+  ],
+  "images": [
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/compost.png/:/cr=t:21.8%25,l:0%25,w:100%25,h:56.39%25/rs=w:360,h:270.6766917293233,cg:true",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/more%20stone.jpg/:/cr=t:0%25",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:1023",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/Shirts.jpg/:/rs=w:1110",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:2560",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:360,h:270.6766917293233,cg:true",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/stone%20flag.jpg/:/cr=t:0%25",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/new%202%20inch%20minus.jpg/:/cr=t:21.8%25",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:2157",
+    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/Hats.jpg/:/rs=w:370,cg:true,m"
+  ],
+  "api_endpoints": [
+    "https://www.google.com/ccm/geo"
+  ],
+  "forms": [
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "_app_id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "_app_id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "email",
+        "password",
+        "redirect",
+        "app"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "nameFirst",
+        "nameLast",
+        "email",
+        "phone",
+        "beacon"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "email",
+        "password",
+        "redirect",
+        "app"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "_app_id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    }
+  ],
+  "integrations": {
+    "GA_IDs": [
+      "G-BF2FDR6KMM"
+    ]
+  },
+  "tech": [
+    "React",
+    "GTM",
+    "GA4"
+  ],
+  "security_score": 50,
+  "security_grade": "C",
+  "security_findings": {
+    "https": true,
+    "csp": "frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com ",
+    "hsts": "max-age=63072000; includeSubDomains; preload",
+    "server": "DPS/2.0.0-beta+sha-91a43b8"
+  },
+  "robots_txt": "User-agent: *\n",
+  "sitemap_urls": [],
+  "meta_tags": {
+    "description": "",
+    "keywords": "",
+    "og_title": "Cascade Concrete Products",
+    "og_desc": ""
+  },
+  "schema_data": [],
+  "nav_links": [
+    "/dust-control",
+    "/",
+    "/current-permitting",
+    "/our-work",
+    "/landscape-stone",
+    "/snow-plowing",
+    "/promo-gear-1",
+    "/cascade-concrete-blog",
+    "/calculators",
+    "/contact-us",
+    "/pre-cast",
+    "/concrete",
+    "/products",
+    "/product-usages"
+  ],
+  "headings": [
+    "Welcome to cascade concrete products co inc.",
+    "Pit Information",
+    "Calculators",
+    "Our Blog",
+    "Pre-Cast",
+    "Landscape Stone",
+    "Contact Us",
+    "Account sign in",
+    "Create Account",
+    "Concrete",
+    "Product usage",
+    "Photo Gallery"
+  ],
+  "cta_texts": [
+    "Create Account",
+    "Send",
+    "Drop us a line!",
+    "Sign in"
+  ],
+  "pricing_signals": [
+    "$22.75",
+    "$53.00",
+    "$37.00",
+    "$30.90",
+    "$9.75",
+    "$48.00",
+    "$35.00",
+    "$167.50",
+    "$36.00",
+    "$29.05"
+  ],
+  "assets_downloaded": 33,
+  "drive_folder_id": "1_dPf7S7GdfxTxaprhstTB1c555eqfbZR",
+  "drive_folder_url": "https://drive.google.com/drive/folders/1_dPf7S7GdfxTxaprhstTB1c555eqfbZR",
+  "status": "complete",
+  "errors": [],
+  "duration": 15.7,
+  "nav_structure": [
+    "/dust-control",
+    "/current-permitting",
+    "/promo-gear-1",
+    "/our-work",
+    "/landscape-stone",
+    "/snow-plowing",
+    "/cascade-concrete-blog",
+    "/calculators",
+    "/contact-us",
+    "/pre-cast",
+    "/concrete",
+    "/products",
+    "/product-usages"
+  ]
+}
