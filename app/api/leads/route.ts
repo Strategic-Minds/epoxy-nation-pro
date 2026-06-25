@@ -1,39 +1,43 @@
-import { NextResponse } from "next/server";
-import { scoreLead } from "@/lib/brand";
-import { sendLeadSmsNotifications, type LeadSmsPayload } from "@/lib/twilio";
+import { NextRequest, NextResponse } from "next/server";
 
-export async function POST(request: Request) {
-  const formData = await request.formData();
-  const files = formData.getAll("photos").filter((file) => file instanceof File && file.size > 0);
+export async function POST(req: NextRequest) {
+  try {
+    const body = await req.json();
+    const { name, email, phone, source, city, sqft, projectType, timeline } = body;
 
-  const lead: Omit<LeadSmsPayload, "score" | "photoCount"> = {
-    fullName: String(formData.get("fullName") || ""),
-    phone: String(formData.get("phone") || ""),
-    email: String(formData.get("email") || ""),
-    projectType: String(formData.get("projectType") || ""),
-    squareFootage: String(formData.get("squareFootage") || ""),
-    timeline: String(formData.get("timeline") || ""),
-    budget: String(formData.get("budget") || ""),
-    smsConsent: String(formData.get("smsConsent") || "") === "yes"
-  };
+    // Log to console (Supabase can be added when keys are provided)
+    console.log("New lead:", { name, email, phone, source, city, sqft, projectType, timeline });
 
-  const score = scoreLead(lead.timeline, files.length > 0, lead.budget.length > 0);
-  const smsNotifications = await sendLeadSmsNotifications({
-    ...lead,
-    score,
-    photoCount: files.length
-  });
+    // Attempt Supabase insert if env vars present
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+    const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
-  return NextResponse.json({
-    ok: true,
-    score,
-    sms: {
-      configured: smsNotifications.configured,
-      ownerAlertSent: smsNotifications.ownerAlertSent,
-      customerConfirmationSent: smsNotifications.customerConfirmationSent,
-      skipped: smsNotifications.skipped,
-      errors: process.env.NODE_ENV === "production" ? [] : smsNotifications.errors
-    },
-    message: "Lead captured. Twilio SMS notifications run automatically when production credentials are configured."
-  });
+    if (supabaseUrl && supabaseKey) {
+      await fetch(`${supabaseUrl}/rest/v1/leads`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "apikey": supabaseKey,
+          "Authorization": `Bearer ${supabaseKey}`,
+          "Prefer": "return=minimal",
+        },
+        body: JSON.stringify({
+          name, email, phone,
+          source: source || "homepage",
+          city: city || "Phoenix",
+          status: "new",
+          score: 70,
+        }),
+      });
+    }
+
+    return NextResponse.json({ success: true, message: "Lead received" });
+  } catch (error) {
+    console.error("Lead submission error:", error);
+    return NextResponse.json({ success: false }, { status: 500 });
+  }
+}
+
+export async function GET() {
+  return NextResponse.json({ status: "Lead API active — Epoxy Nation Pro" });
 }
