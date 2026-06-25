@@ -1,5 +1,5 @@
 """
-BASE44 ↔ AWOS SYNC AGENT v2.0
+BASE44 ↔ AWOS SYNC AGENT v2.1
 ==============================
 Bridges Base44 Superagent with:
   - Supabase (bridge_commands, bridge_tasks, agent_memory)
@@ -7,8 +7,8 @@ Bridges Base44 Superagent with:
   - Google Drive (Brain KB folder)
   - AUTO_BUILDER MCP (20 live tools)
 
-FIX v2.0: Uses upsert (merge-duplicates) to handle unique constraint
-on agent_memory(agent_id, key) — eliminates 409 duplicate key errors.
+FIX v2.1: PATCH-first → on_conflict upsert → 409 PATCH fallback.
+         merge-duplicates alone unreliable on agent_memory table.
 
 Bridge schema:
   bridge_commands (parent) → bridge_tasks (child, FK: command_ref → bridge_commands.id)
@@ -280,21 +280,39 @@ async def push_base44_state(session: aiohttp.ClientSession) -> Dict:
             rows = await r_patch.json()
             if isinstance(rows, list) and rows:
                 return {"written": True, "memory_id": rows[0].get("id")}
-    # No existing row — insert fresh
+    # PATCH returned empty rows — row may not exist yet OR already updated.
+    # FIX v2.1: merge-duplicates is unreliable; use on_conflict param for true upsert
+    UPSERT_H = {**SH_BASE, "Content-Type": "application/json",
+                "Prefer": "return=representation,resolution=merge-duplicates"}
     async with session.post(
-        f"{SUPABASE_URL}/rest/v1/agent_memory",
-        headers=PATCH_H, json={
-            "agent_id": "base44_superagent", "session_id": "awos_sync",
-            "memory_type": "working", "key": "base44_current_state",
-            "value": state, "importance": 9,
-            "tags": ["sync","awos","state","base44","v2"]
-        }
-    ) as r_ins:
-        if r_ins.status in [200, 201]:
-            rows2 = await r_ins.json()
-            if isinstance(rows2, list) and rows2:
-                return {"written": True, "memory_id": rows2[0].get("id")}
-    return {"written": False, "memory_id": None}
+        f"{SUPABASE_URL}/rest/v1/agent_memory?on_conflict=agent_id,key",
+        headers=UPSERT_H,
+        json={"agent_id": "base44_superagent", "session_id": "awos_sync",
+              "memory_type": "working", "key": "base44_current_state",
+              "value": state, "importance": 9,
+              "tags": ["sync","awos","state","base44","v2"]}
+    ) as r_ups:
+        ups_status = r_ups.status
+        try: rows2 = await r_ups.json()
+        except: rows2 = []
+        if ups_status in [200, 201] and isinstance(rows2, list) and rows2:
+            return {"written": True, "memory_id": rows2[0].get("id"), "method": "upsert"}
+        # 409 = row already exists but upsert failed — force PATCH again
+        if ups_status == 409:
+            async with session.patch(
+                f"{SUPABASE_URL}/rest/v1/agent_memory"
+                "?agent_id=eq.base44_superagent&key=eq.base44_current_state",
+                headers={**SH_BASE, "Content-Type": "application/json",
+                          "Prefer": "return=representation"},
+                json={"value": state, "importance": 9, "memory_type": "working",
+                      "session_id": "awos_sync",
+                      "tags": ["sync","awos","state","base44","v2"]}
+            ) as r_p2:
+                if r_p2.status in [200, 201]:
+                    rows3 = await r_p2.json()
+                    if isinstance(rows3, list) and rows3:
+                        return {"written": True, "memory_id": rows3[0].get("id"), "method": "patch_retry"}
+    return {"written": False, "error": f"all_methods_failed", "memory_id": None}
 
 
 # ─────────────────────────────────────────────────────────────────
