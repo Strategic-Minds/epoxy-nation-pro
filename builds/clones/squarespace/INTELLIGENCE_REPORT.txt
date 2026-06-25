@@ -1,0 +1,217 @@
+COMPETITIVE INTELLIGENCE REPORT — SQUARESPACE
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://squarespace.com
+Category:     website_builder
+Overall Score: 86/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  49 (CSS: 15 | JS: 14 | Images: 20)
+API Endpoints:      10
+Forms Found:        3
+Tech Stack Items:   5
+Sitemap URLs:       30
+
+SCORECARD
+---------
+Security:    55/100
+Tech Stack:  60/100
+SEO:        100/100
+Conversion: 100/100
+Design:     100/100
+UX:         100/100
+OVERALL:     86/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + Squarespace
+  + GTM
+  + GA4
+  + Cloudflare
+
+SECURITY AUDIT
+--------------
+Score: 45/100  Grade: C
+  https: True
+  hsts: max-age=15552000
+  x_content_type: nosniff
+  server: Squarespace
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-BCCP']
+
+API ENDPOINTS FOUND
+-------------------
+  /api/1/performance/records
+  /api/auth/Logout?crumb=
+  /api/v1/clanker/validate-event-content/
+  /offers/
+  /api/v1/clanker/events
+  /api/track/Track
+  /api/currencies/customer-inferred
+  /api/me
+  /api/billing/accepted-currencies
+  /api/v1/events
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  A website makes it real
+  Here to help you make it.
+  Appointment scheduling made easy
+  Built-in SEO tools
+  Organize trusted programs that build belonging
+  A smarter platform to grow your education business
+  Build a supportive practice that nourishes every client
+  Organize sports camps families and athletes trust
+
+Meta Description:
+  Create a website and grow your business with a free Squarespace trial. Start with customizable website templates, AI website builder tools, or a domain name.
+
+OG Title:
+  Website Builder – Easily Create Your Own Website &mdash; Squarespace
+
+CTA Buttons Found:
+  Log Out
+  Check Eligibility
+  Log in
+  Join Now
+  Browse templates
+  Try Scheduling
+  Contact Sales
+  Submit
+
+PRICING SIGNALS
+---------------
+  $250
+  $5
+  $50
+  $500,
+  $3
+  $36
+  $14
+  $10
+  $16/mo
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['query']
+  Form: action=POST | method=POST | fields=[]
+  Form: action=POST | method=POST | fields=['firstName', 'lastName', 'email', 'phone', 'company', 'website', 'revenue', 'businessType', 'captcha_settings']
+
+NAVIGATION STRUCTURE
+--------------------
+  /imprint
+  /preise
+  /product-specific-terms
+  /sms-terms
+  /domain-registration-agreement
+  /cgterms
+  /privacy
+  /image-terms
+  /developer-terms
+  /acceptable-use-policy
+  /dpa
+  /terms-of-service
+  /pricing
+  /cookie-policy
+  /
+
+ROBOTS.TXT (preview)
+--------------------
+# Squarespace Robots Txt
+
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: aiHitBot
+User-agent: Amazonbot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-a
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://www.squarespace.com/press-coverage
+  https://www.squarespace.com/press-coverage/2026/6/22/commentary-simple-messages-cinematic-stories-squarespaces-super-bowl-formula
+  https://www.squarespace.com/press-coverage/2026/6/22/squarespaces-corey-zettler-on-building-a-financial-services-suite-for-small-businesses
+  https://www.squarespace.com/press-coverage/2026/6/22/squarespace-unveils-balance-platform-to-make-running-an-smb-easier-more-efficient-and-more-cost-effective
+  https://www.squarespace.com/press-coverage/2026/6/22/emma-stone-on-her-oscar-memories-aliens-and-her-first-computer-in-10-years
+  https://www.squarespace.com/press-coverage/2026/6/22/emma-stone-loves-bad-bunny-bts-and-binging-kpop-demon-hunters-it-reminds-me-of-the-spice-girls
+  https://www.squarespace.com/press-coverage/2026/6/22/universal-orlando-resort-squarespace-reveal-super-bowl-ads
+  https://www.squarespace.com/press-coverage/2026/6/22/no-storefront-needed-get-paid-via-dms-and-qr-codes-with-squarespaces-new-tool
+  https://www.squarespace.com/press-coverage/2026/6/22/advice-line-with-anthony-casalena-of-squarespace
+  https://www.squarespace.com/press-coverage/2026/6/22/inside-squarespace-domains-dnw-podcast-559
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Security score 45/100 — ENP runs enterprise-grade hardened infrastructure
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://assets.squarespace.com/www/assets/styles/components/faq-block.74123668.css
+  https://assets.squarespace.com/www/assets/styles/components/feature-cell.c1e4e21d.css
+  https://assets.squarespace.com/www/assets/styles/components/stacked-section.f39527e6.css
+  https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/3e71080c-1686-44e9-9011-9a6276d50116_739/website.components.code.styles.css
+  https://assets.squarespace.com/www/assets/styles/components/feature-text.91135749.css
+  https://assets.squarespace.com/www/assets/styles/components/images.ee1f584d.css
+  https://static1.squarespace.com/static/ta/5134cbefe4b0c6fb04df8065/13383/assets/styles/regions/legal/index.css
+  https://assets.squarespace.com/www/versioned-assets/styles/external/trustarc.27dccdcd.css
+  https://assets.squarespace.com/universal/styles-compressed/user-account-core-307d50f196c01a72-min.en-US.css
+  https://assets.squarespace.com/www/versioned-assets/styles/pages/enterprise/index.e8d4b97a.css
+
+JS BUNDLES DOWNLOADED (14)
+  https://assets.squarespace.com/www/scripts/global-react-components/Navigation/variants/page-toolkit/DefaultDarkBackground/index.72abf12f.js
+  https://assets.squarespace.com/www/scripts/generated-pages/tour-seo-tools.fa329988.js
+  https://assets.squarespace.com/www/scripts/components/link.a4b6ffa6.js
+  https://static1.squarespace.com/static/ta/5134cbefe4b0c6fb04df8065/13436/scripts/components/style-guide-grid.js
+  https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-bdf89e58ccd909c7-min.en-US.js
+  https://assets.squarespace.com/www/scripts/components/features-accordion.24219c97.js
+  https://static1.squarespace.com/static/ta/5134cbefe4b0c6fb04df8065/13436/scripts/pages/template-store/taxonomy-ja.js
+  https://assets.squarespace.com/www/scripts/global-react-components/Footer/variants/Default/index.3de39b60.js
+  https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4537614f8b01ab4c-min.en-US.js
+  https://assets.squarespace.com/www/scripts/pages/homepage/default/index.9c2682ae.js
+
+IMAGE ASSETS DOWNLOADED (20)
+  https://media-www.sqspcdn.com/images/pages/flagship/capital/testimonials/good-things-mobile-1500w.jpg
+  https://media-www.sqspcdn.com/images/pages/vertical/parents/charities-nonprofits/sidebyside/feature3-2500w.jpg
+  https://media-www.sqspcdn.com/images/pages/flagship/scheduling/schedules/calendar/en/calendar-mobile-2-300w.jpg
+  https://media-www.sqspcdn.com/images/pages/vertical/parents/education-training/hero/music-teachers-100w.jpg
+  https://media-www.sqspcdn.com/images/pages/flagship/capital/grow-your-business/repayment-tablet-750w.jpg
+  https://media-www.sqspcdn.com/images/pages/enterprise-landing/hero/hero-desktop-4-2500w.webp
+  https://media-www.sqspcdn.com/images/pages/vertical/parents/charities-nonprofits/sidebyside/feature2-1-2500w.jpg
+  https://media-www.sqspcdn.com/images/pages/homepage-2025/grow-your-business/online-store-desktop-100w.jpg
+  https://media-www.sqspcdn.com/images/pages/vertical/parents/charities-nonprofits/hero/community-groups-2500w.webp
+  https://media-www.sqspcdn.com/images/pages/flagship/scheduling/schedules/booking/en/booking-tablet-2-300w.jpg
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
