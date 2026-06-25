@@ -1,0 +1,298 @@
+{
+  "site": "animaapp.com",
+  "cloned_at": "2026-06-25T09:11:14.550634+00:00",
+  "total_extraction_seconds": 3.1,
+  "layers_completed": [
+    "L4_crawl",
+    "L5_design",
+    "L6_api",
+    "L7_mcp",
+    "L8_infra",
+    "L9_subdomain"
+  ],
+  "layer4_crawl": {
+    "pages_fetched": 50,
+    "pricing": [],
+    "emails": [
+      "support@animaapp.com",
+      "copyright@animaapp.com",
+      "press@animaapp.com"
+    ],
+    "features": [
+      "Match a Brand",
+      "Masoud Rawahi",
+      "Aditya Kumar Saroj",
+      "Ship apps with real data",
+      "Eric Simons",
+      "Design high-fidelity prototypes",
+      "Designer-developer collaboration",
+      "Enzo Faleiro",
+      "Deepak Mathews Koshy",
+      "Parallel chats",
+      "Figma to code via API",
+      "Stephen Callender",
+      "cobi.bean",
+      "On-brand vibe coding for all",
+      "Try it out today"
+    ],
+    "h2s": [
+      "Works with your tech stack",
+      "Build full websites &amp; webapps",
+      "Turn your design into a live web app",
+      "Inject code into existing projects",
+      "Do more with less",
+      "Select a component, get code",
+      "Launch &amp; share effortlessly",
+      "Figma to live website or webapp",
+      "Ship high-performance websites and landing pages",
+      "What can Anima do for you?",
+      "Build an MVP in a day",
+      "AI Frontend automation",
+      "Design UX with AI",
+      "On-brand Vibe coding",
+      "Build by chat",
+      "Build interactive and fully responsive prototypes",
+      "Design with AI directly inside Figma",
+      "Who is it for?",
+      "Convert design to code",
+      "Embed live videos and Gifs"
+    ]
+  },
+  "layer5_design": {
+    "css_variables_count": 0,
+    "colors": [],
+    "fonts": [],
+    "breakpoints": [],
+    "animations": [],
+    "top_css_vars": {}
+  },
+  "layer6_api": {
+    "open_endpoints": [
+      "https://api.animaapp.com",
+      "https://api.animaapp.com/rpc/get_personalization_data",
+      "https://projects.animaapp.com",
+      "https://projects.animaapp.com/login",
+      "https://ipapi.co/json/",
+      "https://docs.animaapp.com/docs/anima-mcp",
+      "https://playground-api.animaapp.com/health"
+    ],
+    "auth_required": [
+      "https://c.animaapp.com/4",
+      "https://c.animaapp.com/api",
+      "https://api.animaapp.com/v1/auth/login"
+    ],
+    "not_found": 23,
+    "redirects": 0
+  },
+  "layer7_mcp": {
+    "https://docs.animaapp.com/docs/anima-mcp": {
+      "status": 200,
+      "body": "<!DOCTYPE html><html lang=\"en\" style=\"\" data-color-mode=\"system\" class=\" useReactApp  \"><head><meta charset=\"utf-8\"><meta name=\"readme-deploy\" content=\"5.781.3\"><meta name=\"readme-subdomain\" content=\"animaapp\"><meta name=\"readme-repo\" content=\"animaapp-37e52da41e27\"><meta name=\"readme-project-flags\" content=\"1rwSl58Zr40p6bF0a7cxUA==:VbQQy64LjJ0n2XzPhhGT6YelqsUf9jpHHJOAhB2lRF6i2shUnDhjbEjDg/LhaKls38w++g/cxc9hE8UO6/Bn++CLOfuursKN/hMU7sOvhnxLW7dLyURPj7CyhDxXDa/KFpmZM0QUpj6/PS1LKpYyaHDuhE+GHzguMDQTs9jKLLU=\"><meta name=\"readme-version\" content=\"1.0\"><title>Anima MCP</title><meta name=\"description\" content=\"Shellclaude mcp add --transport http anima https://public-api.animaapp.com/v1/mcp\n\ud83d\udcd8Connect your AI coding agent to Anima Playground, Figma designs, and your team's design system.\nAnima MCP connects your AI coding assistant directly to Anima Playground. It bridges the gap between PM prototypes and p\u2026\" data-rh=\"true\"><meta property=\"og:title\" content=\"Anima MCP\" data-rh=\"true\"><meta propert"
+    }
+  },
+  "layer8_infra": {
+    "animaapp.com": {
+      "ip": "13.226.238.82",
+      "resolves": true,
+      "ssl_issuer": "Amazon",
+      "san": [
+        "animaapp.com",
+        "*.animaapp.com"
+      ]
+    },
+    "www.animaapp.com": {
+      "ip": "13.226.238.111",
+      "resolves": true,
+      "ssl_issuer": "Amazon",
+      "san": [
+        "animaapp.com",
+        "*.animaapp.com"
+      ]
+    },
+    "api.animaapp.com": {
+      "ip": "34.223.245.244",
+      "resolves": true,
+      "ssl_issuer": "Let's Encrypt",
+      "san": [
+        "api.animaapp.com",
+        "projects.animaapp.com"
+      ]
+    },
+    "dev.animaapp.com": {
+      "ip": "34.223.245.244",
+      "resolves": true,
+      "ssl_issuer": "Let's Encrypt",
+      "san": [
+        "dev.animaapp.com"
+      ]
+    },
+    "playground-api.animaapp.com": {
+      "ip": "34.223.245.244",
+      "resolves": true,
+      "ssl_issuer": "Let's Encrypt",
+      "san": [
+        "playground-api.animaapp.com"
+      ]
+    },
+    "projects.animaapp.com": {
+      "ip": "13.226.209.24",
+      "resolves": true,
+      "ssl_issuer": "Amazon",
+      "san": [
+        "*.animaapp.com"
+      ]
+    },
+    "docs.animaapp.com": {
+      "ip": "104.16.242.118",
+      "resolves": true,
+      "ssl_issuer": "Google Trust Services",
+      "san": [
+        "docs.animaapp.com"
+      ]
+    },
+    "c.animaapp.com": {
+      "ip": "3.167.99.93",
+      "resolves": true,
+      "ssl_issuer": "Amazon",
+      "san": [
+        "*.animaapp.com"
+      ]
+    },
+    "mcp.animaapp.com": {
+      "ip": null,
+      "resolves": false,
+      "ssl_issuer": "",
+      "san": []
+    },
+    "cdn.animaapp.com": {
+      "ip": "3.171.38.86",
+      "resolves": true,
+      "ssl_issuer": "Amazon",
+      "san": [
+        "*.animaapp.com"
+      ]
+    },
+    "assets.animaapp.com": {
+      "ip": null,
+      "resolves": false,
+      "ssl_issuer": "",
+      "san": []
+    },
+    "storage.animaapp.com": {
+      "ip": null,
+      "resolves": false,
+      "ssl_issuer": "",
+      "san": []
+    }
+  },
+  "layer9_subdomains": {
+    "live": [
+      {
+        "subdomain": "api.animaapp.com",
+        "ip": "54.185.13.62"
+      },
+      {
+        "subdomain": "dev.animaapp.com",
+        "ip": "34.223.245.244"
+      },
+      {
+        "subdomain": "beta.animaapp.com",
+        "ip": "13.226.238.82"
+      },
+      {
+        "subdomain": "test.animaapp.com",
+        "ip": "52.41.190.204"
+      },
+      {
+        "subdomain": "admin.animaapp.com",
+        "ip": "3.170.19.53"
+      },
+      {
+        "subdomain": "accounts.animaapp.com",
+        "ip": "18.67.65.83"
+      },
+      {
+        "subdomain": "cdn.animaapp.com",
+        "ip": "3.171.38.40"
+      },
+      {
+        "subdomain": "static.animaapp.com",
+        "ip": "3.171.76.118"
+      },
+      {
+        "subdomain": "s3.animaapp.com",
+        "ip": "35.160.8.22"
+      },
+      {
+        "subdomain": "docs.animaapp.com",
+        "ip": "104.16.242.118"
+      },
+      {
+        "subdomain": "support.animaapp.com",
+        "ip": "3.167.112.94"
+      },
+      {
+        "subdomain": "blog.animaapp.com",
+        "ip": "52.85.193.125"
+      },
+      {
+        "subdomain": "stats.animaapp.com",
+        "ip": "34.211.71.74"
+      },
+      {
+        "subdomain": "email.animaapp.com",
+        "ip": "34.110.180.34"
+      },
+      {
+        "subdomain": "slack.animaapp.com",
+        "ip": "52.5.82.174"
+      },
+      {
+        "subdomain": "playground.animaapp.com",
+        "ip": "54.185.13.62"
+      },
+      {
+        "subdomain": "status.animaapp.com",
+        "ip": "3.167.37.96"
+      }
+    ],
+    "open_paths": [
+      {
+        "path": "/api",
+        "status": 200,
+        "ct": "",
+        "size": 237065
+      },
+      {
+        "path": "/dashboard",
+        "status": 200,
+        "ct": "",
+        "size": 1359
+      },
+      {
+        "path": "/robots.txt",
+        "status": 200,
+        "ct": "",
+        "size": 125
+      },
+      {
+        "path": "/sitemap.xml",
+        "status": 200,
+        "ct": "",
+        "size": 6279
+      },
+      {
+        "path": "/favicon.ico",
+        "status": 200,
+        "ct": "",
+        "size": 4286
+      },
+      {
+        "path": "/changelog",
+        "status": 200,
+        "ct": "",
+        "size": 153139
+      }
+    ]
+  }
+}
