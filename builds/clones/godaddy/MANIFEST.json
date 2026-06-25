@@ -1,42 +1,54 @@
 {
   "slug": "godaddy",
   "url": "https://godaddy.com/websites",
-  "cat": "website_builder",
-  "pages_scraped": 1,
-  "css_files": [],
-  "js_files": [],
-  "images": [],
+  "category": "website_builder",
+  "cloned_at": "2026-06-25T08:47:00.566251",
+  "extraction": {
+    "pages_scraped": 1,
+    "css_files_downloaded": 0,
+    "js_bundles_downloaded": 0,
+    "images_downloaded": 0,
+    "fonts_downloaded": 0
+  },
+  "security": {
+    "score": 30,
+    "grade": "D",
+    "findings": {
+      "https": true,
+      "x_frame": "DENY",
+      "server": "AkamaiGHost"
+    }
+  },
+  "tech_stack": [],
+  "integrations": {},
+  "deep_js_analysis": {},
   "api_endpoints": [],
   "forms": [],
-  "integrations": {},
-  "tech": [],
-  "security_score": 30,
-  "security_grade": "D",
-  "security_findings": {
-    "https": true,
-    "x_frame": "DENY",
-    "server": "AkamaiGHost"
-  },
-  "robots_txt": "",
-  "sitemap_urls": [],
   "meta_tags": {
     "description": "",
     "keywords": "",
     "og_title": "",
     "og_desc": ""
   },
-  "schema_data": [],
-  "nav_links": [],
   "headings": [
     "Access Denied"
   ],
   "cta_texts": [],
   "pricing_signals": [],
-  "assets_downloaded": 0,
-  "drive_folder_id": "1HISKUM32iN4yo1hdvgWUiTYpIVTTj-pc",
+  "sitemap_urls": [],
+  "nav_links": [],
+  "schema_data": [],
+  "robots_txt": "",
+  "assets": {
+    "css": [],
+    "js": [],
+    "images": [],
+    "fonts": [],
+    "pages": [
+      "page_00.html"
+    ]
+  },
   "drive_folder_url": "https://drive.google.com/drive/folders/1HISKUM32iN4yo1hdvgWUiTYpIVTTj-pc",
-  "status": "complete",
-  "errors": [],
-  "duration": 0.2,
-  "nav_structure": []
+  "github_path": "builds/clones/godaddy/",
+  "storage_complete": true
 }
