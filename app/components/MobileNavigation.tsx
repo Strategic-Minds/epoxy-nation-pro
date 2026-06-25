@@ -200,7 +200,7 @@ export function MobileNavigation() {
         aria-label="Site navigation"
       >
         <div className="mnav-head">
-          <img src="/images/logo-header.webp" alt="Phoenix Epoxy Pros" />
+          <div style="display:flex;align-items:center;gap:10px"><div style="width:32px;height:32px;background:#F6B800;border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:900;color:#000">ENP</div><span style="color:#fff;font-weight:900;font-size:15px">Epoxy Nation Pro</span></div>
           <button className="mnav-x" onPointerDown={() => setOpen(false)} aria-label="Close menu">✕</button>
         </div>
 
