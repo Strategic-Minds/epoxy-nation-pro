@@ -15,7 +15,7 @@ export default function CustomerDashboardPage() {
       {/* Nav */}
       <nav style={{ background: "#1a1a1a", display: "flex", alignItems: "center", justifyContent: "space-between", padding: "0 32px", height: 64, position: "sticky", top: 0, zIndex: 50 }}>
         <a href="/" style={{ display: "flex", alignItems: "center", gap: 10, textDecoration: "none" }}>
-          <img src={brand.assets.logo} alt={brand.name} style={{ height: 40, width: 40, borderRadius: 6, background: "#333", objectFit: "contain" }} />
+          <img src={"/images/logo-header.webp"} alt={brand.name} style={{ height: 40, width: 40, borderRadius: 6, background: "#333", objectFit: "contain" }} />
           <div>
             <div style={{ color: "#d4a017", fontWeight: 900, fontSize: "1rem", textTransform: "uppercase", letterSpacing: 1 }}>Phoenix Epoxy Pros</div>
           </div>
