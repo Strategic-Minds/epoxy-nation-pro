@@ -1,0 +1,660 @@
+[
+  {
+    "slug": "quality-epoxy",
+    "url": "https://qualityepoxy.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "Bootstrap",
+      "jQuery",
+      "GTM"
+    ],
+    "headings": [
+      "We install the best FULL polyaspartic-1\u201d flake floors you will ever see",
+      "Check out our videos",
+      "Happy clients",
+      "Get your free QUOTEor give us a call now!",
+      "Quality Epoxy is a world leader Concrete Floor Coating Specialist...and they hav"
+    ],
+    "meta_desc": "Full Polyaspartic 1",
+    "cta_texts": [],
+    "pricing_signals": [],
+    "security_score": 30,
+    "security_grade": "D",
+    "assets": 43,
+    "drive_folder_id": "1yaq_RmcZKlgunL0W1yBmTpoV8zUNXRLF",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1yaq_RmcZKlgunL0W1yBmTpoV8zUNXRLF",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": false,
+    "duration": 0.83
+  },
+  {
+    "slug": "stronghold-floors",
+    "url": "https://strongholdfloors.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "HubSpot",
+      "GTM"
+    ],
+    "headings": [
+      "Stronghold Floors",
+      "Stronghold Floors",
+      "Professional Epoxy Garage Floors Built to Last",
+      "Professional Epoxy Garage Floors Built to Last",
+      "The Strongest Name in Epoxy Floor Coatings Across the Mid Atlantic",
+      "Residential and Commercial Epoxy Flooring"
+    ],
+    "meta_desc": "Epoxy garage floor specialists with 21 years of experience and 9,000+ installs. Stronghold Floors serves PA, MD &amp; VA. Lifetime warranty and free quotes.",
+    "cta_texts": [
+      "Get a Free Quote"
+    ],
+    "pricing_signals": [],
+    "security_score": 70,
+    "security_grade": "B",
+    "assets": 63,
+    "drive_folder_id": "1VnFkbh7KhoqjeQzQNrv8Rko-DsNwzEyZ",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1VnFkbh7KhoqjeQzQNrv8Rko-DsNwzEyZ",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 1.42
+  },
+  {
+    "slug": "garage-experts",
+    "url": "https://garageexperts.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "GTM"
+    ],
+    "headings": [
+      "Epoxy &amp; Polyaspartic Garage Floor Coatings",
+      "Durable Flooring Systems &amp; Garage Storage Solutions",
+      "Make The Most Of Your Garage"
+    ],
+    "meta_desc": "GarageExperts\u00ae offers high-quality epoxy flooring and custom storage solutions for residential and commercial spaces, all backed by a limited lifetime warranty. Schedule your free estimate today!",
+    "cta_texts": [
+      "Garage Design Center",
+      "industrial",
+      "Get Your Free Estimate",
+      "Commercial & Industrial Epoxy Flooring"
+    ],
+    "pricing_signals": [],
+    "security_score": 100,
+    "security_grade": "A",
+    "assets": 60,
+    "drive_folder_id": "1MPB8-OUTPzXkLlp5H6pQ0caulSF26sua",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1MPB8-OUTPzXkLlp5H6pQ0caulSF26sua",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 1.86
+  },
+  {
+    "slug": "cascade-concrete",
+    "url": "https://cascadeconcrete.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "GTM"
+    ],
+    "headings": [
+      "Welcome to cascade concrete products co inc.",
+      "About Us",
+      "hours of operation"
+    ],
+    "meta_desc": "",
+    "cta_texts": [
+      "Sign In"
+    ],
+    "pricing_signals": [
+      "$,"
+    ],
+    "security_score": 70,
+    "security_grade": "B",
+    "assets": 9,
+    "drive_folder_id": "1NlfEsYbFQsJntuesW6khm9gvpnRlyAhc",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1NlfEsYbFQsJntuesW6khm9gvpnRlyAhc",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 0.08
+  },
+  {
+    "slug": "dallas-epoxy-pros",
+    "url": "https://dallasdepoxypros.com",
+    "cat": "epoxy_competitor",
+    "status": "error",
+    "tech": [],
+    "headings": [],
+    "meta_desc": "",
+    "cta_texts": [],
+    "pricing_signals": [],
+    "security_score": 0,
+    "security_grade": "F",
+    "assets": 0,
+    "drive_folder_id": null,
+    "drive_folder_url": null,
+    "error": "Cannot connect to host dallasdepoxypros.com:443 ssl:False [Name or service not known]",
+    "duration": 0.01
+  },
+  {
+    "slug": "level10-coatings",
+    "url": "https://level10coatings.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "WordPress",
+      "Bootstrap",
+      "jQuery",
+      "GTM"
+    ],
+    "headings": [
+      "Concrete Coatings For Homes And Businesses",
+      "Get Your Quote Today!",
+      "Limited-Time Savings!",
+      "Common Concrete Flooring Problems We Solve",
+      "The Level 10 Experience"
+    ],
+    "meta_desc": "Transform your concrete floors with durable, 1-day polyurea and polyaspartic coatings. Serving Northern Indiana, Chicagoland, and Southwest Michigan.\u200b",
+    "cta_texts": [
+      "Get a Price",
+      "Front Entryways"
+    ],
+    "pricing_signals": [
+      "$7",
+      "$750",
+      "$13"
+    ],
+    "security_score": 30,
+    "security_grade": "D",
+    "assets": 93,
+    "drive_folder_id": "15N8jgMiGOqcWhpQGxHmq_2AfhoO8Q3Mn",
+    "drive_folder_url": "https://drive.google.com/drive/folders/15N8jgMiGOqcWhpQGxHmq_2AfhoO8Q3Mn",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": false,
+    "duration": 1.96
+  },
+  {
+    "slug": "epoxy-floors-texas",
+    "url": "https://epoxyfloorstexas.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "WordPress",
+      "jQuery"
+    ],
+    "headings": [
+      "Fill out the quick contact form for a free estimate, and receive a $150 savings ",
+      "We believe in Texans helping Texans",
+      "We have completed projects for"
+    ],
+    "meta_desc": "The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin &amp; Surrounding. New 1-Day Install. 100% Solids Epoxy",
+    "cta_texts": [],
+    "pricing_signals": [
+      "$150"
+    ],
+    "security_score": 45,
+    "security_grade": "C",
+    "assets": 46,
+    "drive_folder_id": "1pAnlsGxJfHuuRGzZD9gwYRjPDArwDZXO",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1pAnlsGxJfHuuRGzZD9gwYRjPDArwDZXO",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": false,
+    "duration": 2.76
+  },
+  {
+    "slug": "torginol",
+    "url": "https://torginol.com",
+    "cat": "epoxy_supplier",
+    "status": "scraped",
+    "tech": [
+      "GTM"
+    ],
+    "headings": [
+      "Resinous\u00a0Floor Finishes"
+    ],
+    "meta_desc": "For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.",
+    "cta_texts": [
+      "Start Visualizing",
+      "Grab a Free Sample",
+      "Design your floor"
+    ],
+    "pricing_signals": [
+      "$33.00",
+      "$1.00",
+      "$27.00",
+      "$45.00"
+    ],
+    "security_score": 60,
+    "security_grade": "B",
+    "assets": 88,
+    "drive_folder_id": "1dhMeQWWy4X0BbC3vXHBoTckstqre_hkn",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1dhMeQWWy4X0BbC3vXHBoTckstqre_hkn",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": false,
+    "duration": 0.41
+  },
+  {
+    "slug": "penntek",
+    "url": "https://penntek.com",
+    "cat": "epoxy_competitor",
+    "status": "scraped",
+    "tech": [
+      "Webflow",
+      "jQuery",
+      "GTM"
+    ],
+    "headings": [
+      "Penntek Concrete Coatings",
+      "Penntek vs Traditional Coatings",
+      "Find a Dealer",
+      "High-Performance Floor Systems Built to Last",
+      "The Penntek Advantage",
+      "Choose Your Coating"
+    ],
+    "meta_desc": "",
+    "cta_texts": [
+      "REQUEST\u00a0A\u00a0QUOTE",
+      "Request a Quote",
+      "Request a quote",
+      "INdustrial",
+      "INDUSTRIAL"
+    ],
+    "pricing_signals": [],
+    "security_score": 85,
+    "security_grade": "A",
+    "assets": 39,
+    "drive_folder_id": "1Jg1-iqqR-2W5mo_l6n1l-1KK9uZSA3vp",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1Jg1-iqqR-2W5mo_l6n1l-1KK9uZSA3vp",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 1.65
+  },
+  {
+    "slug": "webflow",
+    "url": "https://webflow.com",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "Webflow",
+      "jQuery",
+      "GTM"
+    ],
+    "headings": [
+      "Make your website a growth engine",
+      "Make websites that drive results",
+      "Platform",
+      "Build",
+      "Manage",
+      "Optimize"
+    ],
+    "meta_desc": "",
+    "cta_texts": [
+      "Designer",
+      "Freelancers",
+      "Start for free",
+      "Design",
+      "Design teams"
+    ],
+    "pricing_signals": [
+      "$500",
+      "$6",
+      "$200",
+      "$300",
+      "$10"
+    ],
+    "security_score": 85,
+    "security_grade": "A",
+    "assets": 197,
+    "drive_folder_id": "1Y6hhOJOPSSS0uvkYS39OiP0LgofnFo1X",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1Y6hhOJOPSSS0uvkYS39OiP0LgofnFo1X",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 0.35
+  },
+  {
+    "slug": "framer",
+    "url": "https://framer.com",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "Webflow",
+      "Framer",
+      "Shopify",
+      "GTM"
+    ],
+    "headings": [
+      "Framer is the AI website builder for standout sites",
+      "Shipped with Framer",
+      "Agents that work alongside you, not instead of you",
+      "Not just vibes, a full platform",
+      "Built on a community that isn\u2019t going anywhere"
+    ],
+    "meta_desc": "Create a professional website with Framer\u2019s no-code AI website builder. Design freely, manage CMS content, optimize SEO, collaborate, and publish fast.",
+    "cta_texts": [
+      "Quick Start"
+    ],
+    "pricing_signals": [],
+    "security_score": 80,
+    "security_grade": "A",
+    "assets": 172,
+    "drive_folder_id": "1w8mVmC43tzX0v7SfwciG2pGrwqExOcp-",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1w8mVmC43tzX0v7SfwciG2pGrwqExOcp-",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": true,
+    "duration": 1.28
+  },
+  {
+    "slug": "wix",
+    "url": "https://wix.com",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "React",
+      "Wix"
+    ],
+    "headings": [
+      "The new way to create a website",
+      "Flow between instant generation and&nbsp;hand-crafted design",
+      "Website templates are another way in",
+      "Prompt, ask, bounce ideas. We can do it all together. I&rsquo;m your personal we",
+      "Extreme customization. Absolute control."
+    ],
+    "meta_desc": "Get everything you need to build a website your way. Wix\u2019s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.",
+    "cta_texts": [
+      "Website Design",
+      "Online Booking",
+      "Free Business Tools"
+    ],
+    "pricing_signals": [
+      "$1",
+      "$,"
+    ],
+    "security_score": 65,
+    "security_grade": "B",
+    "assets": 120,
+    "drive_folder_id": "17xf6pan5CJcApM9WyzZXUpaclC5ykSbM",
+    "drive_folder_url": "https://drive.google.com/drive/folders/17xf6pan5CJcApM9WyzZXUpaclC5ykSbM",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": true,
+    "duration": 0.82
+  },
+  {
+    "slug": "squarespace",
+    "url": "https://squarespace.com",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "Squarespace",
+      "GTM"
+    ],
+    "headings": [
+      "A website makes it real",
+      "Grow your business",
+      "Everything you need on one platform",
+      "Getting started has never been easier with AI",
+      "Start with a website template designed for your business"
+    ],
+    "meta_desc": "Create a website and grow your business with a free Squarespace trial. Start with customizable website templates, AI website builder tools, or a domain name.",
+    "cta_texts": [
+      "Get Started",
+      "Start with this template",
+      "Start a Free Trial",
+      "Get started"
+    ],
+    "pricing_signals": [
+      "$14",
+      "$36",
+      "$16/mo"
+    ],
+    "security_score": 65,
+    "security_grade": "B",
+    "assets": 95,
+    "drive_folder_id": "1Mc2WxDg_S5WVsi8U3SkeTJ5CzAwpbX6Y",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1Mc2WxDg_S5WVsi8U3SkeTJ5CzAwpbX6Y",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": true,
+    "duration": 1.64
+  },
+  {
+    "slug": "shopify",
+    "url": "https://shopify.com",
+    "cat": "ecommerce_builder",
+    "status": "scraped",
+    "tech": [
+      "React",
+      "Shopify",
+      "GTM"
+    ],
+    "headings": [
+      "Be the nextAI all-star",
+      "store they line up for",
+      "Your brand has entered the\u00a0chat",
+      "Meet your secret weapon,\u00a0Sidekick",
+      "There\u2019s no better place for you to\u00a0build"
+    ],
+    "meta_desc": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
+    "cta_texts": [
+      "Free Tools",
+      "Get a stunning store",
+      "Start for free"
+    ],
+    "pricing_signals": [
+      "$4",
+      "$125.00",
+      "$5",
+      "$1,600,000,000,000",
+      "$5,100,000"
+    ],
+    "security_score": 65,
+    "security_grade": "B",
+    "assets": 57,
+    "drive_folder_id": "1xYB2rOoUucmfilNgvsIsfr7ORaBvdg9J",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1xYB2rOoUucmfilNgvsIsfr7ORaBvdg9J",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": true,
+    "duration": 1.49
+  },
+  {
+    "slug": "duda",
+    "url": "https://duda.co",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "Webflow",
+      "HubSpot",
+      "GTM"
+    ],
+    "headings": [
+      "The AI",
+      "ready website",
+      "platform built for pros",
+      "The AI",
+      "ready",
+      "website platform built for pros"
+    ],
+    "meta_desc": "Build and sell high-converting websites at scale with the best white label professional website builder. Start your free trial today.",
+    "cta_texts": [
+      "AI Widget Builder",
+      "Bookings",
+      "get started today for free",
+      "Start free trial",
+      "Duda helps your sites get discovered."
+    ],
+    "pricing_signals": [],
+    "security_score": 100,
+    "security_grade": "A",
+    "assets": 141,
+    "drive_folder_id": "1WH-W0owuMlJdPtw0d3eGyKEOTd6J0_CV",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1WH-W0owuMlJdPtw0d3eGyKEOTd6J0_CV",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 1.36
+  },
+  {
+    "slug": "wordpress",
+    "url": "https://wordpress.org",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [
+      "WordPress",
+      "GTM"
+    ],
+    "headings": [
+      "Meet WordPress",
+      "Design",
+      "Build",
+      "Extend",
+      "See what&#039;s new"
+    ],
+    "meta_desc": "Open source software which you can use to easily create a beautiful website, blog, or app.",
+    "cta_texts": [
+      "Try the Block Editor",
+      "Get WordPress",
+      "Design",
+      "Get started",
+      "Get Involved"
+    ],
+    "pricing_signals": [],
+    "security_score": 65,
+    "security_grade": "B",
+    "assets": 28,
+    "drive_folder_id": "1N7w_CveXVnVazuuESh6K6KmdDUbFhYDz",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1N7w_CveXVnVazuuESh6K6KmdDUbFhYDz",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": true,
+    "duration": 0.86
+  },
+  {
+    "slug": "leadpages",
+    "url": "https://leadpages.com",
+    "cat": "landing_builder",
+    "status": "scraped",
+    "tech": [
+      "Next.js",
+      "Webflow",
+      "HubSpot",
+      "Klaviyo",
+      "GTM"
+    ],
+    "headings": [
+      "AI Landing Page Builder: Get smarterwith every",
+      "Most landing pages take days to build. Then never improve.",
+      "Reclaim your energy.Transform how you feel.Find your flow.Your transformation st",
+      "Leadpages AI",
+      "One platform. No extra tools."
+    ],
+    "meta_desc": "AI landing pages with built-in A/B testing, Smart Traffic, and heatmaps. Create pages in 60 seconds. Optimize automatically. No traffic caps. Starting at $99/mo.",
+    "cta_texts": [
+      "Or see a 2-minute demo \u2192",
+      "Start 7-Day Free Trial",
+      "Try this \u2192"
+    ],
+    "pricing_signals": [
+      "$66",
+      "$90",
+      "$3,828",
+      "$22",
+      "$948"
+    ],
+    "security_score": 100,
+    "security_grade": "A",
+    "assets": 87,
+    "drive_folder_id": "1IFaVNPbxIbXn7umWnZEiqIa8XOgguw_o",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1IFaVNPbxIbXn7umWnZEiqIa8XOgguw_o",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 0.23
+  },
+  {
+    "slug": "unbounce",
+    "url": "https://unbounce.com",
+    "cat": "landing_builder",
+    "status": "scraped",
+    "tech": [
+      "WordPress",
+      "HubSpot",
+      "jQuery",
+      "GTM"
+    ],
+    "headings": [
+      "Launch faster. Convert more.",
+      "Convert more customers with one platform",
+      "Launch tailored pages in a few clicks",
+      "Everything you need to A/B test in one place",
+      "Let AI and ML do the heavy lifting"
+    ],
+    "meta_desc": "Grow your leads and sales with Unbounce. Easily create, test, and optimize landing pages, and boost conversions using AI insights\u2014start turning traffic into customers today!",
+    "cta_texts": [
+      "Start My Free Trial",
+      "Start building for free",
+      "Get in touch",
+      "Sign Up For Free"
+    ],
+    "pricing_signals": [],
+    "security_score": 100,
+    "security_grade": "A",
+    "assets": 79,
+    "drive_folder_id": "14xt-OsyNTArKWxP-Cpu_Bk4VxIA3cwI1",
+    "drive_folder_url": "https://drive.google.com/drive/folders/14xt-OsyNTArKWxP-Cpu_Bk4VxIA3cwI1",
+    "http_status": 200,
+    "pages": 1,
+    "has_csp": true,
+    "has_hsts": true,
+    "duration": 0.15
+  },
+  {
+    "slug": "godaddy-sites",
+    "url": "https://godaddy.com/websites",
+    "cat": "website_builder",
+    "status": "scraped",
+    "tech": [],
+    "headings": [
+      "Access Denied"
+    ],
+    "meta_desc": "",
+    "cta_texts": [],
+    "pricing_signals": [],
+    "security_score": 45,
+    "security_grade": "C",
+    "assets": 0,
+    "drive_folder_id": "1XWE7WzMqpeIP3_qp40NMx1n9g_dyPE88",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1XWE7WzMqpeIP3_qp40NMx1n9g_dyPE88",
+    "http_status": 403,
+    "pages": 1,
+    "has_csp": false,
+    "has_hsts": false,
+    "duration": 0.87
+  }
+]
