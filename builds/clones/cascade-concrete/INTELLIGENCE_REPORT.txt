@@ -1,0 +1,174 @@
+COMPETITIVE INTELLIGENCE REPORT — CASCADE-CONCRETE
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://cascadeconcrete.com
+Category:     epoxy_competitor
+Overall Score: 62/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      19
+Assets Downloaded:  33 (CSS: 0 | JS: 20 | Images: 13)
+API Endpoints:      1
+Forms Found:        24
+Tech Stack Items:   3
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    50/100
+Tech Stack:  44/100
+SEO:         35/100
+Conversion: 100/100
+Design:      40/100
+UX:         100/100
+OVERALL:     62/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + GTM
+  + GA4
+
+SECURITY AUDIT
+--------------
+Score: 50/100  Grade: C
+  https: True
+  csp: frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com 
+  hsts: max-age=63072000; includeSubDomains; preload
+  server: DPS/2.0.0-beta+sha-91a43b8
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GA_IDs: ['G-BF2FDR6KMM']
+
+API ENDPOINTS FOUND
+-------------------
+  https://www.google.com/ccm/geo
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Welcome to cascade concrete products co inc.
+  Pit Information
+  Calculators
+  Our Blog
+  Pre-Cast
+  Landscape Stone
+  Contact Us
+  Account sign in
+
+Meta Description:
+  
+
+OG Title:
+  Cascade Concrete Products
+
+CTA Buttons Found:
+  Create Account
+  Send
+  Drop us a line!
+  Sign in
+
+PRICING SIGNALS
+---------------
+  $22.75
+  $53.00
+  $37.00
+  $30.90
+  $9.75
+  $48.00
+  $35.00
+  $167.50
+  $36.00
+  $29.05
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['_app_id']
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+
+NAVIGATION STRUCTURE
+--------------------
+  /dust-control
+  /
+  /current-permitting
+  /our-work
+  /landscape-stone
+  /snow-plowing
+  /promo-gear-1
+  /cascade-concrete-blog
+  /calculators
+  /contact-us
+  /pre-cast
+  /concrete
+  /products
+  /product-usages
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ No schema.org structured data — ENP gets rich snippets in Google
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (0)
+
+
+JS BUNDLES DOWNLOADED (20)
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/951337b8a6cc89a6/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/1012cf8ab4d8583f/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/a985ac7096d86ef9/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/fb9225e343648395/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/6dbbce887158c5c4/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/7ebb6913bd1a4e86/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/15e78f28a5a9a2a/script.js
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/857a6491fc140766/script.js
+  https://www.googletagmanager.com/gtag/js?id=G-BF2FDR6KMM
+  https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/5bddba70c509919b/script.js
+
+IMAGE ASSETS DOWNLOADED (13)
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/compost.png/:/cr=t:21.8%25,l:0%25,w:100%25,h:56.39%25/rs=w:360,h:270.6766917293233,cg:true
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/more%20stone.jpg/:/cr=t:0%25
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:1023
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/Shirts.jpg/:/rs=w:1110
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:2560
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:360,h:270.6766917293233,cg:true
+  https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/stone%20flag.jpg/:/cr=t:0%25
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
