@@ -1,0 +1,198 @@
+COMPETITIVE INTELLIGENCE REPORT — DUDA
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://duda.co
+Category:     website_builder
+Overall Score: 74/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      6
+Assets Downloaded:  44 (CSS: 15 | JS: 9 | Images: 20)
+API Endpoints:      6
+Forms Found:        0
+Tech Stack Items:   5
+Sitemap URLs:       30
+
+SCORECARD
+---------
+Security:    80/100
+Tech Stack:  60/100
+SEO:        100/100
+Conversion:  50/100
+Design:     100/100
+UX:          51/100
+OVERALL:     74/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + HubSpot
+  + GTM
+  + GA4
+  + Cloudflare
+
+SECURITY AUDIT
+--------------
+Score: 70/100  Grade: A
+  https: True
+  csp: frame-ancestors 'self'
+  hsts: max-age=31536000; preload
+  x_frame: SAMEORIGIN
+  x_content_type: nosniff
+  cors: *
+  server: nginx
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-MNXB']
+
+API ENDPOINTS FOUND
+-------------------
+  /rts/membership/member
+  https://
+  https://my.duda.co/api/public/accounts/current
+  https://api.ipgeolocation.io/ipgeo?apiKey=7b3f584dc18a498bb409cc358bb45faf
+  /rts/auth/public/users/me
+  /api/uis/flags/notify
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  The AI
+  ready website
+  platform built for pros
+  ready
+  website platform built for pros
+  Built-in AI.
+  ﻿Stand-out productivity
+  Rank high, load fast, look great. No compromises
+
+Meta Description:
+  Build and sell high-converting websites at scale with the best white label professional website builder. Start your free trial today.
+
+OG Title:
+  Duda | The AI-Ready Website Platform Built for Pros
+
+CTA Buttons Found:
+  Log in
+  View all success stories
+  Start free trial
+  Contact sales
+  Start a Free Trial
+
+PRICING SIGNALS
+---------------
+  No pricing found (hidden pricing = conversion barrier ENP can exploit)
+
+FORMS / LEAD CAPTURE
+--------------------
+  No forms detected
+
+NAVIGATION STRUCTURE
+--------------------
+  https://www.duda.co/signup?dm_referral=NEW_Top_Navbar
+  https://www.duda.co/signup?dm_referral=NEW_Mobile_Menu
+  /inspiration
+  https://www.duda.co/contact
+  https://www.duda.co/pricing
+  /community
+  https://www.duda.co/login
+  https://www.duda.co/enterprise
+  https://www.duda.co/
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /preview
+Disallow: /browser
+Disallow: /_functions
+Disallow: /_templates
+Allow: /_templates/jake/css/min
+Allow: /_templates/jake/js/min
+Disallow: /pt/pt
+Disallow: /pt/es
+Disallow: /es/pt
+Disallow: /es/es
+Disallow: /fr
+Disallow: /ita
+Disallow: /deu
+Disallow: /rss
+Disallow: /ind
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://www.duda.co/vsaas/hospitality
+  https://www.duda.co/vsaas/real-estate
+  https://www.duda.co/vsaas/automotive-repair
+  https://www.duda.co/vsaas/wellness
+  https://www.duda.co/vsaas/retail
+  https://www.duda.co/vsaas/travel
+  https://www.duda.co/vsaas/transportation
+  https://www.duda.co/webinars/how-to-own-your-branded-search
+  https://www.duda.co/webinars/how-to-start-up-your-seo-for-saas
+  https://www.duda.co/webinars/how-curious-brands-dare-to-do-different-win
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No transparent pricing — ENP can use this to build trust
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Weak/missing lead capture forms — ENP has multi-step intake with instant estimate
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://irp.cdn-website.com/a8ff2f1c/files/a8ff2f1c_withFlex_1.min.css?v=de0715fd47b741e6a14853183f771f41
+  https://irp.cdn-website.com/fonts/css2?family=Abel:ital,wght@0,400&family=Syne:ital,wght@0,400..800;1,400..800&family=Tenor+Sans:ital,wght@0,400&family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Sora:ital,wght@0,100..800;1,100..800&family=Alegreya:ital,wght@0,400..900;1,400..900&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue:ital,wght@0,400&family=Be+Vietnam:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Comfortaa:ital,wght@0,300..700;1,300..700&family=Dancing+Script:ital,wght@0,400..700;1,400..700&family=DM+Sans:ital,wght@0,100..1000;1,100..1000&family=DM+Serif+Display:ital,wght@0,400;1,400&family=Droid+Sans:ital,wght@0,400;0,700&family=Droid+Sans+Mono:ital,wght@0,400&family=Droid+Serif:ital,wght@0,400;0,700&family=Epilogue:ital,wght@0,100..900;1,100..900&family=Fjalla+One:ital,wght@0,400&family=Heebo:ital,wght@0,100..900;1,100..900&family=Inter:ital,wght@0,100..900;1,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&amp;subset=latin-ext&amp;display=swap
+  https://irp.cdn-website.com/a8ff2f1c/files/a8ff2f1c_0.min.css?v=3317f748d50a32617aa40aed25b30999
+  https://irp.cdn-website.com/WIDGET_CSS/bf069aa891eb6bcb0bd11bb67e16b742.css
+  https://irp.cdn-website.com/fonts/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Muli:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,wght@0,200..1000;1,200..1000&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:ital,wght@0,200..700;1,200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Petit+Formal+Script:ital,wght@0,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prata:ital,wght@0,400&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:ital,wght@0,300..700;1,300..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Rock+Salt:ital,wght@0,400&family=Shadows+Into+Light:ital,wght@0,400&amp;subset=latin-ext&amp;display=swap
+  https://irp.cdn-website.com/WIDGET_CSS/89f7d2b88bcc6d6470a462863f185780.css
+  https://irp.cdn-website.com/WIDGET_CSS/7ea0ad065e3a2f6ea085ccebdd1c14be.css
+  https://irp.cdn-website.com/WIDGET_CSS/c1899c4fd0692a6d0f68155a1508bec0.css
+  https://irp.cdn-website.com/WIDGET_CSS/b779221d60c50d7cac955c066214151c.css
+  https://static.cdn-website.com/mnlt/production/6577/_dm/s/rt/dist/css/d-css-runtime-flex-new-nav.min.css
+
+JS BUNDLES DOWNLOADED (9)
+  https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js
+  https://unpkg.com/@rive-app/webgl2@2
+  https://cdnjs.cloudflare.com/ajax/libs/sticky-js/1.3.0/sticky.min.js
+  https://play.vidyard.com/embed/v4.js
+  https://cookie-cdn.cookiepro.com/consent/b3ff6dcf-60fb-4513-83a9-4ad0a16c7be4/OtAutoBlock.js
+  https://ms-cdn.multiscreensite.com/runtime-react/4231/res/js/runtime-react.js
+  https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs
+  https://static.cdn-website.com/mnlt/production/6577/_dm/s/rt/dist/scripts/d-js-runtime-flex-package.min.js
+  https://cdn-4.convertexperiments.com/js/10024211-10024125.js
+
+IMAGE ASSETS DOWNLOADED (20)
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/DearJulietsPhotography-thumbnail-1920w.jpg
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/ccc-2c996a7b-1920w.png
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/image+360-606h.png
+  https://du-cdn.cdn-website.com/duda_website/img/footer/arrow.svg?v=4
+  https://irp.cdn-website.com/a8ff2f1c/dms3rep/multi/Your+experience-+monetized+2.jpg
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/FGSE-thumbnail-0e5ee8d8-1920w.jpg
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/Enjoy+a+partner-first+approach_mobile-1920w.png
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/regalbeauty-thumbnail-1920w.jpg
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/Top+security+-+stability-e9d4f22d-1920w.png
+  https://lirp.cdn-website.com/a8ff2f1c/dms3rep/multi/opt/Dynamic+Repeater-updates_+Lobby-1920w.png
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
