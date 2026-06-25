@@ -1,52 +1,68 @@
 {
   "slug": "leadpages",
   "url": "https://leadpages.com",
-  "cat": "landing_builder",
-  "pages_scraped": 26,
-  "css_files": [
-    "https://static.new.leadpages.com/_next/static/chunks/0vvddfgn26clk.css?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/048t4-2.5852k.css?dpl=0795b9a"
+  "category": "landing_builder",
+  "cloned_at": "2026-06-25T08:46:58.795719",
+  "extraction": {
+    "pages_scraped": 26,
+    "css_files_downloaded": 2,
+    "js_bundles_downloaded": 25,
+    "images_downloaded": 16,
+    "fonts_downloaded": 0
+  },
+  "security": {
+    "score": 80,
+    "grade": "A",
+    "findings": {
+      "https": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.htmlpub.com https",
+      "hsts": "max-age=31536000; includeSubDomains",
+      "x_frame": "DENY",
+      "x_content_type": "nosniff",
+      "referrer_policy": "strict-origin-when-cross-origin",
+      "server": "cloudflare",
+      "cloudflare": true,
+      "cf_ray": "a112a5eb1952b967-IAD"
+    }
+  },
+  "tech_stack": [
+    "Next.js",
+    "GTM",
+    "GA4",
+    "Hotjar",
+    "Cloudflare"
   ],
-  "js_files": [
-    "https://static.new.leadpages.com/_next/static/chunks/0oux.-ww_k.y-.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0lvfnad11cueh.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/03~yq9q893hmn.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0t9c~0om8ht~w.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/10hfbal6mkea~.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0_xpd0e.h0po2.js?dpl=0795b9a",
-    "https://leadpages.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
-    "https://static.new.leadpages.com/_next/static/chunks/0w_y_b7l1hj14.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/17q9.93bvsd9s.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0rmyrvh_z8dds.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/09gpf-_-37lq1.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0dh_ja0wafi0i.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0ozs.xxd_~qcr.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0iesndbl5b6e-.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0.jx-oykd7b~f.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/03vi87l-maqd0.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0xgmc9winl8jd.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0s.zo7bustisg.js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0czfd-chd4au..js?dpl=0795b9a",
-    "https://static.new.leadpages.com/_next/static/chunks/0a3o0_t0.b0.u.js?dpl=0795b9a"
-  ],
-  "images": [
-    "https://leadpages.com/api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Grr0LVoqyq",
-    "https://leadpages.com/images/integrations/logos/meta-ads-light.svg",
-    "https://leadpages.com/images/integrations/logos/gumroad-light.svg",
-    "https://leadpages.com/registrar-icons/domaincom.svg",
-    "https://i4.ytimg.com/vi/w4YShOtbxEs/maxresdefault.jpg",
-    "https://leadpages.com/images/integrations/logos/klaviyo-dark.svg",
-    "https://leadpages.com/logos/logo-6.svg",
-    "https://leadpages.com/images/integrations/logos/stripe-light.svg",
-    "https://leadpages.com/images/integrations/logos/meta-ads-dark.svg",
-    "https://leadpages.com/htmlpub-onboarding1.png",
-    "https://leadpages.com/logos/logo-2.svg",
-    "https://leadpages.com/mock-yoga-studio.webp",
-    "https://htmlpub.com/api/library/fjkmm00cjbzfpxe53t6i9j1i",
-    "https://leadpages.com/logos/logo-7.svg",
-    "https://leadpages.com/ad-studio/tile-story.png",
-    "https://leadpages.com/images/integrations/logos/hubspot-dark.svg"
-  ],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-566K5MT9"
+    ]
+  },
+  "deep_js_analysis": {
+    "apis_in_js": [
+      "/api/auth/register",
+      "/api/tags/assignments",
+      "/api/tags",
+      "/api/attribution",
+      "/api/tags/assignments/bulk",
+      "/api/tools/subscribe",
+      "/api/auth/affiliate-referral"
+    ],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [
+      "you@company.com",
+      "support@htmlpub.com",
+      "support@leadpages.com",
+      "noreply@leadpages.com",
+      "noreply@htmlpub.com"
+    ],
+    "versions": [],
+    "js_analyzed_kb": 610,
+    "js_files_analyzed": 25
+  },
   "api_endpoints": [
     "/api/blog-image/3b61cb23a8567e48.jpg\\",
     "/api/tools/aeo-send-report",
@@ -76,7 +92,14 @@
     "/api/attribution",
     "/api/blog-image/89387c9766218fdc.jpg",
     "/api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Grr0LVoqyq\\",
-    "/api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/cHNUY7MwaQ\\"
+    "/api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/cHNUY7MwaQ\\",
+    "/api/auth/register",
+    "/api/tags/assignments",
+    "/api/tags",
+    "/api/attribution",
+    "/api/tags/assignments/bulk",
+    "/api/tools/subscribe",
+    "/api/auth/affiliate-referral"
   ],
   "forms": [
     {
@@ -85,50 +108,12 @@
       "fields": []
     }
   ],
-  "integrations": {
-    "GTM_IDs": [
-      "GTM-566K5MT9"
-    ]
-  },
-  "tech": [
-    "Next.js",
-    "GTM",
-    "GA4",
-    "Hotjar",
-    "Cloudflare"
-  ],
-  "security_score": 80,
-  "security_grade": "A",
-  "security_findings": {
-    "https": true,
-    "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.htmlpub.com https",
-    "hsts": "max-age=31536000; includeSubDomains",
-    "x_frame": "DENY",
-    "x_content_type": "nosniff",
-    "referrer_policy": "strict-origin-when-cross-origin",
-    "server": "cloudflare",
-    "cloudflare": true,
-    "cf_ray": "a112a5eb1952b967-IAD"
-  },
-  "robots_txt": "",
-  "sitemap_urls": [],
   "meta_tags": {
     "description": "AI landing pages with built-in A/B testing, Smart Traffic, and heatmaps. Create pages in 60 seconds. Optimize automatically. No traffic caps. Starting at $99/mo.",
     "keywords": "",
     "og_title": "Leadpages | AI Landing Page Builder with Built-in A/B Testing &amp; CRO",
     "og_desc": "AI landing pages with built-in A/B testing, Smart Traffic, and heatmaps. Create pages in 60 seconds. Optimize automatically. No traffic caps. Starting at $99/mo."
   },
-  "schema_data": [
-    "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Leadpages\",\"url\":\"https://leadpages.com\",\"logo\":\"https://leadpages.com/logo.svg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"212 3rd Ave N, Ste 475\",\"addressLocality\":\"Minneapolis\",\"addressRegion\":\"MN\",\"postalCode\":\"55401-1478\",\"addressCountry\":\"US\"},\"sameAs\":[\"https://www.linkedin.com/company/leadpages\",\"https://www.twitter.com/Leadpages\",\"https://www.facebook.com/Leadpages\",\"https://www.youtube.com/channel/UCcOTiK5iJ1OjGHgcqNB0Eqw\",\"https://www.instagram.com/leadpages/\"]}",
-    "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Leadpages\",\"applicationCategory\":\"BusinessApplication\",\"operatingSystem\":\"Web\",\"offers\":{\"@type\":\"Offer\",\"price\":\"99\",\"priceCurrency\":\"USD\",\"priceValidUntil\":\"2026-12-31\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.6\",\"bestRating\":\"5\",\"ratingCount\":\"302\",\"reviewCount\":\"302\"}}",
-    "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How is this different from the Leadpages I know?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We rebuilt the product from the ground up. Same team, same 13-year track record. New technology. A/B testing, Smart Traffic, heatmaps, and AI page creation are all new. A/B testing starts at $99. Smart Traffic and heatmaps from $199.\"}},{\"@type\":\"Question\",\"name\":\"What happens to my existing pages?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Nothing changes unless you want it to. Your pages keep working. Choose old or new experience any time. Your price stays the same.\"}},{\"@type\":\"Question\",\"name\":\"How does Smart Traffic work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Smart Traffic routes each visitor to the page variant most likely to convert them, based on traffic source, device, and past performance data. It runs automatically.\"}},{\"@type\":\"Question\",\"name\":\"Can I use my own domain?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Custom domains with free SSL on every paid plan. Automated DNS setup. 1.8-second median load time on a global CDN. Unlimited traffic.\"}},{\"@type\":\"Question\",\"name\":\"What integrations do you support?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"HubSpot, Salesforce, Mailchimp, Google Ads, Stripe, Shopify, Slack, Zapier, and many more via Paragon. Leads flow directly to your CRM or email tool.\"}},{\"@type\":\"Question\",\"name\":\"Is there a free trial?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. 7 days, full platform access.\"}}]}"
-  ],
-  "nav_links": [
-    "/compare",
-    "/",
-    "/pricing",
-    "/product"
-  ],
   "headings": [
     "AI Landing Page Builder: Get smarterwith every",
     "Custom Domains.Your brand. Better conversions.",
@@ -156,15 +141,84 @@
     "$461",
     "$15"
   ],
-  "assets_downloaded": 38,
-  "drive_folder_id": "1q9JrrUY112vGIpscGr0yroXxzJVU88Sq",
-  "drive_folder_url": "https://drive.google.com/drive/folders/1q9JrrUY112vGIpscGr0yroXxzJVU88Sq",
-  "status": "complete",
-  "errors": [],
-  "duration": 20.4,
-  "nav_structure": [
+  "sitemap_urls": [],
+  "nav_links": [
     "/compare",
+    "/",
     "/pricing",
     "/product"
-  ]
+  ],
+  "schema_data": [
+    "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Leadpages\",\"url\":\"https://leadpages.com\",\"logo\":\"https://leadpages.com/logo.svg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"212 3rd Ave N, Ste 475\",\"addressLocality\":\"Minneapolis\",\"addressRegion\":\"MN\",\"postalCode\":\"55401-1478\",\"addressCountry\":\"US\"},\"sameAs\":[\"https://www.linkedin.com/company/leadpages\",\"https://www.twitter.com/Leadpages\",\"https://www.facebook.com/Leadpages\",\"https://www.youtube.com/channel/UCcOTiK5iJ1OjGHgcqNB0Eqw\",\"https://www.instagram.com/leadpages/\"]}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Leadpages\",\"applicationCategory\":\"BusinessApplication\",\"operatingSystem\":\"Web\",\"offers\":{\"@type\":\"Offer\",\"price\":\"99\",\"priceCurrency\":\"USD\",\"priceValidUntil\":\"2026-12-31\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.6\",\"bestRating\":\"5\",\"ratingCount\":\"302\",\"reviewCount\":\"302\"}}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How is this different from the Leadpages I know?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We rebuilt the product from the ground up. Same team, same 13-year track record. New technology. A/B testing, Smart Traffic, heatmaps, and AI page creation are all new. A/B testing starts at $99. Smart Traffic and heatmaps from $199.\"}},{\"@type\":\"Question\",\"name\":\"What happens to my existing pages?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Nothing changes unless you want it to. Your pages keep working. Choose old or new experience any time. Your price stays the same.\"}},{\"@type\":\"Question\",\"name\":\"How does Smart Traffic work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Smart Traffic routes each visitor to the page variant most likely to convert them, based on traffic source, device, and past performance data. It runs automatically.\"}},{\"@type\":\"Question\",\"name\":\"Can I use my own domain?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Custom domains with free SSL on every paid plan. Automated DNS setup. 1.8-second median load time on a global CDN. Unlimited traffic.\"}},{\"@type\":\"Question\",\"name\":\"What integrations do you support?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"HubSpot, Salesforce, Mailchimp, Google Ads, Stripe, Shopify, Slack, Zapier, and many more via Paragon. Leads flow directly to your CRM or email tool.\"}},{\"@type\":\"Question\",\"name\":\"Is there a free trial?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. 7 days, full platform access.\"}}]}"
+  ],
+  "robots_txt": "",
+  "assets": {
+    "css": [
+      "0vvddfgn26clk.css",
+      "048t4-2.5852k.css"
+    ],
+    "js": [
+      "email-decode.min.js",
+      "0oux.-ww_k.y-.js",
+      "03_yq9q893hmn.js",
+      "0t9c_0om8ht_w.js",
+      "0lvfnad11cueh.js",
+      "10hfbal6mkea_.js",
+      "0_xpd0e.h0po2.js",
+      "0w_y_b7l1hj14.js",
+      "17q9.93bvsd9s.js",
+      "0rmyrvh_z8dds.js",
+      "09gpf-_-37lq1.js",
+      "0dh_ja0wafi0i.js",
+      "0ozs.xxd__qcr.js",
+      "0iesndbl5b6e-.js",
+      "0.jx-oykd7b_f.js",
+      "03vi87l-maqd0.js",
+      "0xgmc9winl8jd.js",
+      "0czfd-chd4au..js",
+      "0s.zo7bustisg.js",
+      "0a3o0_t0.b0.u.js",
+      "13xv4gpf3mc83.js",
+      "13r60tqixnmw0.js",
+      "1050g1u.6go8x.js",
+      "189sqgmjgefmf.js",
+      "0_zatuvu8rnt2.js"
+    ],
+    "images": [
+      "maxresdefault.jpg",
+      "meta-ads-dark.svg",
+      "fjkmm00cjbzfpxe53t6i9j1i.jpg",
+      "meta-ads-light.svg",
+      "logo-2.svg",
+      "gumroad-light.svg",
+      "htmlpub-onboarding1.png",
+      "logo-7.svg",
+      "domaincom.svg",
+      "mock-yoga-studio.webp",
+      "klaviyo-dark.svg",
+      "tile-story.png",
+      "logo-6.svg",
+      "hubspot-dark.svg",
+      "stripe-light.svg",
+      "Grr0LVoqyq.jpg"
+    ],
+    "fonts": [],
+    "pages": [
+      "page_00.html",
+      "page_01.html",
+      "page_02.html",
+      "page_03.html",
+      "page_04.html",
+      "page_05.html",
+      "page_06.html",
+      "page_07.html",
+      "page_08.html",
+      "page_09.html"
+    ]
+  },
+  "drive_folder_url": "https://drive.google.com/drive/folders/1q9JrrUY112vGIpscGr0yroXxzJVU88Sq",
+  "github_path": "builds/clones/leadpages/",
+  "storage_complete": true
 }
