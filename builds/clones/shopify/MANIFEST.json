@@ -1,33 +1,35 @@
 {
   "slug": "shopify",
   "url": "https://shopify.com",
-  "cat": "ecommerce_builder",
-  "pages_scraped": 26,
-  "css_files": [
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/discounts-BgoU8zGk.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-DN2GlTnD.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-DqjaUjql.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-CKXl1W5h.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-pillar/assets/stylesRedesign-DigFYsH9.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-Fwze0ZhL.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-blog/assets/blog-BBno71JY.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-pillar/assets/route-Dq9x5UoY.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-B0YiNCmC.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/theme-DHYcmQJ2.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/online-Cj5aNgv7.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-Cgm4Rf-J.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/theme-Ds4kXncM.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/route-Bm2Q7Am4.css",
-    "https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/partners-D4h3faZo.css"
+  "category": "ecommerce_builder",
+  "cloned_at": "2026-06-25T08:46:56.017807",
+  "extraction": {
+    "pages_scraped": 26,
+    "css_files_downloaded": 18,
+    "js_bundles_downloaded": 0,
+    "images_downloaded": 5,
+    "fonts_downloaded": 1
+  },
+  "security": {
+    "score": 50,
+    "grade": "C",
+    "findings": {
+      "https": true,
+      "hsts": "max-age=15552000; includeSubDomains; preload",
+      "x_content_type": "nosniff",
+      "server": "cloudflare",
+      "cloudflare": true,
+      "cf_ray": "a112a5ebaaa33b0b-IAD"
+    }
+  },
+  "tech_stack": [
+    "React",
+    "Shopify",
+    "GA4",
+    "Tailwind"
   ],
-  "js_files": [],
-  "images": [
-    "https://cdn.shopify.com/s/files/1/0647/5176/3550/files/U207_Shopify_Catalog_desktop-fallback.png?v=1781552880&amp;width=100&amp;height=75&amp;crop=center",
-    "https://cdn.shopify.com/b/shopify-brochure2-assets/93d272ce2c33c1794351c9eeb0e1b090.jpg?width=1396&amp;originalWidth=1600&amp;originalHeight=900&amp;width=1000",
-    "https://cdn.shopify.com/s/files/1/0070/7032/articles/young-entrepreneur-header_7b9526fb-54f6-43af-8d58-97b93f1ad2f1.jpg?v=1750112503&amp;width=320&amp;originalWidth=2500&amp;originalHeight=1312&amp;width=2200",
-    "https://cdn.shopify.com/s/files/1/0647/5176/3550/files/U247_Deeper_dispute_insights.png?v=1780687173&amp;width=1400&amp;height=1050&amp;crop=center",
-    "https://cdn.shopify.com/b/shopify-brochure2-assets/f531232ca65eb5c5de30fe72c6c24bf1.png?originalWidth=808&amp;originalHeight=1020&amp;width=600"
-  ],
+  "integrations": {},
+  "deep_js_analysis": {},
   "api_endpoints": [],
   "forms": [
     {
@@ -121,56 +123,12 @@
       ]
     }
   ],
-  "integrations": {},
-  "tech": [
-    "React",
-    "Shopify",
-    "GA4",
-    "Tailwind"
-  ],
-  "security_score": 50,
-  "security_grade": "C",
-  "security_findings": {
-    "https": true,
-    "hsts": "max-age=15552000; includeSubDomains; preload",
-    "x_content_type": "nosniff",
-    "server": "cloudflare",
-    "cloudflare": true,
-    "cf_ray": "a112a5ebaaa33b0b-IAD"
-  },
-  "robots_txt": "User-agent: *\nDisallow: /authentication/\nDisallow: /*/account\n",
-  "sitemap_urls": [],
   "meta_tags": {
     "description": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
     "keywords": "",
     "og_title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
     "og_desc": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business."
   },
-  "schema_data": [
-    "{\"@context\":\"https://schema.org\",\"@type\":\"Corporation\",\"name\":\"Shopify\",\"legalName\":\"Shopify Inc.\",\"url\":\"https://www.shopify.com/\",\"logo\":\"https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg\",\"sameAs\":[\"https://www.facebook.com/shopify/\",\"https://x.com/Shopify\",\"https://www.instagram.com/shopify/\",\"https://www.youtube.com/shopify\",\"https://www.linkedin.com/company/shopify/\",\"https://github.com/Shopify\",\"https://en.wikipedia.org/wiki/Shopify\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Customer Support\",\"url\":\"https://help.shopify.com/\"}}"
-  ],
-  "nav_links": [
-    "/partners/directory/locations/italy",
-    "/partners/directory/services/marketing-and-sales/seo-and-paid-search",
-    "/technology-partners/enterprise",
-    "/partners/directory/services/store-setup/website-audit-and-optimization-strategy",
-    "/partners/directory/services/development-and-troubleshooting/custom-apps-integrations",
-    "/partners/directory/services/visual-content-and-branding/take-product-photos",
-    "/solutions/b2b/enterprise",
-    "/partners/directory/services/store-setup/ongoing-website-management",
-    "/case-studies/arhaus",
-    "/customer-accounts",
-    "/partners/directory/locations/united-states",
-    "/shop",
-    "/partners/directory/locations/france",
-    "/partners/directory/services/marketing-and-sales/conversion-rate-optimization",
-    "/carbon-commerce",
-    "/start",
-    "/marketing",
-    "/solutions/b2c/enterprise",
-    "/case-studies/dollar-shave-club",
-    "/partners/directory/services/expert-guidance/wholesale-or-b2b"
-  ],
   "headings": [
     "Be the nextAI all-star",
     "Fund your business. Drive growth. Scale&nbsp;faster.",
@@ -207,17 +165,13 @@
     "$5",
     "$100,000"
   ],
-  "assets_downloaded": 20,
-  "drive_folder_id": "1-lESjrGjVW_Z_e72zsbPLCpS1JC_OB9-",
-  "drive_folder_url": "https://drive.google.com/drive/folders/1-lESjrGjVW_Z_e72zsbPLCpS1JC_OB9-",
-  "status": "complete",
-  "errors": [],
-  "duration": 35.6,
-  "nav_structure": [
+  "sitemap_urls": [],
+  "nav_links": [
     "/partners/directory/locations/italy",
     "/partners/directory/services/marketing-and-sales/seo-and-paid-search",
     "/technology-partners/enterprise",
     "/partners/directory/services/store-setup/website-audit-and-optimization-strategy",
+    "/partners/directory/services/development-and-troubleshooting/custom-apps-integrations",
     "/partners/directory/services/visual-content-and-branding/take-product-photos",
     "/solutions/b2b/enterprise",
     "/partners/directory/services/store-setup/ongoing-website-management",
@@ -228,6 +182,62 @@
     "/partners/directory/locations/france",
     "/partners/directory/services/marketing-and-sales/conversion-rate-optimization",
     "/carbon-commerce",
-    "/start"
-  ]
+    "/start",
+    "/marketing",
+    "/solutions/b2c/enterprise",
+    "/case-studies/dollar-shave-club",
+    "/partners/directory/services/expert-guidance/wholesale-or-b2b"
+  ],
+  "schema_data": [
+    "{\"@context\":\"https://schema.org\",\"@type\":\"Corporation\",\"name\":\"Shopify\",\"legalName\":\"Shopify Inc.\",\"url\":\"https://www.shopify.com/\",\"logo\":\"https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg\",\"sameAs\":[\"https://www.facebook.com/shopify/\",\"https://x.com/Shopify\",\"https://www.instagram.com/shopify/\",\"https://www.youtube.com/shopify\",\"https://www.linkedin.com/company/shopify/\",\"https://github.com/Shopify\",\"https://en.wikipedia.org/wiki/Shopify\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Customer Support\",\"url\":\"https://help.shopify.com/\"}}"
+  ],
+  "robots_txt": "User-agent: *\nDisallow: /authentication/\nDisallow: /*/account\n",
+  "assets": {
+    "css": [
+      "blog-BBno71JY.css",
+      "route-Dq9x5UoY.css",
+      "home-D4pNX5b4.css",
+      "route-Bm2Q7Am4.css",
+      "discounts-BgoU8zGk.css",
+      "styles-B0YiNCmC.css",
+      "styles-DN2GlTnD.css",
+      "styles-DqjaUjql.css",
+      "theme-DHYcmQJ2.css",
+      "styles-CKXl1W5h.css",
+      "stylesRedesign-DigFYsH9.css",
+      "online-Cj5aNgv7.css",
+      "partners-D4h3faZo.css",
+      "fonts-latin-CynPsvio.css",
+      "styles-Cgm4Rf-J.css",
+      "tailwind-CtrMhTP7.css",
+      "theme-Ds4kXncM.css",
+      "styles-Fwze0ZhL.css"
+    ],
+    "js": [],
+    "images": [
+      "U207_Shopify_Catalog_desktop-fallback.png",
+      "93d272ce2c33c1794351c9eeb0e1b090.jpg",
+      "young-entrepreneur-header_7b9526fb-54f6-43af-8d58-97b93f1ad2f1.jpg",
+      "U247_Deeper_dispute_insights.png",
+      "f531232ca65eb5c5de30fe72c6c24bf1.png"
+    ],
+    "fonts": [
+      "fonts-latin-CynPsvio.css.woff2"
+    ],
+    "pages": [
+      "page_00.html",
+      "page_01.html",
+      "page_02.html",
+      "page_03.html",
+      "page_04.html",
+      "page_05.html",
+      "page_06.html",
+      "page_07.html",
+      "page_08.html",
+      "page_09.html"
+    ]
+  },
+  "drive_folder_url": "https://drive.google.com/drive/folders/1-lESjrGjVW_Z_e72zsbPLCpS1JC_OB9-",
+  "github_path": "builds/clones/shopify/",
+  "storage_complete": true
 }
