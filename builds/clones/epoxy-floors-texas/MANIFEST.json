@@ -1,45 +1,42 @@
 {
   "slug": "epoxy-floors-texas",
   "url": "https://epoxyfloorstexas.com",
-  "cat": "epoxy_competitor",
-  "pages_scraped": 1,
-  "css_files": [
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-8b5b6f678277-2.css",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-8b5b6f678277.css",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-c67d20f9f743-2.css",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-e4c2d9f6c920-2.css",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/default/rs-default.css",
-    "https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/style.css",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/siteorigin-panels/css/front-flex.min.css",
-    "https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/social-font/css/font-awesome.css",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
+  "category": "epoxy_competitor",
+  "cloned_at": "2026-06-25T08:46:48.172203",
+  "extraction": {
+    "pages_scraped": 1,
+    "css_files_downloaded": 11,
+    "js_bundles_downloaded": 11,
+    "images_downloaded": 7,
+    "fonts_downloaded": 5
+  },
+  "security": {
+    "score": 30,
+    "grade": "D",
+    "findings": {
+      "https": true,
+      "x_content_type": "nosniff",
+      "server": "nginx"
+    }
+  },
+  "tech_stack": [
+    "WordPress",
+    "GA4",
+    "jQuery"
   ],
-  "js_files": [
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/contact-form-7/includes/js/index.js",
-    "https://www.epoxyfloorstexas.com/wp-includes/js/jquery/jquery-migrate.min.js",
-    "https://www.epoxyfloorstexas.com/wp-includes/js/dist/hooks.min.js",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/enable-jquery-migrate-helper/js/deprecation-notice.js",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/akismet/_inc/akismet-frontend.js",
-    "https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/js/responsive-scripts.js",
-    "https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js",
-    "https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/js/responsive-modernizr.js",
-    "https://www.epoxyfloorstexas.com/wp-includes/js/comment-reply.min.js",
-    "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
-    "https://www.epoxyfloorstexas.com/wp-includes/js/jquery/jquery.min.js",
-    "https://www.epoxyfloorstexas.com/wp-includes/js/dist/i18n.min.js"
-  ],
-  "images": [
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2017/05/logo.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-150x75.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2017/08/Epoxy-Floors-Texas-Slider-1-3.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2017/05/quick-contact-150x76.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2018/10/Commercial-Epoxy-Flooring-EFT-5.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-1024x510.jpg",
-    "https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-scaled.jpg"
-  ],
+  "integrations": {},
+  "deep_js_analysis": {
+    "apis_in_js": [],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [],
+    "versions": [],
+    "js_analyzed_kb": 229,
+    "js_files_analyzed": 11
+  },
   "api_endpoints": [
     "refill",
     "feedback"
@@ -62,34 +59,26 @@
       ]
     }
   ],
-  "integrations": {},
-  "tech": [
-    "WordPress",
-    "GA4",
-    "jQuery"
-  ],
-  "security_score": 30,
-  "security_grade": "D",
-  "security_findings": {
-    "https": true,
-    "x_content_type": "nosniff",
-    "server": "nginx"
-  },
-  "robots_txt": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\nSitemap: https://www.epoxyfloorstexas.com/sitemap.xml\r\nSitemap: https://www.epoxyfloorstexas.com/sitemap.rss\n",
-  "sitemap_urls": [
-    "<![CDATA[https://www.epoxyfloorstexas.com/post-sitemap.xml]]>",
-    "<![CDATA[https://www.epoxyfloorstexas.com/page-sitemap.xml]]>",
-    "<![CDATA[https://www.epoxyfloorstexas.com/attachment-sitemap.xml]]>",
-    "<![CDATA[https://www.epoxyfloorstexas.com/envira-sitemap.xml]]>"
-  ],
   "meta_tags": {
     "description": "The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin &amp; Surrounding. New 1-Day Install. 100% Solids Epoxy",
     "keywords": "",
     "og_title": "The Premier Epoxy Installer of Texas. (866) 87-EPOXY.",
     "og_desc": "The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin &amp; Surrounding. New 1-Day Install. 100% Solids Epoxy"
   },
-  "schema_data": [
-    "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com#listItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#organization\",\"name\":\"Epoxy Floors Texas\",\"description\":\"The highest rated epoxy  coating installer in Texas\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\"},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#webpage\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\",\"name\":\"The Premier Epoxy Installer of Texas. (866) 87-EPOXY.\",\"description\":\"The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin & Surrounding. New 1-Day Install. 100% Solids Epoxy\",\"inLanguage\":\"en-US\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#breadcrumblist\"},\"datePublished\":\"2017-05-16T17:47:25+00:00\",\"dateModified\":\"2023-09-01T18:15:11+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#website\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\",\"name\":\"Epoxy Floors Texas\",\"description\":\"The highest rated epoxy  coating installer in Texas\",\"inLanguage\":\"en-US\",\"publisher\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#organization\"}}]}\n\t\t"
+  "headings": [
+    "Fill out the quick contact form for a free estimate, and receive a $150 savings ",
+    "We believe in Texans helping Texans",
+    "We have completed projects for"
+  ],
+  "cta_texts": [],
+  "pricing_signals": [
+    "$150"
+  ],
+  "sitemap_urls": [
+    "<![CDATA[https://www.epoxyfloorstexas.com/post-sitemap.xml]]>",
+    "<![CDATA[https://www.epoxyfloorstexas.com/page-sitemap.xml]]>",
+    "<![CDATA[https://www.epoxyfloorstexas.com/attachment-sitemap.xml]]>",
+    "<![CDATA[https://www.epoxyfloorstexas.com/envira-sitemap.xml]]>"
   ],
   "nav_links": [
     "https://www.epoxyfloorstexas.com/epoxy-services/",
@@ -102,30 +91,58 @@
     "tel:8668737699",
     "https://www.facebook.com/EpoxyFloorsTexas/"
   ],
-  "headings": [
-    "Fill out the quick contact form for a free estimate, and receive a $150 savings ",
-    "We believe in Texans helping Texans",
-    "We have completed projects for"
+  "schema_data": [
+    "\n\t\t\t{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com#listItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#organization\",\"name\":\"Epoxy Floors Texas\",\"description\":\"The highest rated epoxy  coating installer in Texas\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\"},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#webpage\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\",\"name\":\"The Premier Epoxy Installer of Texas. (866) 87-EPOXY.\",\"description\":\"The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin & Surrounding. New 1-Day Install. 100% Solids Epoxy\",\"inLanguage\":\"en-US\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#breadcrumblist\"},\"datePublished\":\"2017-05-16T17:47:25+00:00\",\"dateModified\":\"2023-09-01T18:15:11+00:00\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#website\",\"url\":\"https:\\/\\/www.epoxyfloorstexas.com\\/\",\"name\":\"Epoxy Floors Texas\",\"description\":\"The highest rated epoxy  coating installer in Texas\",\"inLanguage\":\"en-US\",\"publisher\":{\"@id\":\"https:\\/\\/www.epoxyfloorstexas.com\\/#organization\"}}]}\n\t\t"
   ],
-  "cta_texts": [],
-  "pricing_signals": [
-    "$150"
-  ],
-  "assets_downloaded": 31,
-  "drive_folder_id": "1nX5FYAbK9SotXxmTBDHmel_AgRcH2bTw",
+  "robots_txt": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\nSitemap: https://www.epoxyfloorstexas.com/sitemap.xml\r\nSitemap: https://www.epoxyfloorstexas.com/sitemap.rss\n",
+  "assets": {
+    "css": [
+      "sow-image-default-8b5b6f678277-2.css",
+      "royalslider.css",
+      "rs-universal.css",
+      "sow-image-default-c67d20f9f743-2.css",
+      "sow-image-default-e4c2d9f6c920-2.css",
+      "sow-image-default-8b5b6f678277.css",
+      "rs-default.css",
+      "style.css",
+      "front-flex.min.css",
+      "font-awesome.css",
+      "styles.css"
+    ],
+    "js": [
+      "jquery.min.js",
+      "index.js",
+      "jquery-migrate.min.js",
+      "hooks.min.js",
+      "responsive-scripts.js",
+      "comment-reply.min.js",
+      "responsive-modernizr.js",
+      "jquery.royalslider.min.js",
+      "akismet-frontend.js",
+      "deprecation-notice.js",
+      "i18n.min.js"
+    ],
+    "images": [
+      "logo.jpg",
+      "Commercial-Epoxy-Flooring-EFT-5.jpg",
+      "final-version-redesigned-min-150x75.jpg",
+      "quick-contact-150x76.jpg",
+      "final-version-redesigned-min-1024x510.jpg",
+      "Epoxy-Floors-Texas-Slider-1-3.jpg",
+      "final-version-redesigned-min-scaled.jpg"
+    ],
+    "fonts": [
+      "pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf",
+      "pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf",
+      "pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+      "pxiEyp8kv8JHgFVrJJfedw.ttf",
+      "pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+    ],
+    "pages": [
+      "page_00.html"
+    ]
+  },
   "drive_folder_url": "https://drive.google.com/drive/folders/1nX5FYAbK9SotXxmTBDHmel_AgRcH2bTw",
-  "status": "complete",
-  "errors": [],
-  "duration": 20.7,
-  "nav_structure": [
-    "https://www.epoxyfloorstexas.com/epoxy-services/",
-    "https://www.epoxyfloorstexas.com",
-    "https://www.epoxyfloorstexas.com/about-us/",
-    "https://www.epoxyfloorstexas.com/why-us/",
-    "https://www.epoxyfloorstexas.com/",
-    "https://www.epoxyfloorstexas.com/gallery-epoxy-floor-coatings/",
-    "https://www.epoxyfloorstexas.com/contact-us/",
-    "tel:8668737699",
-    "https://www.facebook.com/EpoxyFloorsTexas/"
-  ]
+  "github_path": "builds/clones/epoxy-floors-texas/",
+  "storage_complete": true
 }
