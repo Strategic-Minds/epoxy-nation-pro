@@ -1,0 +1,198 @@
+COMPETITIVE INTELLIGENCE REPORT — STRONGHOLD-FLOORS
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://strongholdfloors.com
+Category:     epoxy_competitor
+Overall Score: 66/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      2
+Assets Downloaded:  46 (CSS: 12 | JS: 14 | Images: 20)
+API Endpoints:      1
+Forms Found:        0
+Tech Stack Items:   5
+Sitemap URLs:       30
+
+SCORECARD
+---------
+Security:    60/100
+Tech Stack:  60/100
+SEO:         90/100
+Conversion:  20/100
+Design:     100/100
+UX:          68/100
+OVERALL:     66/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + HubSpot
+  + GTM
+  + GA4
+  + jQuery
+
+SECURITY AUDIT
+--------------
+Score: 60/100  Grade: B
+  https: True
+  csp: upgrade-insecure-requests
+  hsts: max-age=31536000
+  referrer_policy: no-referrer-when-downgrade
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5ec6911018b-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-M6V4K5B']
+  GA_IDs: ['G-B834RPYLBV']
+  HubSpot_ID: ['222129']
+
+API ENDPOINTS FOUND
+-------------------
+  https://www.google.com/ccm/geo
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Stronghold Floors
+  Garage Floor Coatings Gallery
+  Professional Epoxy Garage Floors Built to Last
+  The Strongest Name in Epoxy Floor Coatings Across the Mid Atlantic
+  Residential and Commercial Epoxy Flooring
+  Want to know what to expect from professional epoxy flooring?&nbsp;
+  Testimonials
+  Customer Reviews
+
+Meta Description:
+  Epoxy garage floor specialists with 21 years of experience and 9,000+ installs. Stronghold Floors serves PA, MD &amp; VA. Lifetime warranty and free quotes.
+
+OG Title:
+  Stronghold Floors | Trusted Local Epoxy Garage Floors Since 2004
+
+CTA Buttons Found:
+  Service Areas
+  Blog
+
+PRICING SIGNALS
+---------------
+  No pricing found (hidden pricing = conversion barrier ENP can exploit)
+
+FORMS / LEAD CAPTURE
+--------------------
+  No forms detected
+
+NAVIGATION STRUCTURE
+--------------------
+  https://www.strongholdfloors.com/about-us-and-our-floor-coatings
+  https://www.strongholdfloors.com/project-portfolios
+  https://www.strongholdfloors.com/floor-coatings-video-gallery
+  /hs/cta/wi/redirect?encryptedPayload=AVxigLKWGk42gt%2FgHAMXUl%2Bwi6CIcvBhUe2XjdWal2kpYiw1GSAPiQqpKXRmT53f7nTy8sZiySYKED4Ros6dJEn%2B0rNwP7n1eRHrVLLxhYp0k6pqsRMQ8zPxu7eBos8Lkaht0ldoXIwKy9YIJLH0vNI125sMdOg%3D&amp;webInteractiveContentId=189372278559&amp;portalId=222129
+  https://www.strongholdfloors.com/commercial-projects
+  https://www.strongholdfloors.com/commercial-floor-coatings
+  https://www.strongholdfloors.com/help
+  https://www.strongholdfloors.com/residential-floor-coatings
+  https://www.strongholdfloors.com/other-residential-gallery
+  https://www.strongholdfloors.com/garage-coatings-gallery
+  /hs/cta/wi/redirect?encryptedPayload=AVxigLKXXfQhhmoDNFxMbz3dZK5fnMmu9SP3DmMYytvzm%2BDCbEd2ocmRSymKs9WgfrMT7L4pBptAC%2BbqUa3%2Bw6kpmMbKrLRD3VSF%2BhNYONJ1hEKulimgbNvN3RkeR9TD0vzU0f2oXtam4Xj%2FFgoFjBcg72Ey%2FwM%3D&amp;webInteractiveContentId=194280900964&amp;portalId=222129
+  https://info.strongholdfloors.com/contact
+  https://www.strongholdfloors.com
+  https://www.strongholdfloors.com/floor-coatings-service-areas
+  https://www.strongholdfloors.com/site-readiness-checklist
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://www.strongholdfloors.com/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-p
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://www.strongholdfloors.com/blog/surface-preparation-for-floor-coatings-diy-vs-professional
+  https://www.strongholdfloors.com/residential-projects/bayside-maryland-garage-upgrades-failing-diy-paint
+  https://www.strongholdfloors.com/blog/frustrations-with-plastic-tiles-coatings-vs-plastic-tiles
+  https://www.strongholdfloors.com/checklist
+  https://www.strongholdfloors.com/residential-projects/park-anything-on-these-coatings
+  https://www.strongholdfloors.com/residential-projects/arlington-va-garage-enhanced-by-coatings
+  https://www.strongholdfloors.com/blog/harrisburg-capitalizes-on-epoxy-garage-floor-coatings
+  https://www.strongholdfloors.com/residential-projects/page/2
+  https://www.strongholdfloors.com/commercial-projects/novolac-epoxy-in-carlisle-pa-meat-plant
+  https://www.strongholdfloors.com/blog/crazy-customized-chip-blend
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No transparent pricing — ENP can use this to build trust
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Weak/missing lead capture forms — ENP has multi-step intake with instant estimate
+  2. ⚠️ Thin content (2 pages) — ENP dominates with 50+ city-specific landing pages
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (12)
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154807517751/1772122705098/template_library.min.css
+  https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/module_assets/1/-35056501883/1782136247778/module_video.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154805792312/1772122713536/template_main.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/154807517983/1770836878600/module_social-follow.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/154807514034/1770836878511/module_footer-nav.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/154807514031/1770836878511/module_copyright.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154807513909/1772122702768/template_theme-overrides.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/154807514030/1770836878529/module_button.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/154805792527/1770836878511/module_header-toggler.min.css
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/152067047741/1744553338480/module_Jake_Hero_Banner.min.css
+
+JS BUNDLES DOWNLOADED (14)
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154807514023/1772122702899/template_library.min.js
+  https://strongholdfloors.com/hs/cta/cta/current.js
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154805792441/1772122702927/template_main.min.js
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/155082580558/1744553371958/module_menu.min.js
+  https://strongholdfloors.com/hs/scriptloader/222129.js
+  https://cdn.jsdelivr.net/npm/simple-parallax-js@5.6.1/dist/simpleParallax.min.js
+  https://strongholdfloors.com/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js
+  https://www.strongholdfloors.com/hubfs/hub_generated/template_assets/1/154907209025/1772122701059/template_Infinity-SFv4.min.js
+  https://www.googletagmanager.com/gtag/js?id=G-B834RPYLBV
+  https://www.strongholdfloors.com/hubfs/hub_generated/module_assets/1/152064086605/1750763802817/module_Masonry_Image_Gallery.min.js
+
+IMAGE ASSETS DOWNLOADED (20)
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2023/6003-clarksville-md/6003-clarsville-md-5-630x500.webp?width=1260&amp;height=1000&amp;name=6003-clarsville-md-5-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2023/6062-fairfax-va/6062-fairfax-va-7-630x500.webp?width=315&amp;height=250&amp;name=6062-fairfax-va-7-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2024/march-2024/6257-havre-de-grace-md/6257-havre-de-grace-md-1-630x500.webp?width=1890&amp;height=1500&amp;name=6257-havre-de-grace-md-1-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2023/6032-carlisle-pa/6032-carlisle-pa-7-630x500.webp?width=315&amp;height=250&amp;name=6032-carlisle-pa-7-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2024/february-2024/6140-york-pa/6140-york-pa-12-630x500.webp?width=630&amp;height=500&amp;name=6140-york-pa-12-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Garage-pics/2023/6058-mechanicsburg-pa/6058-before-and-after-2-630x500.webp?width=945&amp;height=750&amp;name=6058-before-and-after-2-630x500.webp
+  https://no-cache.hubspot.com/cta/default/222129/interactive-194280900964.png
+  https://www.strongholdfloors.com/hs-fs/hubfs/Reviews/Review%202026-02-12%201044%20total.png?width=836&amp;height=1204&amp;name=Review%202026-02-12%201044%20total.png
+  https://www.strongholdfloors.com/hs-fs/hubfs/Commercial-Pics/Warehouse-floors/york-pa-warehouse-epoxy-coatings-123a-630x500.webp?width=945&amp;height=750&amp;name=york-pa-warehouse-epoxy-coatings-123a-630x500.webp
+  https://www.strongholdfloors.com/hs-fs/hubfs/Awards/SSA%202025_125px.png?width=125&amp;height=139&amp;name=SSA%202025_125px.png
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
