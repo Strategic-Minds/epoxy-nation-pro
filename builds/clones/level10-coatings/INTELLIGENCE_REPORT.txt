@@ -1,0 +1,169 @@
+COMPETITIVE INTELLIGENCE REPORT — LEVEL10-COATINGS
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://level10coatings.com
+Category:     epoxy_competitor
+Overall Score: 69/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  0 (CSS: 0 | JS: 0 | Images: 0)
+API Endpoints:      0
+Forms Found:        27
+Tech Stack Items:   6
+Sitemap URLs:       6
+
+SCORECARD
+---------
+Security:    35/100
+Tech Stack:  48/100
+SEO:        100/100
+Conversion: 100/100
+Design:      30/100
+UX:         100/100
+OVERALL:     69/100
+
+TECH STACK (detected)
+---------------------
+  + WordPress
+  + GTM
+  + GA4
+  + Cloudflare
+  + Bootstrap
+  + jQuery
+
+SECURITY AUDIT
+--------------
+Score: 25/100  Grade: D
+  https: True
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5eb0d42c99d-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-WGSDDQTG']
+  GA_IDs: ['UA-241450422-1']
+
+API ENDPOINTS FOUND
+-------------------
+  None found
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Concrete Coatings For Homes And Businesses
+  Find The Best Basement Floor Coating Solutions Near You
+  Referral Credit Form
+  Concrete Coatings For Homes And Businesses\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+  Healthcare
+  Neat &amp; Stout Floors
+  Finn Kiger​
+  Pricing
+
+Meta Description:
+  Transform your concrete floors with durable, 1-day polyurea and polyaspartic coatings. Serving Northern Indiana, Chicagoland, and Southwest Michigan.​
+
+OG Title:
+  ​Garage &amp; Concrete Floor Coatings | Level 10 Coatings​
+
+CTA Buttons Found:
+  None found
+
+PRICING SIGNALS
+---------------
+  $7
+  $750
+  $13
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['input_37', 'input_31.3', 'input_34.6', 'input_2', 'input_3', 'input_30', 'input_16', 'input_16', 'input_16', 'input_16', 'input_17', 'input_17', 'input_29', 'input_29', 'input_29', 'input_28', 'input_19', 'input_25', 'input_35', 'input_36', 'input_13.1', 'input_13.2', 'input_13.3', 'gform_submission_method', 'gform_theme', 'gform_style_settings', 'is_submit_10', 'gform_submit', 'gform_currency', 'gform_unique_id', 'state_10', 'gform_target_page_number_10', 'gform_source_page_number_10', 'gform_field_values']
+  Form: action=POST | method=POST | fields=['input_14', 'input_1.3', 'input_1.6', 'input_2', 'input_3', 'input_8.4', 'input_8.5', 'input_8.6', 'input_12', 'input_13', 'input_11.1', 'input_11.2', 'input_11.3', 'gform_submission_method', 'gform_theme', 'gform_style_settings', 'is_submit_9', 'gform_submit', 'gform_currency', 'gform_unique_id', 'state_9', 'gform_target_page_number_9', 'gform_source_page_number_9', 'gform_field_values']
+  Form: action=POST | method=POST | fields=['input_14', 'input_1.3', 'input_1.6', 'input_2', 'input_3', 'input_8.4', 'input_8.5', 'input_8.6', 'input_12', 'input_13', 'input_11.1', 'input_11.2', 'input_11.3', 'gform_submission_method', 'gform_theme', 'gform_style_settings', 'is_submit_9', 'gform_submit', 'gform_currency', 'gform_unique_id', 'state_9', 'gform_target_page_number_9', 'gform_source_page_number_9', 'gform_field_values']
+  Form: action=POST | method=POST | fields=['input_7.3', 'input_7.6', 'input_8.1', 'input_8.2', 'input_8.3', 'input_8.4', 'input_8.5', 'input_8.6', 'input_9', 'input_10', 'input_3', 'input_3', 'input_3', 'input_12.3', 'input_12.6', 'input_13.3', 'input_13.4', 'input_13.6', 'input_4', 'gform_submission_method', 'gform_theme', 'gform_style_settings', 'is_submit_11', 'gform_submit', 'gform_currency', 'gform_unique_id', 'state_11', 'gform_target_page_number_11', 'gform_source_page_number_11', 'gform_field_values']
+  Form: action=POST | method=POST | fields=['input_14', 'input_1.3', 'input_1.6', 'input_2', 'input_3', 'input_8.4', 'input_8.5', 'input_8.6', 'input_12', 'input_13', 'input_11.1', 'input_11.2', 'input_11.3', 'gform_submission_method', 'gform_theme', 'gform_style_settings', 'is_submit_9', 'gform_submit', 'gform_currency', 'gform_unique_id', 'state_9', 'gform_target_page_number_9', 'gform_source_page_number_9', 'gform_field_values']
+
+NAVIGATION STRUCTURE
+--------------------
+  https://level10coatings.com/residential/basement-flooring/
+  https://level10coatings.com
+  https://level10coatings.com/refer/
+  https://level10coatings.com/about-us/finn-kiger/
+  https://level10coatings.com/residential/outdoor-coatings/pool-decks/
+  https://level10coatings.com/commercial/healthcare/
+  https://level10coatings.com/commercial/neat-stout-floors/
+  https://level10coatings.com/pricing/
+  https://level10coatings.com/residential/flake-floor-system/
+  https://level10coatings.com/commercial/automotive/
+  https://level10coatings.com/service-areas/southwest-michigan/
+  https://level10coatings.com/request-a-quote/
+  https://level10coatings.com/service-areas/indianapolis/carmel/
+  https://level10coatings.com/commercial/education/
+  https://level10coatings.com/commercial/grind-seal/
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 10
+
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
+Crawl-delay: 10
+
+Sitemap: https://level10coatings.com/sitemap
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://level10coatings.com/post-sitemap.xml
+  https://level10coatings.com/page-sitemap.xml
+  https://level10coatings.com/e-floating-buttons-sitemap.xml
+  https://level10coatings.com/landing_page-sitemap.xml
+  https://level10coatings.com/video-sitemap.xml
+  https://level10coatings.com/local-sitemap.xml
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Security score 25/100 — ENP runs enterprise-grade hardened infrastructure
+  2. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (0)
+
+
+JS BUNDLES DOWNLOADED (0)
+
+
+IMAGE ASSETS DOWNLOADED (0)
+
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
