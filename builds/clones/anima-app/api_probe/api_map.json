@@ -1,0 +1,268 @@
+{
+  "open": [
+    {
+      "url": "https://api.animaapp.com",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!DOCTYPE html><html data-n-head-ssr=\"\" lang=\"en\" data-n-head=\"%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D\"><head>\n    <title>Anima: Build Websites &amp; Apps with AI | UX Design Agent | Figma to Code</"
+    },
+    {
+      "url": "https://api.animaapp.com/rpc/get_personalization_data",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "{'country': 'United States', 'hide_sales': False}",
+      "is_json": true
+    },
+    {
+      "url": "https://projects.animaapp.com",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!DOCTYPE html><html lang=\"en\"><head><script>window.dataLayer = window.dataLayer || [];\n    function gtag() { window.dataLayer.push(arguments); }\n\n    // Very strict default \u2013 everything denied until "
+    },
+    {
+      "url": "https://projects.animaapp.com/login",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!DOCTYPE html><html lang=\"en\"><head><script>window.dataLayer = window.dataLayer || [];\n    function gtag() { window.dataLayer.push(arguments); }\n\n    // Very strict default \u2013 everything denied until "
+    },
+    {
+      "url": "https://ipapi.co/json/",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "{'ip': '54.89.163.217', 'network': '54.88.0.0/14', 'version': 'IPv4', 'city': 'Ashburn', 'region': 'Virginia', 'region_code': 'VA', 'country': 'US', 'country_name': 'United States', 'country_code': 'US', 'country_code_iso3': 'USA', 'country_capital': 'Washington', 'country_tld': '.us', 'continent_co",
+      "is_json": true
+    },
+    {
+      "url": "https://docs.animaapp.com/docs/anima-mcp",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!DOCTYPE html><html lang=\"en\" style=\"\" data-color-mode=\"system\" class=\" useReactApp  \"><head><meta charset=\"utf-8\"><meta name=\"readme-deploy\" content=\"5.781.3\"><meta name=\"readme-subdomain\" content=\""
+    },
+    {
+      "url": "https://playground-api.animaapp.com/health",
+      "status": 200,
+      "content_type": "",
+      "server": "",
+      "response_preview": "{'status': 'ok'}",
+      "is_json": true
+    }
+  ],
+  "auth_required": [
+    {
+      "url": "https://c.animaapp.com/4",
+      "status": 403,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>H1Z08RXWHTR4Z14R</RequestId><HostId>F/FHEsZnVHovoQ2ayndVvTW5RVHqAfFt36kPHDyAwbGzoCSp9l"
+    },
+    {
+      "url": "https://c.animaapp.com/api",
+      "status": 403,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>H1ZD1RKVJN00DY0J</RequestId><HostId>bJeGdjlwdFet408/av8qK8sBenaD8hnvZdnqIQmZ8uyZUhYKin"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/auth/login",
+      "status": 401,
+      "content_type": "",
+      "server": "",
+      "response_preview": "{'error': 'Missing or invalid authorization', 'msg': 'Missing Authorization Header'}",
+      "is_json": true
+    }
+  ],
+  "not_found": [
+    {
+      "url": "https://playground-api.animaapp.com",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "404 Not Found"
+    },
+    {
+      "url": "https://api.animaapp.com/v1",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v2",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/health",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/status",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/ping",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/templates",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/components",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/projects",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/users",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v1/plugins",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/v2/templates",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/graphql",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/api/graphql",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://docs.animaapp.com/api",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!DOCTYPE html><html lang=\"en\" style=\"\" data-color-mode=\"system\" class=\" useReactApp  \"><head><meta charset=\"utf-8\"><meta name=\"readme-deploy\" content=\"5.781.3\"><meta name=\"readme-subdomain\" content=\""
+    },
+    {
+      "url": "https://playground-api.animaapp.com/v1",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "{'message': 'Playground not found'}",
+      "is_json": true
+    },
+    {
+      "url": "https://api.animaapp.com/openapi.json",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/swagger.json",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/docs",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/.well-known/openid-configuration",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/auth",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/oauth",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    },
+    {
+      "url": "https://api.animaapp.com/webhooks",
+      "status": 404,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai"
+    }
+  ],
+  "error": [
+    {
+      "url": "https://api.animaapp.com/v1/webhooks",
+      "status": 429,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>429 Too Many Requests</title>\n<h1>Too Many Requests</h1>\n<p>20 per 1 second</p>\n"
+    },
+    {
+      "url": "https://mcp.animaapp.com",
+      "status": 0,
+      "content_type": "",
+      "server": "",
+      "response_preview": "Cannot connect to host mcp.animaapp.com:443 ssl:False [Name or service not known]"
+    },
+    {
+      "url": "https://api.animaapp.com/mcp",
+      "status": 429,
+      "content_type": "",
+      "server": "",
+      "response_preview": "<!doctype html>\n<html lang=en>\n<title>429 Too Many Requests</title>\n<h1>Too Many Requests</h1>\n<p>20 per 1 second</p>\n"
+    }
+  ],
+  "redirect": []
+}
