@@ -1,0 +1,204 @@
+COMPETITIVE INTELLIGENCE REPORT — WEBFLOW
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://webflow.com
+Category:     website_builder
+Overall Score: 80/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      23
+Assets Downloaded:  39 (CSS: 15 | JS: 20 | Images: 4)
+API Endpoints:      0
+Forms Found:        9
+Tech Stack Items:   6
+Sitemap URLs:       6
+
+SCORECARD
+---------
+Security:    80/100
+Tech Stack:  48/100
+SEO:         50/100
+Conversion: 100/100
+Design:     100/100
+UX:         100/100
+OVERALL:     80/100
+
+TECH STACK (detected)
+---------------------
+  + Webflow
+  + GTM
+  + GA4
+  + Cloudflare
+  + Tailwind
+  + Vercel
+
+SECURITY AUDIT
+--------------
+Score: 70/100  Grade: A
+  https: True
+  csp: frame-ancestors 'self' https://*.webflow.com https://webflow.com https://app.intellimize.com; style-
+  hsts: max-age=31536000; preload
+  x_frame: SAMEORIGIN
+  referrer_policy: strict-origin-when-cross-origin
+  cloudflare: True
+  cf_ray: a112a5eb0f498663-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-55XXQM3F']
+  GA_IDs: ['UA-34677682-36']
+
+API ENDPOINTS FOUND
+-------------------
+  None found
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Make your website a growth engine
+  Make websites that drive results
+  Build visually. Bring your code with you.
+  How Dropbox Sign transformed internal collaboration with Webflow
+  AI that turns creativity into conversions
+  Tune in to learn how to build better
+  Become a Webflow template designer
+  Comparing Wix vs. Webflow
+
+Meta Description:
+  
+
+OG Title:
+  
+
+CTA Buttons Found:
+  Webflow Cloud
+  Partner with Webflow
+  Performance
+  Localization
+  Hosting
+  Freelancers
+  Notre Communauté
+  Commencez gratuitement
+
+PRICING SIGNALS
+---------------
+  $450
+  $400
+  $4
+  $500
+  $335
+  $6
+  $200
+  $150
+  $1
+  $0
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['Search']
+  Form: action=POST | method=POST | fields=['Weeks spent from web creation to publish before Webflow', 'Email', 'Email 2']
+  Form: action=POST | method=POST | fields=['Revenue', 'Sessions', 'Conversion rate', 'Conversion rate (Lead to customer)', 'Deal size']
+  Form: action=POST | method=POST | fields=[]
+  Form: action=POST | method=GET | fields=['Name', 'Email', 'Workspace Name']
+
+NAVIGATION STRUCTURE
+--------------------
+  https://webflow.com/libraries?utm_source=marketplace
+  https://webflow.com/interactions-animations?utm_source=marketplace
+  https://webflow.com/feature/ai
+  /feature/optimize
+  https://webflow.com/templates/applications
+  https://webflow.com/marketplace
+  https://university.webflow.com
+  /feature/localization
+  https://webflow.com/fr/security
+  https://webflow.com/fr/feature/design
+  https://webflow.com/vs/wix
+  /feature/seo
+  https://webflow.com/feature/cms
+  /ai
+  https://webflow.com/fr/feature/ai
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+Disallow: /admin/
+Disallow: /template/
+Disallow: /design/
+Disallow: /dashboard/
+Allow: /api/discover/sites/
+Allow: /api/v1/marketplace/made-in-webflow/
+Disallow: /api/
+
+Sitemap: https://webflow.com/sitemap.xml
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/profiles_sitemap0.xml
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/tags_sitemap0.xml
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/showcase_projects_sitemap0.xml
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/showcase_projects_sitemap1.xml
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/apps_sitemap0.xml
+  https://d3e54v103j8qbb.cloudfront.net/growth-seo/live/manual_sitemap_entries_sitemap0.xml
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.689a05c887d8b4bc384bb480.420713da8.opt.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.68fb6dadf5ab6ced5a241966.6459821df.opt.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.6883f65f1cd24a3b8612b522.671af99cb.opt.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.689350c9e3812af3176d7f71.7d3f0c0f0.opt.min.css
+  https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.689508ae406ed41b68b97ea0.989375090.opt.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.691e1d46ddc194b3d1ac3bdf.3842d3fa5.opt.min.css
+  https://cdn.prod.website-files.com/5e593fb060cf87bbaf75dd20/css/template-marketplace.webflow.shared.253854888.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.689a2374b2882864f280a221.d0e14e5b2.opt.min.css
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/css/marketing-main.webflow.689376ddb0ad7602fd08734a.cd513dd44.opt.min.css
+
+JS BUNDLES DOWNLOADED (20)
+  https://unpkg.com/tippy.js@4
+  https://cdn.prod.website-files.com/5e593fb060cf87bbaf75dd20/js/webflow.schunk.1ab20e9f2a857ccd.js
+  https://cdn.prod.website-files.com/5e593fb060cf87bbaf75dd20/js/webflow.schunk.c0c819fe06fd4593.js
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/js/webflow.262254aa.7a9e6a02c9f09aaa.js
+  https://cdn.jsdelivr.net/gh/webflow/brand_studio@latest/marketo/branded-marketo-forms.min.js
+  https://cdn.prod.website-files.com/5e593fb060cf87bbaf75dd20%2F652d31f3dc22d7b4ee708e44%2F66105d2def5dc885463964ae%2Fclarity_script-2.9.8.js
+  https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/js/webflow.c2f98d56.1264a5ab465d9c9c.js
+  https://cdn.jsdelivr.net/gh/webflow/brand_studio@latest/global-brand-code/brand-head-scripts.js
+  https://unpkg.com/popper.js@1
+
+IMAGE ASSETS DOWNLOADED (4)
+  https://cdn.prod.website-files.com/686294e263eb7e215bd232f7/689c64aeae701d9e0933ae8b_Craig%20Mestel.webp
+  https://dhygzobemt712.cloudfront.net/Web/logos/dark/funsize.svg
+  https://dhygzobemt712.cloudfront.net/Web/logos/dark/dropbox.svg
+  https://dhygzobemt712.cloudfront.net/Web/logos/dark/open-ai.svg
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
