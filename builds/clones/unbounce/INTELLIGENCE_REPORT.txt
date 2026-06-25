@@ -1,0 +1,212 @@
+COMPETITIVE INTELLIGENCE REPORT — UNBOUNCE
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://unbounce.com
+Category:     landing_builder
+Overall Score: 82/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  29 (CSS: 3 | JS: 15 | Images: 11)
+API Endpoints:      1
+Forms Found:        23
+Tech Stack Items:   6
+Sitemap URLs:       12
+
+SCORECARD
+---------
+Security:    90/100
+Tech Stack:  48/100
+SEO:        100/100
+Conversion: 100/100
+Design:      55/100
+UX:         100/100
+OVERALL:     82/100
+
+TECH STACK (detected)
+---------------------
+  + WordPress
+  + GTM
+  + GA4
+  + Cloudflare
+  + Bootstrap
+  + jQuery
+
+SECURITY AUDIT
+--------------
+Score: 80/100  Grade: A
+  https: True
+  csp: upgrade-insecure-requests;
+  hsts: max-age=63072000
+  x_frame: SAMEORIGIN
+  x_content_type: nosniff
+  referrer_policy: strict-origin-when-cross-origin
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5eb1919c94b-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-ND9H2L']
+  GA_IDs: ['UA-10210606-22']
+
+API ENDPOINTS FOUND
+-------------------
+  /wp-admin/admin-ajax.php
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Launch faster. Convert more.
+  Privacy Policy
+  Features that set you up for success
+  Accessibility statement
+  The AI copywriting assistant that builds better landing pages
+  CCPA/CPRA
+  Attract more qualified leads with landing pages
+  Quickly launch high-converting landing pages
+
+Meta Description:
+  Grow your leads and sales with Unbounce. Easily create, test, and optimize landing pages, and boost conversions using AI insights—start turning traffic into customers today!
+
+OG Title:
+  Scale campaigns and conversions with ease
+
+CTA Buttons Found:
+  Start my 14-days trial
+  Try it for free
+  Connect with a solutions specialist
+  Apply filters
+  Start optimizing
+  Start experimenting for free
+  Connect with a Solutions Specialist
+  Watch their story
+
+PRICING SIGNALS
+---------------
+  $4
+  $500
+  $6
+  $1
+  $053
+  $5
+  $2,500
+  $5,000
+  $74/mo
+  $300
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['hidden', 's']
+  Form: action=POST | method=POST | fields=['hidden', 's']
+  Form: action=POST | method=POST | fields=['hidden', 's']
+  Form: action=POST | method=POST | fields=['hidden', 's']
+  Form: action=POST | method=POST | fields=['hidden', 's']
+
+NAVIGATION STRUCTURE
+--------------------
+  /marketing-ai/
+  /landing-page-templates/
+  /solutions/use-case/social-ads/
+  /a-b-testing/
+  /solutions/industry/professional-services/
+  /landing-page-examples-built-with-unbounce/
+  /ecommerce/
+  /solutions/use-case/email-marketing/
+  /solutions/industry/saas/
+  https://unbounce.com/landing-pages/
+  /contact-us/
+  https://copy.unbounce.com/
+  /solutions/industry/small-businesses/
+  /solutions/industry/ecommerce/
+  https://unbounce.com/landing-page-templates/
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /docs/
+Disallow: /photos/*.pdf
+Disallow: /partner/
+Disallow: /wp-json/
+Allow: /docs/*.gif$
+Allow: /docs/*.png$
+Allow: /docs/*.jpg$
+Allow: /wp-admin/admin-ajax.php
+
+
+Sitemap: https://unbounce.com/sitemap_index.xml
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://unbounce.com/post-sitemap.xml
+  https://unbounce.com/post-sitemap2.xml
+  https://unbounce.com/page-sitemap.xml
+  https://unbounce.com/cipillars-sitemap.xml
+  https://unbounce.com/landingpageexample-sitemap.xml
+  https://unbounce.com/landingpagetemplate-sitemap.xml
+  https://unbounce.com/customers-sitemap.xml
+  https://unbounce.com/integrationtemplate-sitemap.xml
+  https://unbounce.com/glossary-sitemap.xml
+  https://unbounce.com/lpsessions-sitemap.xml
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (3)
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/css/singleblog.min.css?a7fe055ad704d36b9fac9629c8667db7
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/css/general2019.min.css?bd7fbccbaa380260935f2be690d8a0de
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/css/contentLibrary2023.min.css?1765348522
+
+JS BUNDLES DOWNLOADED (15)
+  https://d3rqem538l0q4a.cloudfront.net/Scripts/insightly/core/apps/marketing/ins.marketingformsubmissionhandler.js
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/jquery.webui-popover.js
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/js/bootstrap2024.min.js?1745912369
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/js/general.min.js?f13a7b6e02c5085b86fa473dfb5990d8
+  https://unbounce.com/wp-content/plugins/perfmatters/js/lazyload.min.js
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/js/template2019.min.js?9ce3422a75b2a2de7e83e3911feb6336
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/js/embedform2025.min.js?1747290993
+  https://cdn.jsdelivr.net/gh/space10-community/conversational-form@1.0.1/dist/conversational-form.min.js
+  https://unbounce.com/wp-includes/js/jquery/jquery.min.js
+  https://unbounce.com/wp-content/themes/unbounce2019/assets/js/layout2025.min.js?1775833272
+
+IMAGE ASSETS DOWNLOADED (11)
+  https://unbounce.com/photos/Integrations-preview-1-650x406.webp
+  https://unbounce.com/photos/home-hero-mobile-v2.png
+  https://unbounce.com/photos/Crown-1.svg
+  https://unbounce.com/photos/Whip-up-mobile-responsive-720-x-853-650x770.png
+  https://unbounce.com/photos/version.svg
+  https://unbounce.com/photos/how-to-create-a-landing-page-horizontal_model.jpg
+  https://unbounce.com/photos/webinar-templates.png
+  https://unbounce.com/photos/Mark_Bunker-1.png
+  https://unbounce.com/photos/BookOpenCheck.svg
+  https://unbounce.com/photos/video.png
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
