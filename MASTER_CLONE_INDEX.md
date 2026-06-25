@@ -1,26 +1,26 @@
-# APEX MASTER CLONE INDEX — Full Extraction
-Generated: 2026-06-25 08:39 UTC
-Sites: 20/20 | Pages: 325 | Assets: 552 | APIs: 70 | Time: 127.5s
 
-| Site | Pages | Assets | APIs | Security | Score | Drive | GitHub | Status |
-|------|-------|--------|------|----------|-------|-------|--------|--------|
-| [leadpages](https://leadpages.com) | 26 | 38 | 29 | A/80 | 73/100 | [📁](https://drive.google.com/drive/folders/1q9JrrUY112vGIpscGr0yroXxzJVU88Sq) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/leadpages) | complete |
-| [unbounce](https://unbounce.com) | 26 | 29 | 1 | A/80 | 82/100 | [📁](https://drive.google.com/drive/folders/166aRyNMr6w2C95v7868hE7rdwfBNWlge) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/unbounce) | complete |
-| [garage-experts](https://garageexperts.com) | 26 | 10 | 0 | A/75 | 78/100 | [📁](https://drive.google.com/drive/folders/1nvnL42jyVwn4FwTkKv5v6CM8VUxBSQ5-) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/garage-experts) | complete |
-| [directcolors](https://directcolors.com) | 25 | 41 | 9 | A/75 | 86/100 | [📁](https://drive.google.com/drive/folders/14CzGS-tMQm81P3NvI32hhEW6wY2sejIY) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/directcolors) | complete |
-| [webflow](https://webflow.com) | 23 | 39 | 0 | A/70 | 80/100 | [📁](https://drive.google.com/drive/folders/1TGizudnbWKfViEhHkpdIKA6A7oPqxrzY) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/webflow) | complete |
-| [duda](https://duda.co) | 6 | 44 | 6 | A/70 | 74/100 | [📁](https://drive.google.com/drive/folders/1k7RrcsZhhlmrzMZaKKPVD4Kjdv5OFSQb) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/duda) | complete |
-| [penntek](https://penntek.com) | 2 | 7 | 0 | B/65 | 50/100 | [📁](https://drive.google.com/drive/folders/1XbsyJjCNp3cynisCFA6NjIqo_F7o5epn) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/penntek) | complete |
-| [stronghold-floors](https://strongholdfloors.com) | 2 | 46 | 1 | B/60 | 66/100 | [📁](https://drive.google.com/drive/folders/1RTxRr-Df9yR-e8LbaXyfqdZW74GTAN-L) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/stronghold-floors) | complete |
-| [framer](https://framer.com) | 25 | 10 | 2 | B/60 | 72/100 | [📁](https://drive.google.com/drive/folders/1wZMaoKFKj5Ts6uXOMKAEHwd4eq5aPH7Z) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/framer) | complete |
-| [cascade-concrete](https://cascadeconcrete.com) | 19 | 33 | 1 | C/50 | 62/100 | [📁](https://drive.google.com/drive/folders/1_dPf7S7GdfxTxaprhstTB1c555eqfbZR) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/cascade-concrete) | complete |
-| [wix](https://wix.com) | 1 | 29 | 3 | C/50 | 61/100 | [📁](https://drive.google.com/drive/folders/1egaD4tKS-SHGzaTQ_kMslqexNkP1bunO) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/wix) | complete |
-| [shopify](https://shopify.com) | 26 | 20 | 0 | C/50 | 81/100 | [📁](https://drive.google.com/drive/folders/1-lESjrGjVW_Z_e72zsbPLCpS1JC_OB9-) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/shopify) | complete |
-| [torginol](https://torginol.com) | 26 | 15 | 4 | C/45 | 66/100 | [📁](https://drive.google.com/drive/folders/18J3Wt9zwGSnRFWeuHqC6qyEOSmB6068b) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/torginol) | complete |
-| [squarespace](https://squarespace.com) | 26 | 49 | 10 | C/45 | 86/100 | [📁](https://drive.google.com/drive/folders/1szbjKiFqlmVm2GZIBn5X40RUjm-zSt4m) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/squarespace) | complete |
-| [wordpress](https://wordpress.org) | 24 | 39 | 0 | C/45 | 81/100 | [📁](https://drive.google.com/drive/folders/1_0P-jzCdbf_qkSrUyB4atKoXeHZSDxX6) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/wordpress) | complete |
-| [epoxy-floors-texas](https://epoxyfloorstexas.com) | 1 | 31 | 2 | D/30 | 54/100 | [📁](https://drive.google.com/drive/folders/1nX5FYAbK9SotXxmTBDHmel_AgRcH2bTw) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/epoxy-floors-texas) | complete |
-| [godaddy](https://godaddy.com/websites) | 1 | 0 | 0 | D/30 | 12/100 | [📁](https://drive.google.com/drive/folders/1HISKUM32iN4yo1hdvgWUiTYpIVTTj-pc) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/godaddy) | complete |
-| [level10-coatings](https://level10coatings.com) | 26 | 0 | 0 | D/25 | 69/100 | [📁](https://drive.google.com/drive/folders/1U9xv2b-Dy9Aq0rmhD_30mdUS3XZpF0d4) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/level10-coatings) | complete |
-| [ameripolish](https://ameripolish.com) | 1 | 33 | 1 | D/25 | 38/100 | [📁](https://drive.google.com/drive/folders/1fTKGCgGXnXzW0Nf4H1zvRVS7GNp703iP) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/ameripolish) | complete |
-| [quality-epoxy](https://qualityepoxy.com) | 13 | 39 | 1 | F/20 | 65/100 | [📁](https://drive.google.com/drive/folders/1dVdbMK_JhgsZwTdlHte5wRJvn2ZyFNfD) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/quality-epoxy) | complete |
+---
+## ⚖️ MANDATORY CLONE PROTOCOL v1.0
+**Effective:** 2026-06-25 09:28 UTC  
+**Status:** ACTIVE — NON-NEGOTIABLE  
+**File:** [MANDATORY_CLONE_PROTOCOL.md](./MANDATORY_CLONE_PROTOCOL.md)
+
+### 6 Extraction Layers Required
+| Layer | Description |
+|-------|-------------|
+| L1 Frontend | Full HTML/CSS/JS/Images/Fonts — sitemap crawl (200 pages) |
+| L2 Backend API | All endpoints, form targets, auth flows |
+| L3 Infrastructure | DNS + SSL + 80+ subdomain enum + hidden paths |
+| L4 Deep JS | Secrets + env vars + tracking IDs + WebSockets |
+| L5 Design System | CSS tokens + colors + fonts + animations |
+| L6 Intel Synthesis | 500+ word report + scorecard + ENP gaps |
+
+### 6 Storage Destinations Required
+| Layer | Destination |
+|-------|-------------|
+| A | Sandbox `/app/builds/clones/<slug>/` |
+| B | Drive `PROJECTS/<LETTER>/<SLUG>/` |
+| C | GitHub `Strategic-Minds/<slug>-intelligence` |
+| D | Vercel live dashboard |
+| E | Supabase `full_clone_<slug>` importance=10 |
+| F | Base44 CloneJob entity |
