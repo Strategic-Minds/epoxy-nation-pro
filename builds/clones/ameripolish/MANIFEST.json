@@ -1,0 +1,96 @@
+{
+  "slug": "ameripolish",
+  "url": "https://ameripolish.com",
+  "cat": "epoxy_supplier",
+  "pages_scraped": 1,
+  "css_files": [
+    "https://www.ameripolish.com/css/fontdef.css",
+    "https://www.ameripolish.com/css/simplebar.css",
+    "https://www.ameripolish.com/css/site_frame.css",
+    "https://afeld.github.io/emoji-css/emoji.css",
+    "https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css",
+    "https://www.ameripolish.com/css/scss/custom_bootstrap.css",
+    "https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css",
+    "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
+    "https://www.ameripolish.com/css/page_landing.css",
+    "https://unpkg.com/simplebar@latest/dist/simplebar.css",
+    "https://www.ameripolish.com/css/xhr_simpleorderdetail.css"
+  ],
+  "js_files": [
+    "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js",
+    "https://www.ameripolish.com/js/storefront_shared.js",
+    "https://www.ameripolish.com/js/simplebar.js",
+    "https://ameripolish.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://www.ameripolish.com/js/bootstrap.min.js",
+    "https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.5.0/chart.js",
+    "https://unpkg.com/simplebar@latest/dist/simplebar.js",
+    "https://unpkg.com/es6-promise@4.2.4/dist/es6-promise.auto.min.js",
+    "https://unpkg.com/@mapbox/mapbox-sdk/umd/mapbox-sdk.min.js",
+    "https://code.jquery.com/jquery-3.3.1.min.js",
+    "https://www.ameripolish.com/js/ftellipsis.min.js",
+    "https://cdn.callrail.com/companies/301244335/717d7505d305e4435f7e/12/swap.js",
+    "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js",
+    "https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js",
+    "https://www.hiss3lark.com/js/167519.js",
+    "https://code.jquery.com/jquery-3.1.1.slim.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-111694247-1"
+  ],
+  "images": [
+    "https://www.ameripolish.com/ImgGet/svg/e0e8ec/subnav-overchunk.svg",
+    "https://www.ameripolish.com/img/products/upload/ProductImage-hi6b9smq6evqfg0.png",
+    "https://www.ameripolish.com/ImgGet/svg/9A1C36/subnav-downchunk.svg"
+  ],
+  "api_endpoints": [
+    "https://www.google.com/ccm/geo"
+  ],
+  "forms": [],
+  "integrations": {
+    "GA_IDs": [
+      "G-3Q26DC5GWE",
+      "UA-111694247-1"
+    ]
+  },
+  "tech": [
+    "HubSpot",
+    "GTM",
+    "GA4",
+    "Cloudflare",
+    "Bootstrap",
+    "jQuery"
+  ],
+  "security_score": 25,
+  "security_grade": "D",
+  "security_findings": {
+    "https": true,
+    "server": "cloudflare",
+    "cloudflare": true,
+    "cf_ray": "a112a5eb38d3396d-IAD"
+  },
+  "robots_txt": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the corresponding use.\n\n# The content signals and their meanings are:\n\n# search:   building a search index and providing search results (e.g., returning\n#           hyperlinks and short excerpts from your website's contents). Search does not\n#           include providing AI-generated search summaries.\n# ai-input: inputting content into one or more AI models (e.g., retrieval\n#           augmented generation, grounding, or other real-time taking of content for\n#           generative AI search answers).\n# ai-tr",
+  "sitemap_urls": [],
+  "meta_tags": {
+    "description": "",
+    "keywords": "",
+    "og_title": "",
+    "og_desc": ""
+  },
+  "schema_data": [],
+  "nav_links": [],
+  "headings": [],
+  "cta_texts": [
+    "VIDEOS",
+    "GALLERY",
+    "CLASSES",
+    "MORE INFO"
+  ],
+  "pricing_signals": [],
+  "assets_downloaded": 33,
+  "drive_folder_id": "1fTKGCgGXnXzW0Nf4H1zvRVS7GNp703iP",
+  "drive_folder_url": "https://drive.google.com/drive/folders/1fTKGCgGXnXzW0Nf4H1zvRVS7GNp703iP",
+  "status": "complete",
+  "errors": [],
+  "duration": 2.7,
+  "nav_structure": []
+}
