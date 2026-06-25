@@ -1,0 +1,456 @@
+{
+  "slug": "torginol",
+  "url": "https://torginol.com",
+  "cat": "epoxy_supplier",
+  "pages_scraped": 26,
+  "css_files": [
+    "https://torginol.com/ctrlpanelresources/8514fa70/_main.css?v=1780328624",
+    "https://torginol.com/dist/css/app-zG-rTSii.css",
+    "https://torginol.com/ctrlpanelresources/46ca5c3f/css/front-end/plugin/freeform.css?v=1776963219"
+  ],
+  "js_files": [
+    "https://torginol.com/dist/js/sitewideAlerts-DhOwiyVc.js",
+    "https://torginol.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://torginol.com/ctrlpanelresources/46ca5c3f/js/scripts/front-end/plugin/freeform.js?v=1776963219",
+    "https://torginol.com/dist/js/react-BhnGJ18D.js",
+    "https://maps.googleapis.com/maps/api/js?key=AIzaSyD9mzQJd46_yj6CyTpXAHhxpStwVkUWx_c&libraries=places",
+    "https://torginol.com/dist/js/partner-locator-CNnFEV2B.js",
+    "https://static.addtoany.com/menu/page.js"
+  ],
+  "images": [
+    "https://assets.torginol.com/uploads/Products/Flake/Hybrid%20Stone/FB-4102-Quartzite/_380x380_fit_center-center_none_ns/50257/FB-4102_QUARTZITE_PILE.avif?v=1773866485",
+    "https://assets.torginol.com/uploads/Products/_120x120_crop_center-center_none_ns/STONE-FLAKE-bifold-2024_5.jpg?v=1773884735",
+    "https://assets.torginol.com/uploads/_640xAUTO_crop_center-center_none_ns/155148/FB-255_Growl_Commercial_Locker_Room_1200x1200.avif?v=1780342910",
+    "https://assets.torginol.com/uploads/Products/Flake/Terrazzo/FB-4214-Denali/_380x380_crop_center-center_none_ns/FB-4214_DENALI_PILE.jpg?v=1773866600",
+    "https://assets.torginol.com/uploads/Products/Flake/Archive/FB-220%20Daredevil/_120x120_crop_center-center_none_ns/FB-220_DAREDEVIL_PILE.jpg?v=1773870514"
+  ],
+  "api_endpoints": [
+    "/ajax/sitewideAlerts?urgentAlerts=",
+    "/freeform/tokens",
+    "/freeform/ab-test/tracker",
+    "/actions/reusser/forms?form=contact"
+  ],
+  "forms": [
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": []
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "id"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "submit",
+      "method": "POST",
+      "fields": [
+        "formHash",
+        "CRAFT_CSRF_TOKEN",
+        "action",
+        "formSourceUrl",
+        "freeform-action",
+        "fullName",
+        "email",
+        "phoneNumber",
+        "companyName",
+        "industry",
+        "freeform_payload"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "colors[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "tones[]",
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "keywords"
+      ]
+    }
+  ],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-KVT9XWQH"
+    ],
+    "Stripe_PK": [
+      "pk_live_51LnjSFLEy3FpQjzDP9vSBzXEVx1xndFx7Q4LVEeJo3HAqCISCk0XckRtnLoigjupli3vuRT6J4kof6i6xnMRu4kA00xgpM3rz5"
+    ]
+  },
+  "tech": [
+    "Stripe",
+    "GTM",
+    "GA4",
+    "Cloudflare"
+  ],
+  "security_score": 45,
+  "security_grade": "C",
+  "security_findings": {
+    "https": true,
+    "x_frame": "SAMEORIGIN",
+    "x_content_type": "nosniff",
+    "server": "cloudflare",
+    "cloudflare": true,
+    "cf_ray": "a112a5eb0f27d46b-IAD"
+  },
+  "robots_txt": "# robots.txt for https://torginol.com/\n\nsitemap: https://torginol.com/sitemaps-1-sitemap.xml\n\n# live - don't allow web crawlers to index ctrlpanelresources/ or vendor/\n\nUser-agent: *\nDisallow: /ajax/\nDisallow: /ctrlpanelresources/\nDisallow: /vendor/\nDisallow: /.env\nDisallow: /cache/\n\n",
+  "sitemap_urls": [],
+  "meta_tags": {
+    "description": "For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.",
+    "keywords": "Floor coatings, flooring products",
+    "og_title": "",
+    "og_desc": ""
+  },
+  "schema_data": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"author\":{\"@id\":\"www.torginol.com#identity\"},\"copyrightHolder\":{\"@id\":\"www.torginol.com#identity\"},\"copyrightYear\":\"2019\",\"creator\":{\"@id\":\"https://reusserdesign.com#creator\"},\"dateCreated\":\"2019-09-12T08:39:17-04:00\",\"dateModified\":\"2026-06-12T12:10:50-04:00\",\"datePublished\":\"2019-09-12T08:39:00-04:00\",\"description\":\"For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.\",\"headline\":\"Enhancing Everyday Spaces\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://assets.torginol.com/uploads/Pages/Company/_1200x630_crop_center-center_82_none_ns/DSC_0191-1.jpg?v=1773864362\"},\"inLanguage\":\"en-us\",\"mainEntityOfPage\":\"https://torginol.com/\",\"name\":\"Torginol\u00ae\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=keywords\",\"target\":\"https://torginol.com/search?keywords={keywords}\"},\"publisher\":{\"@id\":\"https://reusserdesign.com#creator\"},\"url\":\"https://torginol.com/\"},{\"@id\":\"www.torginol.com#identity\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Sheboygan\",\"addressRegion\":\"Wisconsin\",\"postalCode\":\"53081\",\"streetAddress\":\"4617 S Taylor Drive\"},\"description\":\"Torginol is a manufacturer of high-quality materials that enhance everyday spaces throughout the world.\",\"email\":\"service@torginol.com\",\"image\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://s3.us-east-2.amazonaws.com/assets.torginol.com/uploads/Logos/torginol.png?v=1651157100\",\"width\":\"267\"},\"logo\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://assets.torginol.com/uploads/Logos/_600x60_fit_center-center_82_none_ns/torginol.png?v=1773869742\",\"width\":\"267\"},\"name\":\"Torginol\u00ae\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Monday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Tuesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Wednesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Thursday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"16:00:00\",\"dayOfWeek\":[\"Friday\"],\"opens\":\"07:30:00\"}],\"priceRange\":\"$\",\"sameAs\":[\"https://www.facebook.com/TORGINOL/\",\"https://bo.linkedin.com/company/torginol-inc.\",\"https://www.youtube.com/channel/UCdY94KbAEMs1lCQnlk3HxdQ\",\"https://www.instagram.com/torginol/\"],\"telephone\":\"(920) 694-4800\",\"url\":\"https://torginol.com/www.torginol.com\"},{\"@id\":\"https://reusserdesign.com#creator\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Roanoke\",\"addressRegion\":\"IN\",\"postalCode\":\"46783\",\"streetAddress\":\"150 S Main St\"},\"description\":\"We are a results-driven digital agency crafting innovative solutions that create demand and generate value for the clients we serve. We support businesses and organizations on their journey to become a better version of themselves. We believe everyone deserves best-in-class digital products to help them compete and succeed in a digital world.\",\"email\":\"hello@reusserdesign.com\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"40.960980\",\"longitude\":\"-85.373530\"},\"name\":\"Reusser Design, LLC\",\"priceRange\":\"$\",\"telephone\":\"260.676.2261\",\"url\":\"https://reusserdesign.com\"},{\"@type\":\"BreadcrumbList\",\"description\":\"Breadcrumbs list\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://torginol.com/\",\"name\":\"Homepage\",\"position\":1}],\"name\":\"Breadcrumbs\"}]}",
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"author\":{\"@id\":\"www.torginol.com#identity\"},\"copyrightHolder\":{\"@id\":\"www.torginol.com#identity\"},\"copyrightYear\":\"2022\",\"creator\":{\"@id\":\"https://reusserdesign.com#creator\"},\"dateCreated\":\"2022-05-09T14:26:15-04:00\",\"dateModified\":\"2022-05-09T14:26:24-04:00\",\"datePublished\":\"2022-05-09T14:26:00-04:00\",\"description\":\"For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.\",\"headline\":\"Sitemap\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://assets.torginol.com/uploads/Pages/Company/_1200x630_crop_center-center_82_none_ns/DSC_0191-1.jpg?v=1773864362\"},\"inLanguage\":\"en-us\",\"mainEntityOfPage\":\"https://torginol.com/sitemap\",\"name\":\"Sitemap\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=keywords\",\"target\":\"https://torginol.com/search?keywords={keywords}\"},\"publisher\":{\"@id\":\"https://reusserdesign.com#creator\"},\"url\":\"https://torginol.com/sitemap\"},{\"@id\":\"www.torginol.com#identity\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Sheboygan\",\"addressRegion\":\"Wisconsin\",\"postalCode\":\"53081\",\"streetAddress\":\"4617 S Taylor Drive\"},\"description\":\"Torginol is a manufacturer of high-quality materials that enhance everyday spaces throughout the world.\",\"email\":\"service@torginol.com\",\"image\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://s3.us-east-2.amazonaws.com/assets.torginol.com/uploads/Logos/torginol.png?v=1651157100\",\"width\":\"267\"},\"logo\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://assets.torginol.com/uploads/Logos/_600x60_fit_center-center_82_none_ns/torginol.png?v=1773869742\",\"width\":\"267\"},\"name\":\"Torginol\u00ae\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Monday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Tuesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Wednesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Thursday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"16:00:00\",\"dayOfWeek\":[\"Friday\"],\"opens\":\"07:30:00\"}],\"priceRange\":\"$\",\"sameAs\":[\"https://www.facebook.com/TORGINOL/\",\"https://bo.linkedin.com/company/torginol-inc.\",\"https://www.youtube.com/channel/UCdY94KbAEMs1lCQnlk3HxdQ\",\"https://www.instagram.com/torginol/\"],\"telephone\":\"(920) 694-4800\",\"url\":\"https://torginol.com/www.torginol.com\"},{\"@id\":\"https://reusserdesign.com#creator\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Roanoke\",\"addressRegion\":\"IN\",\"postalCode\":\"46783\",\"streetAddress\":\"150 S Main St\"},\"description\":\"We are a results-driven digital agency crafting innovative solutions that create demand and generate value for the clients we serve. We support businesses and organizations on their journey to become a better version of themselves. We believe everyone deserves best-in-class digital products to help them compete and succeed in a digital world.\",\"email\":\"hello@reusserdesign.com\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"40.960980\",\"longitude\":\"-85.373530\"},\"name\":\"Reusser Design, LLC\",\"priceRange\":\"$\",\"telephone\":\"260.676.2261\",\"url\":\"https://reusserdesign.com\"},{\"@type\":\"BreadcrumbList\",\"description\":\"Breadcrumbs list\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://torginol.com/\",\"name\":\"Homepage\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://torginol.com/sitemap\",\"name\":\"Sitemap\",\"position\":2}],\"name\":\"Breadcrumbs\"}]}",
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Corporation\",\"description\":\"For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://assets.torginol.com/uploads/Pages/Company/_1200x630_crop_center-center_82_none_ns/DSC_0191-1.jpg?v=1773864362\"},\"mainEntityOfPage\":\"https://torginol.com\",\"name\":\"Enhancing Everyday Surfaces\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=keywords\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://torginol.com/search?keywords={keywords}\"}},\"url\":\"https://torginol.com\"},{\"@id\":\"www.torginol.com#identity\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Sheboygan\",\"addressRegion\":\"Wisconsin\",\"postalCode\":\"53081\",\"streetAddress\":\"4617 S Taylor Drive\"},\"description\":\"Torginol is a manufacturer of high-quality materials that enhance everyday spaces throughout the world.\",\"email\":\"service@torginol.com\",\"image\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://s3.us-east-2.amazonaws.com/assets.torginol.com/uploads/Logos/torginol.png?v=1651157100\",\"width\":\"267\"},\"logo\":{\"@type\":\"ImageObject\",\"height\":\"56\",\"url\":\"https://assets.torginol.com/uploads/Logos/_600x60_fit_center-center_82_none_ns/torginol.png?v=1773869742\",\"width\":\"267\"},\"name\":\"Torginol\u00ae\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Monday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Tuesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Wednesday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:30:00\",\"dayOfWeek\":[\"Thursday\"],\"opens\":\"07:30:00\"},{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"16:00:00\",\"dayOfWeek\":[\"Friday\"],\"opens\":\"07:30:00\"}],\"priceRange\":\"$\",\"sameAs\":[\"https://www.facebook.com/TORGINOL/\",\"https://bo.linkedin.com/company/torginol-inc.\",\"https://www.youtube.com/channel/UCdY94KbAEMs1lCQnlk3HxdQ\",\"https://www.instagram.com/torginol/\"],\"telephone\":\"(920) 694-4800\",\"url\":\"https://torginol.com/www.torginol.com\"},{\"@id\":\"https://reusserdesign.com#creator\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Roanoke\",\"addressRegion\":\"IN\",\"postalCode\":\"46783\",\"streetAddress\":\"150 S Main St\"},\"description\":\"We are a results-driven digital agency crafting innovative solutions that create demand and generate value for the clients we serve. We support businesses and organizations on their journey to become a better version of themselves. We believe everyone deserves best-in-class digital products to help them compete and succeed in a digital world.\",\"email\":\"hello@reusserdesign.com\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"40.960980\",\"longitude\":\"-85.373530\"},\"name\":\"Reusser Design, LLC\",\"priceRange\":\"$\",\"telephone\":\"260.676.2261\",\"url\":\"https://reusserdesign.com\"},{\"@type\":\"BreadcrumbList\",\"description\":\"Breadcrumbs list\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://torginol.com/\",\"name\":\"Homepage\",\"position\":1}],\"name\":\"Breadcrumbs\"}]}"
+  ],
+  "nav_links": [
+    "https://torginol.com/inspiration/flooring-samples",
+    "https://torginol.com/products/pigment-flooring",
+    "https://torginol.com/resources/color-palettes",
+    "https://torginol.com/resources/blog",
+    "https://torginol.com/inspiration/colorlab",
+    "https://torginol.com/company/customer-service",
+    "/inspiration/flooring-samples",
+    "https://torginol.com/company/careers",
+    "/design",
+    "https://torginol.com/markets/commercial-flooring",
+    "https://torginol.com/contact",
+    "https://torginol.com/professionals/commercial-a-d",
+    "/cart",
+    "/search",
+    "https://torginol.com/inspiration",
+    "/find-my-blend",
+    "https://torginol.com/products/insignia-flooring",
+    "https://torginol.com/markets/residential-flooring",
+    "https://torginol.com/markets/industrial-flooring",
+    "https://torginol.com/resources/coverage-calculator"
+  ],
+  "headings": [
+    "Sitemap",
+    "Color Palettes",
+    "Blog",
+    "Claystone",
+    "Pergola",
+    "Yosemite",
+    "ColorLab",
+    "Customer Service",
+    "Twilight",
+    "FLAKE Stone Collection - Bi-fold",
+    "Careers",
+    "FLAKE Terrazzo Collection - Bi-fold"
+  ],
+  "cta_texts": [
+    "ColorLab",
+    "Flooring Samples",
+    "FREE SAMPLE",
+    "Submit",
+    "1/4&quot;",
+    "Hybrid",
+    "View Recommendations",
+    "Start Visualizing"
+  ],
+  "pricing_signals": [
+    "$3.75",
+    "$35.00",
+    "$1.99",
+    "$27.00",
+    "$33.00",
+    "$44.00",
+    "$1.00",
+    "$45.00"
+  ],
+  "assets_downloaded": 15,
+  "drive_folder_id": "18J3Wt9zwGSnRFWeuHqC6qyEOSmB6068b",
+  "drive_folder_url": "https://drive.google.com/drive/folders/18J3Wt9zwGSnRFWeuHqC6qyEOSmB6068b",
+  "status": "complete",
+  "errors": [],
+  "duration": 83.8,
+  "nav_structure": [
+    "https://torginol.com/inspiration/flooring-samples",
+    "https://torginol.com/products/pigment-flooring",
+    "https://torginol.com/resources/color-palettes",
+    "https://torginol.com/resources/blog",
+    "https://torginol.com/inspiration/colorlab",
+    "https://torginol.com/company/customer-service",
+    "/inspiration/flooring-samples",
+    "https://torginol.com/company/careers",
+    "/design",
+    "https://torginol.com/markets/commercial-flooring",
+    "https://torginol.com/contact",
+    "https://torginol.com/professionals/commercial-a-d",
+    "/cart",
+    "/search",
+    "https://torginol.com/inspiration"
+  ]
+}
