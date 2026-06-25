@@ -1,0 +1,187 @@
+COMPETITIVE INTELLIGENCE REPORT — WIX
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://wix.com
+Category:     website_builder
+Overall Score: 61/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      1
+Assets Downloaded:  29 (CSS: 15 | JS: 14 | Images: 0)
+API Endpoints:      3
+Forms Found:        0
+Tech Stack Items:   3
+Sitemap URLs:       30
+
+SCORECARD
+---------
+Security:    50/100
+Tech Stack:  44/100
+SEO:         90/100
+Conversion:  20/100
+Design:     100/100
+UX:          64/100
+OVERALL:     61/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + Wix
+  + GA4
+
+SECURITY AUDIT
+--------------
+Score: 50/100  Grade: C
+  https: True
+  hsts: max-age=31536000
+  x_content_type: nosniff
+  referrer_policy: no-referrer-when-downgrade
+  server: Pepyaka
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  None detected in JS/HTML
+
+API ENDPOINTS FOUND
+-------------------
+  ,params:e}}function tJ(e){return{evid:183,src:72,endpoint:
+  http-client-poc
+  ,params:e}}function tz(e){return{evid:181,src:72,endpoint:
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  The new way to create a website
+  Flow between instant generation and&nbsp;hand-crafted design
+  Website templates are another way in
+  Prompt, ask, bounce ideas. We can do it all together. I&rsquo;m your personal we
+  Extreme customization. Absolute control.
+  Add anything you need for your business as you go
+  Make your website official with your own domain name
+  Market your site from launch to scale
+
+Meta Description:
+  Get everything you need to build a website your way. Wix’s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.
+
+OG Title:
+  Your vision. Your goals. Your website. | Wix.com
+
+CTA Buttons Found:
+  None found
+
+PRICING SIGNALS
+---------------
+  $1
+  $,
+
+FORMS / LEAD CAPTURE
+--------------------
+  No forms detected
+
+NAVIGATION STRUCTURE
+--------------------
+  https://www.wix.com/wixel
+  https://www.wix.com/tools/business-name-generator
+  https://www.wix.com/plans
+  https://www.wix.com/domains
+  https://www.wix.com/tools
+  https://www.instagram.com/wix
+  https://www.wix.com/about/patent-notice
+  https://careers.wix.com
+  https://investors.wix.com
+  https://www.wix.com/features/main
+  https://www.youtube.com/user/Wix
+  https://www.wix.com/website/design
+  https://www.wix.com/portfolio-website
+  https://www.wix.com/website/templates
+  https://www.wix.com/restaurant/website
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /api/
+Disallow: /blogtemp
+Disallow: /wixblog
+Disallow: /bo/
+Disallow: /editor.jsp
+Disallow: /noflashhtml
+Disallow: /siteBackHtml
+Disallow: /wix/
+Disallow: /wixpress/
+Disallow: /wixdemo/
+Disallow: /wix-editor/
+Disallow: /editor2.jsp
+Disallow: /flash/
+Disallow: /flash-templates
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://www.wix.com/
+  https://www.wix.com/website/templates
+  https://www.wix.com/ai-website-builder
+  https://www.wix.com/website/design
+  https://www.wix.com/ecommerce/website
+  https://www.wix.com/scheduling-software
+  https://www.wix.com/restaurant/website
+  https://www.wix.com/start/blog
+  https://www.wix.com/portfolio-website
+  https://www.wix.com/domains
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Weak/missing lead capture forms — ENP has multi-step intake with instant estimate
+  2. ⚠️ Thin content (1 pages) — ENP dominates with 50+ city-specific landing pages
+  3. ⚠️ No GTM — ENP tracks every pixel, click, and conversion event
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Responsive].00874df4.min.css
+  https://static.parastorage.com/services/wix-footer/5c09d477fd84daafe84b73b9069c84e051752fcce4f0fb2b72e717eb/app.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].a710ff33.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLineStudio].74a141cc.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_Default].afa3e1d2.min.css
+  https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.c472a333.chunk.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].cc2b8d2e.min.css
+  https://static.parastorage.com/services/wix-header/8995ed4243a0cf049492fefb88115d1a321fc42b2da340482a3fa8b1/app.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].34d022c0.min.css
+  https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].5898ceca.min.css
+
+JS BUNDLES DOWNLOADED (14)
+  https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js
+  https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+  https://static.parastorage.com/services/tag-manager-client/1.1066.0/siteTags.bundle.min.js
+  https://static.parastorage.com/services/wix-thunderbolt/dist/main.59b25977.bundle.min.js
+  https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.a1dd627e.bundle.min.js
+  https://static.parastorage.com/services/wix-header/8995ed4243a0cf049492fefb88115d1a321fc42b2da340482a3fa8b1/app.bundle.min.js
+  https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+  https://static.parastorage.com/services/wix-footer/5c09d477fd84daafe84b73b9069c84e051752fcce4f0fb2b72e717eb/app.bundle.min.js
+  https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+  https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.99fa8096.bundle.min.js
+
+IMAGE ASSETS DOWNLOADED (0)
+
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
