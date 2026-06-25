@@ -1,87 +1,26 @@
-# MASTER CLONE INDEX — Strategic Minds Advisory OS
-**Generated:** 2026-06-25 08:27 UTC  
-**Total Sites Cloned:** 18/19  
-**Supabase Brain:** `clone_<slug>` keys (importance=8, tags=[clone, intelligence])  
-**Drive Folders:** Epoxy Clones + KB Library (Shared Drive)
+# APEX MASTER CLONE INDEX — Full Extraction
+Generated: 2026-06-25 08:39 UTC
+Sites: 20/20 | Pages: 325 | Assets: 552 | APIs: 70 | Time: 127.5s
 
----
-
-## 🏭 EPOXY / FLOOR / CONCRETE COMPETITORS
-
-| Site | Security | Tech Stack | H1 Headline | Drive |
-|------|----------|-----------|-------------|-------|
-| [garage-experts](https://garageexperts.com) | A/100 | GTM | Epoxy &amp; Polyaspartic Garage Floor Coatings | [📁 Folder](https://drive.google.com/drive/folders/1MPB8-OUTPzXkLlp5H6pQ0caulSF26sua) |
-| [penntek](https://penntek.com) | A/85 | Webflow,jQuery,GTM | Penntek Concrete Coatings | [📁 Folder](https://drive.google.com/drive/folders/1Jg1-iqqR-2W5mo_l6n1l-1KK9uZSA3vp) |
-| [stronghold-floors](https://strongholdfloors.com) | B/70 | HubSpot,GTM | Stronghold Floors | [📁 Folder](https://drive.google.com/drive/folders/1VnFkbh7KhoqjeQzQNrv8Rko-DsNwzEyZ) |
-| [cascade-concrete](https://cascadeconcrete.com) | B/70 | GTM | Welcome to cascade concrete products co inc. | [📁 Folder](https://drive.google.com/drive/folders/1NlfEsYbFQsJntuesW6khm9gvpnRlyAhc) |
-| [torginol](https://torginol.com) | B/60 | GTM | Resinous Floor Finishes | [📁 Folder](https://drive.google.com/drive/folders/1dhMeQWWy4X0BbC3vXHBoTckstqre_hkn) |
-| [epoxy-floors-texas](https://epoxyfloorstexas.com) | C/45 | WordPress,jQuery | Fill out the quick contact form for a free estimat | [📁 Folder](https://drive.google.com/drive/folders/1pAnlsGxJfHuuRGzZD9gwYRjPDArwDZXO) |
-| [quality-epoxy](https://qualityepoxy.com) | D/30 | Bootstrap,jQuery,GTM | We install the best FULL polyaspartic-1” flake flo | [📁 Folder](https://drive.google.com/drive/folders/1yaq_RmcZKlgunL0W1yBmTpoV8zUNXRLF) |
-| [level10-coatings](https://level10coatings.com) | D/30 | WordPress,Bootstrap,jQuery | Concrete Coatings For Homes And Businesses | [📁 Folder](https://drive.google.com/drive/folders/15N8jgMiGOqcWhpQGxHmq_2AfhoO8Q3Mn) |
-
-**Key Epoxy Competitor Findings:**
-- **GarageExperts** — A/100 security. GTM only. H1: "Epoxy & Polyaspartic Garage Floor Coatings"
-- **Penntek** — A/85. Built on **Webflow**. Strong brand positioning.
-- **Stronghold** — B/70. Running **HubSpot**. Good CRM integration signal.
-- **Level10/Quality** — D/30. WordPress + Bootstrap = **technical debt** = ENP's opening.
-- **Torginol** — B/60. Supplier, not competitor. Key partner to position around.
-
-**Universal Gap Confirmed:** None of these have a digital bid engine, customer portal, or floor visualizer.
-
----
-
-## 🔧 WEBSITE BUILDERS / PLATFORMS
-
-| Site | Security | Pricing | CTA | Tech |
-|------|----------|---------|-----|------|
-| [duda](https://duda.co) | A/100 | hidden | AI Widget Builder | Webflow,HubSpot,GTM |
-| [leadpages](https://leadpages.com) | A/100 | $66 / $90 | Or see a 2-minute demo → | Next.js,Webflow,HubSpot |
-| [unbounce](https://unbounce.com) | A/100 | hidden | Start My Free Trial | WordPress,HubSpot,jQuery |
-| [webflow](https://webflow.com) | A/85 | $500 / $6 | Designer | Webflow,jQuery,GTM |
-| [framer](https://framer.com) | A/80 | hidden | Quick Start | Webflow,Framer,Shopify |
-| [wix](https://wix.com) | B/65 | $1 / $, | Website Design | React,Wix |
-| [squarespace](https://squarespace.com) | B/65 | $14 / $36 | Get Started | Squarespace,GTM |
-| [shopify](https://shopify.com) | B/65 | $4 / $125.00 | Free Tools | React,Shopify,GTM |
-| [wordpress](https://wordpress.org) | B/65 | hidden | Try the Block Editor | WordPress,GTM |
-| [godaddy-sites](https://godaddy.com/websites) | C/45 | hidden | ? | unknown |
-
-**Key Builder Findings:**
-- **Unbounce/Leadpages/Duda** — A/100 security. Enterprise hardened. Study their onboarding flow.
-- **Webflow** — A/85. Pricing: $6–$500/mo range. Visual builder = ENP clone factory model.
-- **Squarespace** — B/65. $14–$36/mo. Simple pricing = easy to undercut for niche.
-- **Shopify** — B/65. $4–$125/mo. eCommerce focus — contrast vs ENP's service-first model.
-- **GoDaddy** — C/45. Lowest security. Most vulnerable positioning.
-
----
-
-## 📚 AI / FRAMEWORK KNOWLEDGE BASE (Previously Cloned)
-
-21 sites indexed to Drive KB folder `1KamfNyac7hJGGRReUhdAZBZDOghxB2Lr`:
-LangGraph, CrewAI, Letta, Google ADK, LlamaIndex, Mastra AI, n8n, PydanticAI,
-SaaStr Playbook, Lyzr Enterprise, Firecrawl, ServiceTitan, YC Library,
-McKinsey AI, OpenAI Agents, Anthropic Tool Use, Semantic Kernel, AutoGen,
-Paul Graham, Mem0, DeepLearning.AI
-
----
-
-## ❌ FAILED CLONES (1)
-
-| Site | Error |
-|------|-------|
-| dallas-epoxy-pros | Domain does not resolve (dallasdepoxypros.com) |
-
----
-
-## 📊 TOTAL INTELLIGENCE LIBRARY
-
-| Category | Count | Location |
-|----------|-------|----------|
-| Epoxy Competitors | 8 | Drive: Epoxy Clones folder |
-| Epoxy Suppliers | 1 | Drive: Epoxy Clones folder |
-| Website Builders | 10 | Drive: KB Library folder |
-| AI/Framework KB | 21 | Drive: KB Library folder |
-| **TOTAL** | **40** | Supabase brain + GitHub |
-
----
-*Auto-generated by Strategic Minds Advisory OS — APEX Orchestrator*  
-*Repo: Strategic-Minds/epoxy-nation-pro*
+| Site | Pages | Assets | APIs | Security | Score | Drive | GitHub | Status |
+|------|-------|--------|------|----------|-------|-------|--------|--------|
+| [leadpages](https://leadpages.com) | 26 | 38 | 29 | A/80 | 73/100 | [📁](https://drive.google.com/drive/folders/1q9JrrUY112vGIpscGr0yroXxzJVU88Sq) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/leadpages) | complete |
+| [unbounce](https://unbounce.com) | 26 | 29 | 1 | A/80 | 82/100 | [📁](https://drive.google.com/drive/folders/166aRyNMr6w2C95v7868hE7rdwfBNWlge) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/unbounce) | complete |
+| [garage-experts](https://garageexperts.com) | 26 | 10 | 0 | A/75 | 78/100 | [📁](https://drive.google.com/drive/folders/1nvnL42jyVwn4FwTkKv5v6CM8VUxBSQ5-) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/garage-experts) | complete |
+| [directcolors](https://directcolors.com) | 25 | 41 | 9 | A/75 | 86/100 | [📁](https://drive.google.com/drive/folders/14CzGS-tMQm81P3NvI32hhEW6wY2sejIY) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/directcolors) | complete |
+| [webflow](https://webflow.com) | 23 | 39 | 0 | A/70 | 80/100 | [📁](https://drive.google.com/drive/folders/1TGizudnbWKfViEhHkpdIKA6A7oPqxrzY) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/webflow) | complete |
+| [duda](https://duda.co) | 6 | 44 | 6 | A/70 | 74/100 | [📁](https://drive.google.com/drive/folders/1k7RrcsZhhlmrzMZaKKPVD4Kjdv5OFSQb) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/duda) | complete |
+| [penntek](https://penntek.com) | 2 | 7 | 0 | B/65 | 50/100 | [📁](https://drive.google.com/drive/folders/1XbsyJjCNp3cynisCFA6NjIqo_F7o5epn) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/penntek) | complete |
+| [stronghold-floors](https://strongholdfloors.com) | 2 | 46 | 1 | B/60 | 66/100 | [📁](https://drive.google.com/drive/folders/1RTxRr-Df9yR-e8LbaXyfqdZW74GTAN-L) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/stronghold-floors) | complete |
+| [framer](https://framer.com) | 25 | 10 | 2 | B/60 | 72/100 | [📁](https://drive.google.com/drive/folders/1wZMaoKFKj5Ts6uXOMKAEHwd4eq5aPH7Z) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/framer) | complete |
+| [cascade-concrete](https://cascadeconcrete.com) | 19 | 33 | 1 | C/50 | 62/100 | [📁](https://drive.google.com/drive/folders/1_dPf7S7GdfxTxaprhstTB1c555eqfbZR) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/cascade-concrete) | complete |
+| [wix](https://wix.com) | 1 | 29 | 3 | C/50 | 61/100 | [📁](https://drive.google.com/drive/folders/1egaD4tKS-SHGzaTQ_kMslqexNkP1bunO) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/wix) | complete |
+| [shopify](https://shopify.com) | 26 | 20 | 0 | C/50 | 81/100 | [📁](https://drive.google.com/drive/folders/1-lESjrGjVW_Z_e72zsbPLCpS1JC_OB9-) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/shopify) | complete |
+| [torginol](https://torginol.com) | 26 | 15 | 4 | C/45 | 66/100 | [📁](https://drive.google.com/drive/folders/18J3Wt9zwGSnRFWeuHqC6qyEOSmB6068b) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/torginol) | complete |
+| [squarespace](https://squarespace.com) | 26 | 49 | 10 | C/45 | 86/100 | [📁](https://drive.google.com/drive/folders/1szbjKiFqlmVm2GZIBn5X40RUjm-zSt4m) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/squarespace) | complete |
+| [wordpress](https://wordpress.org) | 24 | 39 | 0 | C/45 | 81/100 | [📁](https://drive.google.com/drive/folders/1_0P-jzCdbf_qkSrUyB4atKoXeHZSDxX6) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/wordpress) | complete |
+| [epoxy-floors-texas](https://epoxyfloorstexas.com) | 1 | 31 | 2 | D/30 | 54/100 | [📁](https://drive.google.com/drive/folders/1nX5FYAbK9SotXxmTBDHmel_AgRcH2bTw) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/epoxy-floors-texas) | complete |
+| [godaddy](https://godaddy.com/websites) | 1 | 0 | 0 | D/30 | 12/100 | [📁](https://drive.google.com/drive/folders/1HISKUM32iN4yo1hdvgWUiTYpIVTTj-pc) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/godaddy) | complete |
+| [level10-coatings](https://level10coatings.com) | 26 | 0 | 0 | D/25 | 69/100 | [📁](https://drive.google.com/drive/folders/1U9xv2b-Dy9Aq0rmhD_30mdUS3XZpF0d4) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/level10-coatings) | complete |
+| [ameripolish](https://ameripolish.com) | 1 | 33 | 1 | D/25 | 38/100 | [📁](https://drive.google.com/drive/folders/1fTKGCgGXnXzW0Nf4H1zvRVS7GNp703iP) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/ameripolish) | complete |
+| [quality-epoxy](https://qualityepoxy.com) | 13 | 39 | 1 | F/20 | 65/100 | [📁](https://drive.google.com/drive/folders/1dVdbMK_JhgsZwTdlHte5wRJvn2ZyFNfD) | [🐙](https://github.com/Strategic-Minds/epoxy-nation-pro/tree/main/builds/clones/quality-epoxy) | complete |
