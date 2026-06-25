@@ -200,7 +200,7 @@ export function MobileNavigation() {
         aria-label="Site navigation"
       >
         <div className="mnav-head">
-          <div style={{display:'flex',alignItems:'center',gap:'10px'}}><div style={{width:32,height:32,background:'#F6B800',borderRadius:7,display:'flex',alignItems:'center',justifyContent:'center',fontSize:10,fontWeight:900,color:'#000'}}>ENP</div><span style={{color:'#fff',fontWeight:900,fontSize:15}}>Epoxy Nation Pro</span></div><span style="color:#fff;font-weight:900;font-size:15px">Epoxy Nation Pro</span></div>
+          <div style={{display:'flex',alignItems:'center',gap:'10px'}}><div style={{width:32,height:32,background:'#F6B800',borderRadius:7,display:'flex',alignItems:'center',justifyContent:'center',fontSize:10,fontWeight:900,color:'#000'}}>ENP</div><span style={{color:'#fff',fontWeight:900,fontSize:15}}>Epoxy Nation Pro</span></div></div>
           <button className="mnav-x" onPointerDown={() => setOpen(false)} aria-label="Close menu">✕</button>
         </div>
 
