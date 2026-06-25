@@ -30,10 +30,11 @@ const S = `
   .enp-logo span { color: #F6B800; }
   .enp-logo small { display: block; font-size: 9px; font-weight: 700; color: #F6B800; letter-spacing: .18em; text-transform: uppercase; margin-top: 2px; }
   .enp-navlinks { display: flex; gap: 32px; align-items: center; list-style: none; }
+  @media (max-width: 900px) { .enp-navlinks { display: none !important; } .g-nav-actions-inline { display: none !important; } }
   .enp-navlinks a { color: rgba(255,255,255,.65); font-size: 14px; font-weight: 600; letter-spacing: .01em; transition: color .15s; }
   .enp-navlinks a:hover { color: #fff; }
   .enp-navlinks .cta { background: #F6B800; color: #000 !important; font-weight: 800; padding: 9px 22px; border-radius: 6px; font-size: 14px; }
-  .enp-ham { display: none; flex-direction: column; justify-content: center; gap: 5px; width: 44px; height: 44px; background: transparent; border: none; cursor: pointer; padding: 10px; }
+  .enp-ham { display: flex; flex-direction: column; justify-content: center; gap: 5px; width: 44px; height: 44px; background: transparent; border: none; cursor: pointer; padding: 10px; }
   .enp-ham span { display: block; height: 2px; width: 100%; background: #fff; border-radius: 2px; transition: all .22s ease; }
   .enp-ham.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
   .enp-ham.open span:nth-child(2) { opacity: 0; }
