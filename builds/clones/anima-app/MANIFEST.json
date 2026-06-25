@@ -1,0 +1,206 @@
+{
+  "slug": "anima-app",
+  "url": "https://animaapp.com/",
+  "dev_url": "https://dev.animaapp.com/",
+  "category": "design_to_code_platform",
+  "cloned_at": "2026-06-25T09:01:57.944365+00:00",
+  "duration_seconds": 5.6,
+  "extraction": {
+    "pages_fetched": 5,
+    "js_downloaded": 30,
+    "css_downloaded": 20,
+    "total_mb": 4.3,
+    "sitemap_urls": 92
+  },
+  "tech_stack": [
+    "Vue.js",
+    "Webpack",
+    "TypeScript",
+    "Storybook",
+    "Intercom",
+    "Segment",
+    "Mixpanel",
+    "GTM",
+    "GA4",
+    "Firebase",
+    "AWS",
+    "Cloudflare",
+    "OpenAI"
+  ],
+  "security": {
+    "score": 35,
+    "grade": "D",
+    "findings": {
+      "hsts": "max-age=31536000; includeSubDomains"
+    }
+  },
+  "deep_js_analysis": {
+    "api_endpoints": [
+      "https://projects.animaapp.com",
+      "https://www.google.com/ccm/geo",
+      "https://api.animaapp.com/rpc/get_personalization_data",
+      "https://www.animaapp.com/",
+      "https://dev.animaapp.com/",
+      "https://www.animaapp.com/blog",
+      "https://docs.animaapp.com/",
+      "https://www.animaapp.com/clone-website?utm_content=clone-website-footer&amp",
+      "https://www.animaapp.com/templates/saas-landing-page-template-thumbnail.png",
+      "https://www.animaapp.com/templates/ai-agent-landing-page-template-thumbnail.png",
+      "https://www.animaapp.com/blog/",
+      "https://public-api.animaapp.com",
+      "https://projects.animaapp.com/signup",
+      "https://www.animaapp.com/blog/genai/how-to-go-from-claude-design-to-figma/?utm_content=claude-design-to-figma-footer&amp",
+      "https://docs.animaapp.com/docs/anima-mcp",
+      "https://www.animaapp.com/xd",
+      "https://projects.animaapp.com/signup?redirect=https",
+      "https://projects.animaapp.com/payment?plan=pro&interval=monthly&promo_code=sep-2021-offer",
+      "https://ipapi.co/json/",
+      "https://dev.animaapp.com/?template",
+      "https://docs.animaapp.com/docs/getting-started",
+      "https://www.animaapp.com/api",
+      "https://dev.animaapp.com/pricing?plan=",
+      "https://www.animaapp.com/figma-ai?utm_content=buddy-website-topnav&amp",
+      "https://www.animaapp.com/blog/ai-en/google-io-2026/?utm_content=google-io-2026-footer&amp",
+      "https://projects.animaapp.com/login",
+      "https://static.animaapp.com/an2.js",
+      "https://dev.animaapp.com/?_gl=1",
+      "https://forum.animaapp.com/",
+      "https://www.animaapp.com/clone-website?utm_content=clone-website-topnav&amp",
+      "https://www.animaapp.com/an?url=https",
+      "https://projects.animaapp.com/login?redirect=https",
+      "https://c.animaapp.com/4",
+      "https://www.animaapp.com/blog/?_gl=1",
+      "https://www.animaapp.com/figma",
+      "https://support.animaapp.com/en/",
+      "https://static.animaapp.com/subscribe.html",
+      "https://api.animaapp.com",
+      "https://updates.animaapp.com/",
+      "https://www.animaapp.com"
+    ],
+    "secrets_found": {
+      "intercom_id": [
+        "id43h9l8"
+      ]
+    },
+    "env_vars": [
+      "VUE_ENV"
+    ],
+    "figma_commands": [],
+    "figma_api_calls": [],
+    "figma_events": [],
+    "websocket_urls": [],
+    "gtm_ids": [
+      "GTM-5GH35Q5"
+    ],
+    "ga_ids": [],
+    "segment_keys": [],
+    "amplitude_keys": [],
+    "mixpanel_keys": [
+      "8af1bccc99a556226d575ec6f6f1c01c"
+    ],
+    "posthog_keys": [],
+    "sentry_dsns": [],
+    "intercom_ids": [
+      "id43h9l8"
+    ],
+    "versions": [
+      "0.21.4",
+      "5.2.4"
+    ],
+    "emails": [
+      "support@animaapp.com",
+      "copyright@animaapp.com",
+      "press@animaapp.com"
+    ]
+  },
+  "content": {
+    "headings": [
+      "AI with an Eye for Design",
+      "Forget token anxiety. Focus on your creativity.",
+      "Ready to start building?",
+      "API for vibe coding platforms and coding agents",
+      "Figma to React: Convert Figma designs to clean React code",
+      "Clone website: Turn any website into React or HTML code instantly \u2728",
+      "Introducing Anima, the UX Design agent",
+      "Figma to HTML: How to export a Figma design into HTML",
+      "Launch &amp; share effortlessly",
+      "User Experience Basics \u2013 What Every Designer and Builder Needs to Know in 2026",
+      "Built-in Databases for Anima Playground | Zero-Config Backend",
+      "Turn designs into code"
+    ],
+    "pricing": [
+      "$500/mo"
+    ],
+    "cta_texts": [
+      "Figma to React: Convert Figma designs to clean React code",
+      "Introducing Anima, the UX Design agent",
+      "Figma to HTML: How to export a Figma design into HTML",
+      "AI design",
+      "design systems",
+      "product updates",
+      "Start free",
+      "Graphic Design in 2026"
+    ],
+    "meta_description": "An AI chat interface from Anima",
+    "og_title": "Anima: Build Websites &amp; Apps with AI | UX Design Agent | Figma to Code"
+  },
+  "sitemap_urls": [
+    "https://www.animaapp.com/",
+    "https://www.animaapp.com/figma",
+    "https://www.animaapp.com/figma-to-html-email",
+    "https://www.animaapp.com/add-code-to-your-existing-project",
+    "https://www.animaapp.com/get-full-website-and-web-app",
+    "https://www.animaapp.com/figma-ai",
+    "https://www.animaapp.com/redirects",
+    "https://www.animaapp.com/lp/figma-to-html-email",
+    "https://www.animaapp.com/lp/figma-to-website",
+    "https://www.animaapp.com/get-code-for-a-single-screen",
+    "https://www.animaapp.com/xd",
+    "https://www.animaapp.com/sketch",
+    "https://www.animaapp.com/lp/professionals",
+    "https://www.animaapp.com/lp/ai-figma-to-code2",
+    "https://www.animaapp.com/lp/code-personalization",
+    "https://www.animaapp.com/lp/landing-pages-figma",
+    "https://www.animaapp.com/lp/design-system-automation",
+    "https://www.animaapp.com/lp/meet-anima",
+    "https://www.animaapp.com/lp/scaleyouroutput",
+    "https://www.animaapp.com/lp/migrate-to-figma",
+    "https://www.animaapp.com/lp/agencies",
+    "https://www.animaapp.com/lp/lptest",
+    "https://www.animaapp.com/lp/ux-ui-agencies",
+    "https://www.animaapp.com/lp/react-component-libraries",
+    "https://www.animaapp.com/lp/design-to-html",
+    "https://www.animaapp.com/lp/design-to-react",
+    "https://www.animaapp.com/lp/figma-prototype",
+    "https://www.animaapp.com/lp/xd-to-react",
+    "https://www.animaapp.com/lp/xd",
+    "https://www.animaapp.com/lp/giveaway-dec-21-t-n-c",
+    "https://www.animaapp.com/lp/figma-react",
+    "https://www.animaapp.com/lp/figma-with-form",
+    "https://www.animaapp.com/lp/export-figma-to-html",
+    "https://www.animaapp.com/lp/figma-to-code2",
+    "https://www.animaapp.com/lp/convert-figma-to-html",
+    "https://www.animaapp.com/lp/sketch",
+    "https://www.animaapp.com/lp/anima-5",
+    "https://www.animaapp.com/lp/adobe-xd",
+    "https://www.animaapp.com/lp/vue",
+    "https://www.animaapp.com/lp/figma",
+    "https://www.animaapp.com/lp/design-to-code",
+    "https://www.animaapp.com/features/prototype",
+    "https://www.animaapp.com/global/the-footer-v2",
+    "https://www.animaapp.com/global/the-header-v2-sales-cta",
+    "https://www.animaapp.com/global/the-header-v2",
+    "https://www.animaapp.com/global/the-header-v2-lps",
+    "https://www.animaapp.com/frontier",
+    "https://www.animaapp.com/playground-v2",
+    "https://www.animaapp.com/global/the-landing-page-footer",
+    "https://www.animaapp.com/global/the-landing-page-header-devmode-signup"
+  ],
+  "pages_fetched": {
+    "https://dev.animaapp.com/": 9759,
+    "https://animaapp.com/": 607870,
+    "https://www.animaapp.com/": 607870,
+    "https://animaapp.com/pricing": 312888,
+    "https://animaapp.com/blog": 294503
+  }
+}
