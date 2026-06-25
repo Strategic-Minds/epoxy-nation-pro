@@ -1,64 +1,77 @@
 {
   "slug": "wix",
   "url": "https://wix.com",
-  "cat": "website_builder",
-  "pages_scraped": 1,
-  "css_files": [
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Responsive].00874df4.min.css",
-    "https://static.parastorage.com/services/wix-footer/5c09d477fd84daafe84b73b9069c84e051752fcce4f0fb2b72e717eb/app.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].a710ff33.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLineStudio].74a141cc.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_Default].afa3e1d2.min.css",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.c472a333.chunk.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].cc2b8d2e.min.css",
-    "https://static.parastorage.com/services/wix-header/8995ed4243a0cf049492fefb88115d1a321fc42b2da340482a3fa8b1/app.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].34d022c0.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].5898ceca.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].cb16f202.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaPlayer_videoBoxResponsive].8a328571.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaOverlayControls].5898ceca.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.4e8a21db.min.css",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].7dbf3cd4.min.css"
-  ],
-  "js_files": [
-    "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
-    "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
-    "https://static.parastorage.com/services/tag-manager-client/1.1066.0/siteTags.bundle.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.59b25977.bundle.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.a1dd627e.bundle.min.js",
-    "https://static.parastorage.com/services/wix-header/8995ed4243a0cf049492fefb88115d1a321fc42b2da340482a3fa8b1/app.bundle.min.js",
-    "https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js",
-    "https://static.parastorage.com/services/wix-footer/5c09d477fd84daafe84b73b9069c84e051752fcce4f0fb2b72e717eb/app.bundle.min.js",
-    "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.99fa8096.bundle.min.js",
-    "https://accounts.google.com/gsi/client",
-    "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
-    "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js"
-  ],
-  "images": [],
-  "api_endpoints": [
-    ",params:e}}function tJ(e){return{evid:183,src:72,endpoint:",
-    "http-client-poc",
-    ",params:e}}function tz(e){return{evid:181,src:72,endpoint:"
-  ],
-  "forms": [],
-  "integrations": {},
-  "tech": [
+  "category": "website_builder",
+  "cloned_at": "2026-06-25T08:46:54.222694",
+  "extraction": {
+    "pages_scraped": 1,
+    "css_files_downloaded": 13,
+    "js_bundles_downloaded": 13,
+    "images_downloaded": 0,
+    "fonts_downloaded": 0
+  },
+  "security": {
+    "score": 50,
+    "grade": "C",
+    "findings": {
+      "https": true,
+      "hsts": "max-age=31536000",
+      "x_content_type": "nosniff",
+      "referrer_policy": "no-referrer-when-downgrade",
+      "server": "Pepyaka"
+    }
+  },
+  "tech_stack": [
     "React",
     "Wix",
     "GA4"
   ],
-  "security_score": 50,
-  "security_grade": "C",
-  "security_findings": {
-    "https": true,
-    "hsts": "max-age=31536000",
-    "x_content_type": "nosniff",
-    "referrer_policy": "no-referrer-when-downgrade",
-    "server": "Pepyaka"
+  "integrations": {},
+  "deep_js_analysis": {
+    "apis_in_js": [
+      "http-client-poc"
+    ],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [],
+    "versions": [
+      "0.21.4"
+    ],
+    "js_analyzed_kb": 1108,
+    "js_files_analyzed": 13
   },
-  "robots_txt": "User-agent: *\nDisallow: /api/\nDisallow: /blogtemp\nDisallow: /wixblog\nDisallow: /bo/\nDisallow: /editor.jsp\nDisallow: /noflashhtml\nDisallow: /siteBackHtml\nDisallow: /wix/\nDisallow: /wixpress/\nDisallow: /wixdemo/\nDisallow: /wix-editor/\nDisallow: /editor2.jsp\nDisallow: /flash/\nDisallow: /flash-templates/\nDisallow: /website-template/view/flash/\nDisallow: /facebook-template/\nDisallow: /facebook/templates/\nDisallow: /website/templates/flash/\nDisallow: /html5/\nDisallow: /my-account\nDisallow: /blog/*sitemap.xml$\nDisallow: /velo/profile\nDisallow: /velo/forum/search\nDisallow: /velo/forum/main/comment\nDisallow: /*velo-pt/profile\nDisallow: /*velo-pt/forum/search\nDisallow: /*velo-pt/forum/main/comment\nDisallow: /app-market/search-result?query=\nDisallow: /despiration/testseo\nDisallow: /site-react-dropdown*\nDisallow: /soundcloud-tpa*\nDisallow: /*cacheKiller=\nDisallow: /*hubs_content\nDisallow: /*hubs_post\nDisallow: /*hubs_signup-cta\nDisallow: /lp-lang/mobilewebsite\nDisallow: /mystunningwebsites/\nDisall",
+  "api_endpoints": [
+    ",params:e}}function tJ(e){return{evid:183,src:72,endpoint:",
+    "http-client-poc",
+    ",params:e}}function tz(e){return{evid:181,src:72,endpoint:",
+    "http-client-poc"
+  ],
+  "forms": [],
+  "meta_tags": {
+    "description": "Get everything you need to build a website your way. Wix\u2019s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.",
+    "keywords": "",
+    "og_title": "Your vision. Your goals. Your website. | Wix.com",
+    "og_desc": "Get everything you need to create your website, your way. From an intuitive website builder to built-in business solutions and AI tools\u2014try Wix for free."
+  },
+  "headings": [
+    "The new way to create a website",
+    "Flow between instant generation and&nbsp;hand-crafted design",
+    "Website templates are another way in",
+    "Prompt, ask, bounce ideas. We can do it all together. I&rsquo;m your personal we",
+    "Extreme customization. Absolute control.",
+    "Add anything you need for your business as you go",
+    "Make your website official with your own domain name",
+    "Market your site from launch to scale",
+    "Run your business from one&nbsp;dashboard"
+  ],
+  "cta_texts": [],
+  "pricing_signals": [
+    "$1",
+    "$,"
+  ],
   "sitemap_urls": [
     "https://www.wix.com/",
     "https://www.wix.com/website/templates",
@@ -91,17 +104,6 @@
     "https://www.wix.com/tools",
     "https://www.wix.com/blog/how-to-build-website-from-scratch-guide"
   ],
-  "meta_tags": {
-    "description": "Get everything you need to build a website your way. Wix\u2019s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.",
-    "keywords": "",
-    "og_title": "Your vision. Your goals. Your website. | Wix.com",
-    "og_desc": "Get everything you need to create your website, your way. From an intuitive website builder to built-in business solutions and AI tools\u2014try Wix for free."
-  },
-  "schema_data": [
-    "{\"@context\":\"https://schema.org/\",\"@type\":\"HowTo\",\"name\":\"How to create a website for free\",\"description\":\"Follow these 6 simple steps to create a website today.\",\"step\":[{\"@type\":\"HowToStep\",\"name\":\"Define your website goals\",\"text\":\"Identify your needs and map out your audience, these will help you assess your site structure and the pages you want. A clear plan keeps your website design focused and your message consistent.\"},{\"@type\":\"HowToStep\",\"name\":\"Choose a free website builder\",\"text\":\"Find an all-in-one web creation platform that combines AI tools, design features and free hosting so you can create, manage and launch your site faster\u2014no technical skills required.\"},{\"@type\":\"HowToStep\",\"name\":\"Pick a domain name\",\"text\":\"Choose a name that reflects your brand and is easy for people to remember. You can start with a free Wix domain and upgrade to a custom one when you're ready to take the next step.\"},{\"@type\":\"HowToStep\",\"name\":\"Create and customize\",\"text\":\"Start with a prompt or a template on an AI website builder, then customize using drag and drop or vibe-coding. Adjust layouts, colors, fonts, images and content to match your brand.\"},{\"@type\":\"HowToStep\",\"name\":\"Optimize for SEO and mobile\",\"text\":\"Make sure your website is mobile-friendly and easy to find on search engines. Add page titles, meta descriptions and alt text, and make sure your content is properly structured.\"},{\"@type\":\"HowToStep\",\"name\":\"Publish and grow your website\",\"text\":\"Once your site looks good, publish it and go live. Then use built-in marketing tools, integrations and analytics to drive traffic, engage visitors and grow your online presence.\"}]}",
-    "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Wix.com\",\"legalName\":\"Wix.com Ltd\",\"url\":\"https://www.wix.com/\",\"logo\":\"https://static.wixstatic.com/media/9ab0d1_2ff5ca18550e405ea1844e52afaff120~mv2.jpg/v1/fill/w_333,h_154,al_c,lg_1,q_80,enc_auto/Wix%20logo%20white%20BG.jpg\",\"sameAs\":[\"https://www.facebook.com/wix\",\"https://twitter.com/wix\",\"https://www.instagram.com/wix\",\"https://www.youtube.com/user/Wix\",\"https://www.linkedin.com/company/wix-com/\",\"https://www.pinterest.com/wixcom/\",\"https://en.wikipedia.org/wiki/Wix.com\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Customer Support\",\"url\":\"https://www.wix.com/contact\"}}",
-    "{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Wix website builder\",\"description\":\"Describe what you want and get a unique website in minutes. Refine any detail in a way that feels most natural to you on our flagship AI website builder.\",\"thumbnailUrl\":\"https://static.wixstatic.com/media/3ae05b_1c71c1a248004af7b976bde648dd44cef002.png/v1/fill/w_799,h_504,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/3ae05b_1c71c1a248004af7b976bde648dd44cef002.png\",\"uploadDate\":\"2026-02-08T00:00:00Z\",\"duration\":\"PT73S\",\"contentUrl\":\"https://video.wixstatic.com/video/3ae05b_1c71c1a248004af7b976bde648dd44ce/480p/mp4/file.mp4\"}"
-  ],
   "nav_links": [
     "https://www.wix.com/wixel",
     "https://www.wix.com/tools/business-name-generator",
@@ -124,43 +126,50 @@
     "https://www.wix.com/website-security",
     "https://www.wix.com/domains/business-email"
   ],
-  "headings": [
-    "The new way to create a website",
-    "Flow between instant generation and&nbsp;hand-crafted design",
-    "Website templates are another way in",
-    "Prompt, ask, bounce ideas. We can do it all together. I&rsquo;m your personal we",
-    "Extreme customization. Absolute control.",
-    "Add anything you need for your business as you go",
-    "Make your website official with your own domain name",
-    "Market your site from launch to scale",
-    "Run your business from one&nbsp;dashboard"
+  "schema_data": [
+    "{\"@context\":\"https://schema.org/\",\"@type\":\"HowTo\",\"name\":\"How to create a website for free\",\"description\":\"Follow these 6 simple steps to create a website today.\",\"step\":[{\"@type\":\"HowToStep\",\"name\":\"Define your website goals\",\"text\":\"Identify your needs and map out your audience, these will help you assess your site structure and the pages you want. A clear plan keeps your website design focused and your message consistent.\"},{\"@type\":\"HowToStep\",\"name\":\"Choose a free website builder\",\"text\":\"Find an all-in-one web creation platform that combines AI tools, design features and free hosting so you can create, manage and launch your site faster\u2014no technical skills required.\"},{\"@type\":\"HowToStep\",\"name\":\"Pick a domain name\",\"text\":\"Choose a name that reflects your brand and is easy for people to remember. You can start with a free Wix domain and upgrade to a custom one when you're ready to take the next step.\"},{\"@type\":\"HowToStep\",\"name\":\"Create and customize\",\"text\":\"Start with a prompt or a template on an AI website builder, then customize using drag and drop or vibe-coding. Adjust layouts, colors, fonts, images and content to match your brand.\"},{\"@type\":\"HowToStep\",\"name\":\"Optimize for SEO and mobile\",\"text\":\"Make sure your website is mobile-friendly and easy to find on search engines. Add page titles, meta descriptions and alt text, and make sure your content is properly structured.\"},{\"@type\":\"HowToStep\",\"name\":\"Publish and grow your website\",\"text\":\"Once your site looks good, publish it and go live. Then use built-in marketing tools, integrations and analytics to drive traffic, engage visitors and grow your online presence.\"}]}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Wix.com\",\"legalName\":\"Wix.com Ltd\",\"url\":\"https://www.wix.com/\",\"logo\":\"https://static.wixstatic.com/media/9ab0d1_2ff5ca18550e405ea1844e52afaff120~mv2.jpg/v1/fill/w_333,h_154,al_c,lg_1,q_80,enc_auto/Wix%20logo%20white%20BG.jpg\",\"sameAs\":[\"https://www.facebook.com/wix\",\"https://twitter.com/wix\",\"https://www.instagram.com/wix\",\"https://www.youtube.com/user/Wix\",\"https://www.linkedin.com/company/wix-com/\",\"https://www.pinterest.com/wixcom/\",\"https://en.wikipedia.org/wiki/Wix.com\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"Customer Support\",\"url\":\"https://www.wix.com/contact\"}}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Wix website builder\",\"description\":\"Describe what you want and get a unique website in minutes. Refine any detail in a way that feels most natural to you on our flagship AI website builder.\",\"thumbnailUrl\":\"https://static.wixstatic.com/media/3ae05b_1c71c1a248004af7b976bde648dd44cef002.png/v1/fill/w_799,h_504,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/3ae05b_1c71c1a248004af7b976bde648dd44cef002.png\",\"uploadDate\":\"2026-02-08T00:00:00Z\",\"duration\":\"PT73S\",\"contentUrl\":\"https://video.wixstatic.com/video/3ae05b_1c71c1a248004af7b976bde648dd44ce/480p/mp4/file.mp4\"}"
   ],
-  "cta_texts": [],
-  "pricing_signals": [
-    "$1",
-    "$,"
-  ],
-  "assets_downloaded": 29,
-  "drive_folder_id": "1egaD4tKS-SHGzaTQ_kMslqexNkP1bunO",
+  "robots_txt": "User-agent: *\nDisallow: /api/\nDisallow: /blogtemp\nDisallow: /wixblog\nDisallow: /bo/\nDisallow: /editor.jsp\nDisallow: /noflashhtml\nDisallow: /siteBackHtml\nDisallow: /wix/\nDisallow: /wixpress/\nDisallow: /wixdemo/\nDisallow: /wix-editor/\nDisallow: /editor2.jsp\nDisallow: /flash/\nDisallow: /flash-templates/\nDisallow: /website-template/view/flash/\nDisallow: /facebook-template/\nDisallow: /facebook/templates/\nDisallow: /website/templates/flash/\nDisallow: /html5/\nDisallow: /my-account\nDisallow: /blog/*sitemap.xml$\nDisallow: /velo/profile\nDisallow: /velo/forum/search\nDisallow: /velo/forum/main/comment\nDisallow: /*velo-pt/profile\nDisallow: /*velo-pt/forum/search\nDisallow: /*velo-pt/forum/main/comment\nDisallow: /app-market/search-result?query=\nDisallow: /despiration/testseo\nDisallow: /site-react-dropdown*\nDisallow: /soundcloud-tpa*\nDisallow: /*cacheKiller=\nDisallow: /*hubs_content\nDisallow: /*hubs_post\nDisallow: /*hubs_signup-cta\nDisallow: /lp-lang/mobilewebsite\nDisallow: /mystunningwebsites/\nDisall",
+  "assets": {
+    "css": [
+      "rb_wixui.thunderbolt_AppWidget_Responsive_.00874df4.min.css",
+      "group_7.c472a333.chunk.min.css",
+      "rb_wixui.thunderbolt_FiveGridLine_SolidLine_.cc2b8d2e.min.css",
+      "rb_wixui.thunderbolt_MediaOverlayControls_.5898ceca.min.css",
+      "app.min.css",
+      "rb_wixui.thunderbolt_Section_.34d022c0.min.css",
+      "rb_wixui.thunderbolt_bootstrap-responsive.4e8a21db.min.css",
+      "rb_wixui.thunderbolt_MediaPlayer_videoBoxResponsive_.8a328571.min.css",
+      "rb_wixui.thunderbolt_MediaControls_.5898ceca.min.css",
+      "rb_wixui.thunderbolt_MenuContainer_Responsive_.a710ff33.min.css",
+      "rb_wixui.thunderbolt_FiveGridLine_SolidLineStudio_.74a141cc.min.css",
+      "rb_wixui.thunderbolt_StylableButton_Default_.afa3e1d2.min.css",
+      "rb_wixui.thunderbolt_ImageX_.cb16f202.min.css"
+    ],
+    "js": [
+      "client.js",
+      "modulemetadata.es5.min.js",
+      "react.production.min.js",
+      "siteTags.bundle.min.js",
+      "focus-within-polyfill.js",
+      "thunderbolt-commons.a1dd627e.bundle.min.js",
+      "app.bundle.min.js",
+      "lodash.min.js",
+      "react-dom.production.min.js",
+      "main.renderer.99fa8096.bundle.min.js",
+      "main.59b25977.bundle.min.js",
+      "browser-deprecation.bundle.es5.js",
+      "minified.js"
+    ],
+    "images": [],
+    "fonts": [],
+    "pages": [
+      "page_00.html"
+    ]
+  },
   "drive_folder_url": "https://drive.google.com/drive/folders/1egaD4tKS-SHGzaTQ_kMslqexNkP1bunO",
-  "status": "complete",
-  "errors": [],
-  "duration": 17.5,
-  "nav_structure": [
-    "https://www.wix.com/wixel",
-    "https://www.wix.com/tools/business-name-generator",
-    "https://www.wix.com/plans",
-    "https://www.wix.com/domains",
-    "https://www.wix.com/tools",
-    "https://www.instagram.com/wix",
-    "https://www.wix.com/about/patent-notice",
-    "https://careers.wix.com",
-    "https://investors.wix.com",
-    "https://www.wix.com/features/main",
-    "https://www.youtube.com/user/Wix",
-    "https://www.wix.com/website/design",
-    "https://www.wix.com/portfolio-website",
-    "https://www.wix.com/website/templates",
-    "https://www.wix.com/restaurant/website"
-  ]
+  "github_path": "builds/clones/wix/",
+  "storage_complete": true
 }
