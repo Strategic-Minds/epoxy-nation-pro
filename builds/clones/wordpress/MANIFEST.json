@@ -1,53 +1,49 @@
 {
   "slug": "wordpress",
   "url": "https://wordpress.org",
-  "cat": "website_builder",
-  "pages_scraped": 24,
-  "css_files": [
-    "https://wordpress.org/plugins/wp-content/themes/wporg-parent-2021/build/print.css?ver=1748340064",
-    "https://wordpress.org/showcase/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1748340064",
-    "https://wordpress.org/plugins/wp-content/plugins/gallery-lightbox-enhancements/assets/lightbox-captions.css?ver=1781063479",
-    "https://wordpress.org/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1748271785",
-    "https://wordpress.org/wp-content/themes/wporg-parent-2021/build/print.css?ver=1748271785",
-    "https://c0.wp.com/p/jetpack/15.8/modules/related-posts/related-posts.css",
-    "https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1760573476",
-    "https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/navigation/style.min.css?ver=23.4.0",
-    "https://wordpress.org/wp-content/plugins/gutenberg/build/styles/block-library/cover/style.min.css?ver=23.4.0",
-    "https://wordpress.org/wp-includes/css/dashicons.min.css?ver=7.1-alpha-62517",
-    "https://wordpress.org/news/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/style.css?ver=dcd1f947945436029b9b0579fb334f407ada4930",
-    "https://wordpress.org/documentation/wp-includes/blocks/navigation/style.min.css?ver=7.1-alpha-62517",
-    "https://wordpress.org/news/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1760573147",
-    "https://wordpress.org/showcase/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/style.css?ver=dcd1f947945436029b9b0579fb334f407ada4930"
+  "category": "website_builder",
+  "cloned_at": "2026-06-25T08:46:57.801186",
+  "extraction": {
+    "pages_scraped": 24,
+    "css_files_downloaded": 7,
+    "js_bundles_downloaded": 2,
+    "images_downloaded": 18,
+    "fonts_downloaded": 0
+  },
+  "security": {
+    "score": 45,
+    "grade": "C",
+    "findings": {
+      "https": true,
+      "hsts": "max-age=3600",
+      "x_frame": "SAMEORIGIN",
+      "server": "nginx"
+    }
+  },
+  "tech_stack": [
+    "WordPress",
+    "GTM",
+    "GA4",
+    "Tailwind",
+    "jQuery"
   ],
-  "js_files": [
-    "https://wordpress.org/photos/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642",
-    "https://wordpress.org/showcase/wp-content/mu-plugins/pub-sync/blocks/time/build/view.js?ver=385bfe9134bf98c52dda",
-    "https://wordpress.org/news/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js?ver=1751336038",
-    "https://s.w.org/wp-content/themes/pub/wporg/js/skip-link-focus-fix.min.js?ver=20151215",
-    "https://wordpress.org/news/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642",
-    "https://wordpress.org/support/wp-content/themes/pub/wporg-support-2024/js/navigation.js?ver=20181209",
-    "https://wordpress.org/photos/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=96a846e1d7b789c39ab9-20240308",
-    "https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/local-navigation-bar/build/view.js?ver=2ae6cba4cf35f434c642"
-  ],
-  "images": [
-    "https://i0.wp.com/wordpress.org/files/2023/10/showcase-top-row-full.png?w=2660&amp;ssl=1",
-    "https://pd.w.org/2026/06/9816a3cdc48e07504.44234537-300x225.jpg",
-    "https://i0.wp.com/wordpress.org/files/2024/06/separator.png?resize=300%2C16&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-06-at-10.26.32-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2025/08/20250826_215948-scaled.jpg?resize=2048%2C1153&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-05-at-05.23.01-scaled.jpeg?resize=1024%2C683&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/05/image-12.png?w=1360&amp;ssl=1",
-    "https://pd.w.org/2026/06/4856a3cdb1fd67713.13901754-768x1024.jpg",
-    "https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-04-at-04.31.29-scaled.jpeg?resize=1536%2C1024&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/showcase/files/2025/09/400588019-80c275ed-3753-49b3-a7aa-7265282e9e91-scaled.png?resize=800%2C450&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/06/WhatsApp-Image-2026-06-04-at-03.32.46-scaled.jpeg?resize=2048%2C1365&amp;ssl=1",
-    "https://ps.w.org/anchor-block/assets/icon-256x256.png?rev=2158286",
-    "https://i0.wp.com/wordpress.org/showcase/files/2023/09/rolling-stone-desktop-scaled.jpg?resize=500%2C281&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/files/2023/10/showcase-bottom-row.png?resize=300%2C44&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/05/WCEU-sign-3.png?resize=300%2C120&amp;ssl=1",
-    "https://i0.wp.com/wordpress.org/news/files/2026/05/image-5.png?w=1360&amp;ssl=1",
-    "https://pd.w.org/2026/06/7606a3b217fd98a26.74533583-768x1024.jpeg"
-  ],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-P24PF4B"
+    ]
+  },
+  "deep_js_analysis": {
+    "apis_in_js": [],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [],
+    "versions": [],
+    "js_analyzed_kb": 3,
+    "js_files_analyzed": 2
+  },
   "api_endpoints": [],
   "forms": [
     {
@@ -376,65 +372,12 @@
       ]
     }
   ],
-  "integrations": {
-    "GTM_IDs": [
-      "GTM-P24PF4B"
-    ]
-  },
-  "tech": [
-    "WordPress",
-    "GTM",
-    "GA4",
-    "Tailwind",
-    "jQuery"
-  ],
-  "security_score": 45,
-  "security_grade": "C",
-  "security_findings": {
-    "https": true,
-    "hsts": "max-age=3600",
-    "x_frame": "SAMEORIGIN",
-    "server": "nginx"
-  },
-  "robots_txt": "Sitemap: https://wordpress.org/sitemap.xml\nSitemap: https://wordpress.org/news-sitemap.xml\nSitemap: https://wordpress.org/themes/sitemap.xml\nSitemap: https://wordpress.org/plugins/sitemap.xml\nSitemap: https://wordpress.org/news/sitemap.xml\nSitemap: https://wordpress.org/showcase/sitemap.xml\nSitemap: https://wordpress.org/documentation/sitemap.xml\nSitemap: https://wordpress.org/patterns/sitemap.xml\nSitemap: https://wordpress.org/photos/sitemap.xml\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nAllow: /wp-admin/load-scripts.php\nAllow: /wp-admin/load-styles.php\n\nUser-agent: *\nDisallow: /search\nDisallow: /?s=\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Bytespider\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nUser-agent: Copilot\nAllow: /\n\nUser-agent: *\nDisallow: /plugins/search/\n",
-  "sitemap_urls": [
-    "https://wordpress.org/sitemap-1.xml",
-    "https://wordpress.org/image-sitemap-1.xml",
-    "https://wordpress.org/video-sitemap-1.xml"
-  ],
   "meta_tags": {
     "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
     "keywords": "",
     "og_title": "Blog Tool, Publishing Platform, and CMS - WordPress.org",
     "og_desc": "Open source software which you can use to easily create a beautiful website, blog, or app."
   },
-  "schema_data": [
-    "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t\t{\n\t\t\t\"@type\":\"Organization\",\n\t\t\t\"@id\":\"https://wordpress.org/#organization\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress\",\n\t\t\t\"logo\":{\n\t\t\t\t\"@type\":\"ImageObject\",\n\t\t\t\t\"@id\":\"https://wordpress.org/#logo\",\n\t\t\t\t\"url\":\"https://s.w.org/style/images/about/WordPress-logotype-wmark.png\"\n\t\t\t},\n\t\t\t\"sameAs\":[\n\t\t\t\t\"https://www.facebook.com/WordPress/\",\n\t\t\t\t\"https://twitter.com/WordPress\",\n\t\t\t\t\"https://en.wikipedia.org/wiki/WordPress\"\n\t\t\t]\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebSite\",\n\t\t\t\"@id\":\"https://wordpress.org/#website\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress.org\",\n\t\t\t\"publisher\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#organization\"\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebPage\",\n\t\t\t\"@id\":\"https://wordpress.org/\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"inLanguage\":\"en\",\n\t\t\t\"name\":\"Blog Tool, Publishing Platform, and CMS - WordPress.org\",\n\t\t\t\"description\":\"Open source software which you can use to easily create a beautiful website, blog, or app.\",\n\t\t\t\"isPartOf\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#website\"\n\t\t\t}\n\t\t}\n\t]\n}\n",
-    "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t\t{\n\t\t\t\"@type\":\"Organization\",\n\t\t\t\"@id\":\"https://wordpress.org/#organization\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress\",\n\t\t\t\"logo\":{\n\t\t\t\t\"@type\":\"ImageObject\",\n\t\t\t\t\"@id\":\"https://wordpress.org/#logo\",\n\t\t\t\t\"url\":\"https://s.w.org/style/images/about/WordPress-logotype-wmark.png\"\n\t\t\t},\n\t\t\t\"sameAs\":[\n\t\t\t\t\"https://www.facebook.com/WordPress/\",\n\t\t\t\t\"https://twitter.com/WordPress\",\n\t\t\t\t\"https://en.wikipedia.org/wiki/WordPress\"\n\t\t\t]\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebSite\",\n\t\t\t\"@id\":\"https://wordpress.org/#website\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress.org\",\n\t\t\t\"publisher\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#organization\"\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebPage\",\n\t\t\t\"@id\":\"https://wordpress.org/\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"inLanguage\":\"en\",\n\t\t\t\"name\":\"Blog Tool, Publishing Platform, and CMS - WordPress.org\",\n\t\t\t\"description\":\"Open source software which you can use to easily create a beautiful website, blog, or app.\",\n\t\t\t\"isPartOf\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#website\"\n\t\t\t}\n\t\t}\n\t]\n}\n",
-    "\n[\n\t{\n\t\t\"@context\": \"http://schema.org\",\n\t\t\"@type\": [\n\t\t\t\"SoftwareApplication\",\n\t\t\t\"Product\"\n\t\t],\n\t\t\"name\": \"WordPress\",\n\t\t\"operatingSystem\": [ \"Linux\", \"Windows\", \"Unix\", \"Apache\", \"NGINX\" ],\n\t\t\"url\": \"https://wordpress.org/download/\",\n\t\t\"description\": \"Download WordPress today, and get started on creating your website with one of the most powerful, popular, and customizable platforms in the world.\",\n\t\t\"softwareVersion\": \"7.0\",\n\t\t\"fileFormat\": \"application/zip\",\n\t\t\"downloadUrl\": \"https://wordpress.org/latest.zip\",\n\t\t\"dateModified\": \"2026-05-20T17:42:32+00:00\",\n\t\t\"applicationCategory\": \"WebApplication\",\n\t\t\"offers\": {\n\t\t\t\"@type\": \"Offer\",\n\t\t\t\"url\": \"https://wordpress.org/download/\",\n\t\t\t\"price\": \"0.00\",\n\t\t\t\"priceCurrency\": \"USD\",\n\t\t\t\"seller\": {\n\t\t\t\t\"@type\": \"Organization\",\n\t\t\t\t\"name\": \"WordPress.org\",\n\t\t\t\t\"url\": \"https://wordpress.org\"\n\t\t\t}\n\t\t}\n\t}\n]\n"
-  ],
-  "nav_links": [
-    "https://wordpress.org/plugins/rt-carousel/",
-    "https://buddypress.org/",
-    "https://wordpress.org/plugins/ai/",
-    "https://wordpress.org/about/requirements/",
-    "https://events.wordpress.org/",
-    "https://wordpress.org/support/guidelines/",
-    "https://wordpress.org/about/history/",
-    "https://wordpress.org/photos/submit/",
-    "https://wordpress.org/about/logos/",
-    "https://ma.tt/",
-    "https://wordpress.org/support/forums/",
-    "https://wordpress.org/hosting/",
-    "https://make.wordpress.org/support/handbook/contributing-to-the-wordpress-forums/",
-    "https://wordpress.org/news/2024/09/wp-engine-banned/",
-    "https://wordpress.org/news/category/releases/",
-    "https://wordpress.org/documentation/technical-guides/",
-    "https://wordpress.org/about/stats/",
-    "https://wordpress.org/news/2024/10/thank-you-salesforce/",
-    "https://wordpress.tv/",
-    "https://wordpress.org/education/"
-  ],
   "headings": [
     "Meet WordPress",
     "Kim Parsell Memorial Scholarship Opens for WordCamp US 2026",
@@ -471,13 +414,12 @@
     "$100",
     "$3"
   ],
-  "assets_downloaded": 39,
-  "drive_folder_id": "1_0P-jzCdbf_qkSrUyB4atKoXeHZSDxX6",
-  "drive_folder_url": "https://drive.google.com/drive/folders/1_0P-jzCdbf_qkSrUyB4atKoXeHZSDxX6",
-  "status": "complete",
-  "errors": [],
-  "duration": 79.4,
-  "nav_structure": [
+  "sitemap_urls": [
+    "https://wordpress.org/sitemap-1.xml",
+    "https://wordpress.org/image-sitemap-1.xml",
+    "https://wordpress.org/video-sitemap-1.xml"
+  ],
+  "nav_links": [
     "https://wordpress.org/plugins/rt-carousel/",
     "https://buddypress.org/",
     "https://wordpress.org/plugins/ai/",
@@ -490,8 +432,70 @@
     "https://ma.tt/",
     "https://wordpress.org/support/forums/",
     "https://wordpress.org/hosting/",
+    "https://make.wordpress.org/support/handbook/contributing-to-the-wordpress-forums/",
     "https://wordpress.org/news/2024/09/wp-engine-banned/",
     "https://wordpress.org/news/category/releases/",
-    "https://wordpress.org/documentation/technical-guides/"
-  ]
+    "https://wordpress.org/documentation/technical-guides/",
+    "https://wordpress.org/about/stats/",
+    "https://wordpress.org/news/2024/10/thank-you-salesforce/",
+    "https://wordpress.tv/",
+    "https://wordpress.org/education/"
+  ],
+  "schema_data": [
+    "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t\t{\n\t\t\t\"@type\":\"Organization\",\n\t\t\t\"@id\":\"https://wordpress.org/#organization\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress\",\n\t\t\t\"logo\":{\n\t\t\t\t\"@type\":\"ImageObject\",\n\t\t\t\t\"@id\":\"https://wordpress.org/#logo\",\n\t\t\t\t\"url\":\"https://s.w.org/style/images/about/WordPress-logotype-wmark.png\"\n\t\t\t},\n\t\t\t\"sameAs\":[\n\t\t\t\t\"https://www.facebook.com/WordPress/\",\n\t\t\t\t\"https://twitter.com/WordPress\",\n\t\t\t\t\"https://en.wikipedia.org/wiki/WordPress\"\n\t\t\t]\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebSite\",\n\t\t\t\"@id\":\"https://wordpress.org/#website\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress.org\",\n\t\t\t\"publisher\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#organization\"\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebPage\",\n\t\t\t\"@id\":\"https://wordpress.org/\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"inLanguage\":\"en\",\n\t\t\t\"name\":\"Blog Tool, Publishing Platform, and CMS - WordPress.org\",\n\t\t\t\"description\":\"Open source software which you can use to easily create a beautiful website, blog, or app.\",\n\t\t\t\"isPartOf\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#website\"\n\t\t\t}\n\t\t}\n\t]\n}\n",
+    "\n{\n\t\"@context\":\"https://schema.org\",\n\t\"@graph\":[\n\t\t{\n\t\t\t\"@type\":\"Organization\",\n\t\t\t\"@id\":\"https://wordpress.org/#organization\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress\",\n\t\t\t\"logo\":{\n\t\t\t\t\"@type\":\"ImageObject\",\n\t\t\t\t\"@id\":\"https://wordpress.org/#logo\",\n\t\t\t\t\"url\":\"https://s.w.org/style/images/about/WordPress-logotype-wmark.png\"\n\t\t\t},\n\t\t\t\"sameAs\":[\n\t\t\t\t\"https://www.facebook.com/WordPress/\",\n\t\t\t\t\"https://twitter.com/WordPress\",\n\t\t\t\t\"https://en.wikipedia.org/wiki/WordPress\"\n\t\t\t]\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebSite\",\n\t\t\t\"@id\":\"https://wordpress.org/#website\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"name\":\"WordPress.org\",\n\t\t\t\"publisher\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#organization\"\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"@type\":\"WebPage\",\n\t\t\t\"@id\":\"https://wordpress.org/\",\n\t\t\t\"url\":\"https://wordpress.org/\",\n\t\t\t\"inLanguage\":\"en\",\n\t\t\t\"name\":\"Blog Tool, Publishing Platform, and CMS - WordPress.org\",\n\t\t\t\"description\":\"Open source software which you can use to easily create a beautiful website, blog, or app.\",\n\t\t\t\"isPartOf\":{\n\t\t\t\t\"@id\":\"https://wordpress.org/#website\"\n\t\t\t}\n\t\t}\n\t]\n}\n",
+    "\n[\n\t{\n\t\t\"@context\": \"http://schema.org\",\n\t\t\"@type\": [\n\t\t\t\"SoftwareApplication\",\n\t\t\t\"Product\"\n\t\t],\n\t\t\"name\": \"WordPress\",\n\t\t\"operatingSystem\": [ \"Linux\", \"Windows\", \"Unix\", \"Apache\", \"NGINX\" ],\n\t\t\"url\": \"https://wordpress.org/download/\",\n\t\t\"description\": \"Download WordPress today, and get started on creating your website with one of the most powerful, popular, and customizable platforms in the world.\",\n\t\t\"softwareVersion\": \"7.0\",\n\t\t\"fileFormat\": \"application/zip\",\n\t\t\"downloadUrl\": \"https://wordpress.org/latest.zip\",\n\t\t\"dateModified\": \"2026-05-20T17:42:32+00:00\",\n\t\t\"applicationCategory\": \"WebApplication\",\n\t\t\"offers\": {\n\t\t\t\"@type\": \"Offer\",\n\t\t\t\"url\": \"https://wordpress.org/download/\",\n\t\t\t\"price\": \"0.00\",\n\t\t\t\"priceCurrency\": \"USD\",\n\t\t\t\"seller\": {\n\t\t\t\t\"@type\": \"Organization\",\n\t\t\t\t\"name\": \"WordPress.org\",\n\t\t\t\t\"url\": \"https://wordpress.org\"\n\t\t\t}\n\t\t}\n\t}\n]\n"
+  ],
+  "robots_txt": "Sitemap: https://wordpress.org/sitemap.xml\nSitemap: https://wordpress.org/news-sitemap.xml\nSitemap: https://wordpress.org/themes/sitemap.xml\nSitemap: https://wordpress.org/plugins/sitemap.xml\nSitemap: https://wordpress.org/news/sitemap.xml\nSitemap: https://wordpress.org/showcase/sitemap.xml\nSitemap: https://wordpress.org/documentation/sitemap.xml\nSitemap: https://wordpress.org/patterns/sitemap.xml\nSitemap: https://wordpress.org/photos/sitemap.xml\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nAllow: /wp-admin/load-scripts.php\nAllow: /wp-admin/load-styles.php\n\nUser-agent: *\nDisallow: /search\nDisallow: /?s=\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Bytespider\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nUser-agent: Copilot\nAllow: /\n\nUser-agent: *\nDisallow: /plugins/search/\n",
+  "assets": {
+    "css": [
+      "related-posts.css",
+      "print.css",
+      "style.min.css",
+      "block-styles.css",
+      "lightbox-captions.css",
+      "style.css",
+      "dashicons.min.css"
+    ],
+    "js": [
+      "skip-link-focus-fix.min.js",
+      "view.js"
+    ],
+    "images": [
+      "showcase-top-row-full.png",
+      "9816a3cdc48e07504.44234537-300x225.jpg",
+      "7606a3b217fd98a26.74533583-768x1024.jpeg",
+      "WCEU-sign-3.png",
+      "4856a3cdb1fd67713.13901754-768x1024.jpg",
+      "image-5.png",
+      "WhatsApp-Image-2026-06-06-at-10.26.32-1-scaled.jpeg",
+      "separator.png",
+      "icon-256x256.png",
+      "20250826_215948-scaled.jpg",
+      "WhatsApp-Image-2026-06-05-at-05.23.01-scaled.jpeg",
+      "image-1.png",
+      "image-12.png",
+      "WhatsApp-Image-2026-06-04-at-04.31.29-scaled.jpeg",
+      "400588019-80c275ed-3753-49b3-a7aa-7265282e9e91-scaled.png",
+      "WhatsApp-Image-2026-06-04-at-03.32.46-scaled.jpeg",
+      "rolling-stone-desktop-scaled.jpg",
+      "showcase-bottom-row.png"
+    ],
+    "fonts": [],
+    "pages": [
+      "page_00.html",
+      "page_01.html",
+      "page_02.html",
+      "page_03.html",
+      "page_04.html",
+      "page_05.html",
+      "page_06.html",
+      "page_07.html",
+      "page_08.html",
+      "page_09.html"
+    ]
+  },
+  "drive_folder_url": "https://drive.google.com/drive/folders/1_0P-jzCdbf_qkSrUyB4atKoXeHZSDxX6",
+  "github_path": "builds/clones/wordpress/",
+  "storage_complete": true
 }
