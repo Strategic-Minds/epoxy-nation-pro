@@ -1,0 +1,164 @@
+COMPETITIVE INTELLIGENCE REPORT — EPOXY-FLOORS-TEXAS
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://epoxyfloorstexas.com
+Category:     epoxy_competitor
+Overall Score: 54/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      1
+Assets Downloaded:  31 (CSS: 11 | JS: 13 | Images: 7)
+API Endpoints:      2
+Forms Found:        1
+Tech Stack Items:   3
+Sitemap URLs:       4
+
+SCORECARD
+---------
+Security:    30/100
+Tech Stack:  24/100
+SEO:         90/100
+Conversion:  35/100
+Design:      95/100
+UX:          51/100
+OVERALL:     54/100
+
+TECH STACK (detected)
+---------------------
+  + WordPress
+  + GA4
+  + jQuery
+
+SECURITY AUDIT
+--------------
+Score: 30/100  Grade: D
+  https: True
+  x_content_type: nosniff
+  server: nginx
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  None detected in JS/HTML
+
+API ENDPOINTS FOUND
+-------------------
+  refill
+  feedback
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Fill out the quick contact form for a free estimate, and receive a $150 savings 
+  We believe in Texans helping Texans
+  We have completed projects for
+
+Meta Description:
+  The Highest Rated Epoxy Contractor in Texas. Servicing Houston, Dallas, San Antonio, Austin &amp; Surrounding. New 1-Day Install. 100% Solids Epoxy
+
+OG Title:
+  The Premier Epoxy Installer of Texas. (866) 87-EPOXY.
+
+CTA Buttons Found:
+  None found
+
+PRICING SIGNALS
+---------------
+  $150
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['_wpcf7', '_wpcf7_version', '_wpcf7_locale', '_wpcf7_unit_tag', '_wpcf7_container_post', '_wpcf7_posted_data_hash', 'your-name', 'your-email', 'your-phone', '_wpcf7_ak_js']
+
+NAVIGATION STRUCTURE
+--------------------
+  https://www.epoxyfloorstexas.com/epoxy-services/
+  https://www.epoxyfloorstexas.com
+  https://www.epoxyfloorstexas.com/about-us/
+  https://www.epoxyfloorstexas.com/why-us/
+  https://www.epoxyfloorstexas.com/
+  https://www.epoxyfloorstexas.com/gallery-epoxy-floor-coatings/
+  https://www.epoxyfloorstexas.com/contact-us/
+  tel:8668737699
+  https://www.facebook.com/EpoxyFloorsTexas/
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.epoxyfloorstexas.com/sitemap.xml
+Sitemap: https://www.epoxyfloorstexas.com/sitemap.rss
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  <![CDATA[https://www.epoxyfloorstexas.com/post-sitemap.xml]]>
+  <![CDATA[https://www.epoxyfloorstexas.com/page-sitemap.xml]]>
+  <![CDATA[https://www.epoxyfloorstexas.com/attachment-sitemap.xml]]>
+  <![CDATA[https://www.epoxyfloorstexas.com/envira-sitemap.xml]]>
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Security score 30/100 — ENP runs enterprise-grade hardened infrastructure
+  2. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+  3. ⚠️ Thin content (1 pages) — ENP dominates with 50+ city-specific landing pages
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (11)
+  https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-8b5b6f678277-2.css
+  https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css
+  https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-8b5b6f678277.css
+  https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css
+  https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-c67d20f9f743-2.css
+  https://www.epoxyfloorstexas.com/wp-content/uploads/siteorigin-widgets/sow-image-default-e4c2d9f6c920-2.css
+  https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/default/rs-default.css
+  https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/style.css
+  https://www.epoxyfloorstexas.com/wp-content/plugins/siteorigin-panels/css/front-flex.min.css
+  https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/social-font/css/font-awesome.css
+
+JS BUNDLES DOWNLOADED (13)
+  https://www.epoxyfloorstexas.com/wp-content/plugins/contact-form-7/includes/js/index.js
+  https://www.epoxyfloorstexas.com/wp-includes/js/jquery/jquery-migrate.min.js
+  https://www.epoxyfloorstexas.com/wp-includes/js/dist/hooks.min.js
+  https://www.epoxyfloorstexas.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js
+  https://www.epoxyfloorstexas.com/wp-content/plugins/enable-jquery-migrate-helper/js/deprecation-notice.js
+  https://www.epoxyfloorstexas.com/wp-content/plugins/akismet/_inc/akismet-frontend.js
+  https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/js/responsive-scripts.js
+  https://www.epoxyfloorstexas.com/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js
+  https://www.epoxyfloorstexas.com/wp-content/themes/epoxyfloorstexas/js/responsive-modernizr.js
+  https://www.epoxyfloorstexas.com/wp-includes/js/comment-reply.min.js
+
+IMAGE ASSETS DOWNLOADED (7)
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2017/05/logo.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-150x75.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2017/08/Epoxy-Floors-Texas-Slider-1-3.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2017/05/quick-contact-150x76.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2018/10/Commercial-Epoxy-Flooring-EFT-5.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-1024x510.jpg
+  https://www.epoxyfloorstexas.com/wp-content/uploads/2023/09/final-version-redesigned-min-scaled.jpg
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
