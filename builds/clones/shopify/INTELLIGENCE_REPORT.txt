@@ -1,0 +1,179 @@
+COMPETITIVE INTELLIGENCE REPORT — SHOPIFY
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://shopify.com
+Category:     ecommerce_builder
+Overall Score: 81/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  20 (CSS: 15 | JS: 0 | Images: 5)
+API Endpoints:      0
+Forms Found:        12
+Tech Stack Items:   4
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    50/100
+Tech Stack:  52/100
+SEO:         85/100
+Conversion: 100/100
+Design:     100/100
+UX:         100/100
+OVERALL:     81/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + Shopify
+  + GA4
+  + Tailwind
+
+SECURITY AUDIT
+--------------
+Score: 50/100  Grade: C
+  https: True
+  hsts: max-age=15552000; includeSubDomains; preload
+  x_content_type: nosniff
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5ebaaa33b0b-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  None detected in JS/HTML
+
+API ENDPOINTS FOUND
+-------------------
+  None found
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Be the nextAI all-star
+  Fund your business. Drive growth. Scale&nbsp;faster.
+  starttoday
+  Shopify Checkout
+  Shopify Tax
+  Shopify partner program
+  Shopify Payments
+  Shopify Discounts
+
+Meta Description:
+  Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.
+
+OG Title:
+  Shopify: The All-in-One Commerce Platform for Businesses - Shopify
+
+CTA Buttons Found:
+  Marketing consent on sign-in
+  Explore Shopify analytics
+  Explore Shop Campaigns
+  Log in for filing eligibility
+  UPS return labels
+  Read more
+  Simplified setup and bidding in Shop Campaigns
+  Auto-upgrades and semantic versioning in Shopify CLI
+
+PRICING SIGNALS
+---------------
+  $245
+  $150,000,
+  $9
+  $13,000,
+  $200
+  $79
+  $59/mo
+  $0
+  $5
+  $100,000
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=[':R14ln5:']
+  Form: action=POST | method=POST | fields=['email']
+  Form: action=POST | method=POST | fields=[':R14ln5:']
+  Form: action=POST | method=POST | fields=['directory-search']
+  Form: action=POST | method=POST | fields=['directory-search']
+
+NAVIGATION STRUCTURE
+--------------------
+  /partners/directory/locations/italy
+  /partners/directory/services/marketing-and-sales/seo-and-paid-search
+  /technology-partners/enterprise
+  /partners/directory/services/store-setup/website-audit-and-optimization-strategy
+  /partners/directory/services/development-and-troubleshooting/custom-apps-integrations
+  /partners/directory/services/visual-content-and-branding/take-product-photos
+  /solutions/b2b/enterprise
+  /partners/directory/services/store-setup/ongoing-website-management
+  /case-studies/arhaus
+  /customer-accounts
+  /partners/directory/locations/united-states
+  /shop
+  /partners/directory/locations/france
+  /partners/directory/services/marketing-and-sales/conversion-rate-optimization
+  /carbon-commerce
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /authentication/
+Disallow: /*/account
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ No GTM — ENP tracks every pixel, click, and conversion event
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/discounts-BgoU8zGk.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-DN2GlTnD.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-DqjaUjql.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-CKXl1W5h.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-pillar/assets/stylesRedesign-DigFYsH9.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-Fwze0ZhL.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-blog/assets/blog-BBno71JY.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-pillar/assets/route-Dq9x5UoY.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/styles-B0YiNCmC.css
+  https://cdn.shopify.com/shopifycloud/world/brochure/production-shopify/assets/theme-DHYcmQJ2.css
+
+JS BUNDLES DOWNLOADED (0)
+
+
+IMAGE ASSETS DOWNLOADED (5)
+  https://cdn.shopify.com/s/files/1/0647/5176/3550/files/U207_Shopify_Catalog_desktop-fallback.png?v=1781552880&amp;width=100&amp;height=75&amp;crop=center
+  https://cdn.shopify.com/b/shopify-brochure2-assets/93d272ce2c33c1794351c9eeb0e1b090.jpg?width=1396&amp;originalWidth=1600&amp;originalHeight=900&amp;width=1000
+  https://cdn.shopify.com/s/files/1/0070/7032/articles/young-entrepreneur-header_7b9526fb-54f6-43af-8d58-97b93f1ad2f1.jpg?v=1750112503&amp;width=320&amp;originalWidth=2500&amp;originalHeight=1312&amp;width=2200
+  https://cdn.shopify.com/s/files/1/0647/5176/3550/files/U247_Deeper_dispute_insights.png?v=1780687173&amp;width=1400&amp;height=1050&amp;crop=center
+  https://cdn.shopify.com/b/shopify-brochure2-assets/f531232ca65eb5c5de30fe72c6c24bf1.png?originalWidth=808&amp;originalHeight=1020&amp;width=600
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
