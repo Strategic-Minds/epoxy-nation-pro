@@ -1,0 +1,195 @@
+{
+  "slug": "framer",
+  "url": "https://framer.com",
+  "cat": "website_builder",
+  "pages_scraped": 25,
+  "css_files": [
+    "https://app.framerstatic.com/login.FY5T2ZFA.css"
+  ],
+  "js_files": [
+    "https://cdn.vantara.ai/vantara-browser-api.js",
+    "https://framer.com/s/app.64adcc940ec81815356e2d047920171c0491da0a/scripts/react/react.production.min.js",
+    "https://www.dubcdn.com/analytics/script.js",
+    "https://framer.com/bootstrap.64adcc940ec81815356e2d047920171c0491da0a.js",
+    "https://framerusercontent.com/sites/3BJ9zINIeWtEEVRMAcoTL8/script_main.B_xCi13E.mjs",
+    "https://framer.com/s/app.64adcc940ec81815356e2d047920171c0491da0a/scripts/react-dom/react-dom.production.min.js",
+    "https://events.framer.com/script?v=2",
+    "https://app.framerstatic.com/login.7WNK27CR.mjs",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KQFN6BX"
+  ],
+  "images": [],
+  "api_endpoints": [
+    "https://www.google.com/ccm/geo",
+    "https://api.framer.com/site/users/me"
+  ],
+  "forms": [
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "Name",
+        "Email",
+        "Company",
+        "Country",
+        "Page",
+        "website",
+        "company",
+        "message",
+        "subject",
+        "title",
+        "description",
+        "feedback",
+        "notes",
+        "details",
+        "remarks",
+        "comments"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "Name",
+        "Email",
+        "Company",
+        "Country",
+        "Page",
+        "website",
+        "company",
+        "message",
+        "subject",
+        "title",
+        "description",
+        "feedback",
+        "notes",
+        "details",
+        "remarks",
+        "comments"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "Email",
+        "website",
+        "company",
+        "message",
+        "subject",
+        "title",
+        "description",
+        "feedback",
+        "notes",
+        "details",
+        "remarks",
+        "comments"
+      ]
+    }
+  ],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-KQFN6BX",
+      "GTM-5VVBTMRW",
+      "GTM-T4JTT8T2",
+      "GTM-W"
+    ],
+    "GA_IDs": [
+      "G-QZ2MPXED80",
+      "G-XBLRHKF8"
+    ]
+  },
+  "tech": [
+    "React",
+    "Framer",
+    "Shopify",
+    "WordPress",
+    "HubSpot",
+    "GTM",
+    "GA4",
+    "Tailwind"
+  ],
+  "security_score": 60,
+  "security_grade": "B",
+  "security_findings": {
+    "https": true,
+    "hsts": "max-age=31536000; includeSubDomains; preload",
+    "x_frame": "DENY",
+    "x_content_type": "nosniff",
+    "referrer_policy": "strict-origin-when-cross-origin",
+    "server": "Framer/dd61c09"
+  },
+  "robots_txt": "User-agent: *\nDisallow: /edit",
+  "sitemap_urls": [],
+  "meta_tags": {
+    "description": "Create a professional website with Framer\u2019s no-code AI website builder. Design freely, manage CMS content, optimize SEO, collaborate, and publish fast.",
+    "keywords": "",
+    "og_title": "Framer: AI website builder for professional sites",
+    "og_desc": "Create a professional website with Framer\u2019s no-code AI website builder. Design freely, manage CMS content, optimize SEO, collaborate, and publish fast."
+  },
+  "schema_data": [
+    "\r\n    {\r\n      \"@context\": \"https://schema.org\",\r\n      \"@type\": \"Organization\",\r\n      \"image\": \"https://framerusercontent.com/images/b2hliN8q6RI1alDDMojdsEiXDU.png\",\r\n      \"url\": \"https://www.framer.com\",\r\n      \"sameAs\": [\"https://twitter.com/framer\", \"https://www.framer.community/c/support/\"],\r\n      \"logo\": \"https://framerusercontent.com/images/s8byoJvwTkn7Gm2jKWNdTPv9F8Q.svg\",\r\n      \"name\": \"Framer\",\r\n      \"legalName\": \"Framer B.V.\",\r\n      \"description\": \"The web builder for stunning sites. Design and publish modern sites at any scale.\",\r\n      \"email\": \"support@framer.com\",\r\n      \"vatID\": \"NL853695386B01\"\r\n    }\r\n",
+    "\r\n    {\r\n      \"@context\": \"https://schema.org\",\r\n      \"@type\": \"Organization\",\r\n      \"image\": \"https://framerusercontent.com/images/b2hliN8q6RI1alDDMojdsEiXDU.png\",\r\n      \"url\": \"https://www.framer.com\",\r\n      \"sameAs\": [\"https://twitter.com/framer\", \"https://www.framer.community/c/support/\"],\r\n      \"logo\": \"https://framerusercontent.com/images/s8byoJvwTkn7Gm2jKWNdTPv9F8Q.svg\",\r\n      \"name\": \"Framer\",\r\n      \"legalName\": \"Framer B.V.\",\r\n      \"description\": \"The web builder for stunning sites. Design and publish modern sites at any scale.\",\r\n      \"email\": \"support@framer.com\",\r\n      \"vatID\": \"NL853695386B01\"\r\n    }\r\n",
+    "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why is Framer useful for UI/UX design?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Framer combines visual design, interaction design, responsive layout, and publishing in one workflow. UI/UX teams can move from static screens to realistic website experiences, refine flows directly on the canvas, and keep the design editable as feedback comes in.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I prototype realistic website interactions in Framer?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. Framer is strong for high-fidelity web prototypes because interactions, breakpoints, components, and real page structure can live in the same project. Instead of only simulating flows, teams can refine a prototype into something that is close to a publishable website.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How does Framer fit with a Figma UI workflow?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Designers can start in Figma, import useful screens or sections into Framer, and continue refining the experience for the web. This makes Framer helpful when a UI direction needs responsive behavior, motion, CMS content, SEO settings, and a real publishing path.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I share UI/UX prototypes for feedback?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. Framer makes it easy to share interactive work with teammates, stakeholders, or clients, then keep iterating on the same canvas. Teams can review layouts, copy, responsiveness, and interaction details before deciding whether to publish the experience publicly.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can Framer turn a prototype into a live site?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. A Framer prototype can become a production website because the design canvas, responsive controls, hosting, SEO controls, and publishing tools are already connected. That helps UI/UX teams reduce handoff gaps and move from validated design to live experience faster.\"\n      }\n    }\n  ]\n}\n"
+  ],
+  "nav_links": [
+    "./stories/",
+    "../developers/property-controls",
+    "../developers/fetch-examples",
+    "../developers/server-api-introduction",
+    "https://www.framer.com/community/gallery/",
+    "../../developers/component-examples",
+    "./server-api-quick-start",
+    "../../developers/comparison",
+    "./developers/server-api-faq",
+    "../../developers/property-controls",
+    "../developers/plugins-introduction",
+    "../../developers/overrides-examples",
+    "https://framer.com/r/login",
+    "./developers/overrides-introduction",
+    "../../developers/faq",
+    "../../developers/changelog",
+    "../developers/reference",
+    "./plugins-quick-start",
+    "../../pricing",
+    "./developers/server-api-quick-start"
+  ],
+  "headings": [
+    "Framer is the AI website builder for standout sites",
+    "Find answers to your questions",
+    "Build interactive UI/UX experiences and prototype interfaces with Framer",
+    "Framer 3.0",
+    "API Reference",
+    "Website performance, engineered into every layer",
+    "Framer for Developers",
+    "Stories from teams building standout sites",
+    "Comparing Developer Features",
+    "Framer brand and trademark guidelines",
+    "Framer vs Ceros: Which no-code web design tool is better?",
+    "Framer vs Sanity: Which CMS is best for your marketing website?"
+  ],
+  "cta_texts": [],
+  "pricing_signals": [],
+  "assets_downloaded": 10,
+  "drive_folder_id": "1wZMaoKFKj5Ts6uXOMKAEHwd4eq5aPH7Z",
+  "drive_folder_url": "https://drive.google.com/drive/folders/1wZMaoKFKj5Ts6uXOMKAEHwd4eq5aPH7Z",
+  "status": "complete",
+  "errors": [],
+  "duration": 75.5,
+  "nav_structure": [
+    "./stories/",
+    "../developers/property-controls",
+    "../developers/fetch-examples",
+    "../developers/server-api-introduction",
+    "https://www.framer.com/community/gallery/",
+    "../../developers/component-examples",
+    "./server-api-quick-start",
+    "../../developers/comparison",
+    "./developers/server-api-faq",
+    "../../developers/property-controls",
+    "../developers/plugins-introduction",
+    "../../developers/overrides-examples",
+    "https://framer.com/r/login",
+    "./developers/overrides-introduction",
+    "../../developers/faq"
+  ]
+}
