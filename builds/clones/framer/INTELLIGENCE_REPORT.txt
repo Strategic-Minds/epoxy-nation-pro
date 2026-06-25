@@ -1,0 +1,160 @@
+COMPETITIVE INTELLIGENCE REPORT — FRAMER
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://framer.com
+Category:     website_builder
+Overall Score: 72/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      25
+Assets Downloaded:  10 (CSS: 1 | JS: 9 | Images: 0)
+API Endpoints:      2
+Forms Found:        3
+Tech Stack Items:   8
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    60/100
+Tech Stack:  84/100
+SEO:         85/100
+Conversion:  45/100
+Design:      55/100
+UX:         100/100
+OVERALL:     72/100
+
+TECH STACK (detected)
+---------------------
+  + React
+  + Framer
+  + Shopify
+  + WordPress
+  + HubSpot
+  + GTM
+  + GA4
+  + Tailwind
+
+SECURITY AUDIT
+--------------
+Score: 60/100  Grade: B
+  https: True
+  hsts: max-age=31536000; includeSubDomains; preload
+  x_frame: DENY
+  x_content_type: nosniff
+  referrer_policy: strict-origin-when-cross-origin
+  server: Framer/dd61c09
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-KQFN6BX', 'GTM-5VVBTMRW', 'GTM-T4JTT8T2', 'GTM-W']
+  GA_IDs: ['G-QZ2MPXED80', 'G-XBLRHKF8']
+
+API ENDPOINTS FOUND
+-------------------
+  https://www.google.com/ccm/geo
+  https://api.framer.com/site/users/me
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Framer is the AI website builder for standout sites
+  Find answers to your questions
+  Build interactive UI/UX experiences and prototype interfaces with Framer
+  Framer 3.0
+  API Reference
+  Website performance, engineered into every layer
+  Framer for Developers
+  Stories from teams building standout sites
+
+Meta Description:
+  Create a professional website with Framer’s no-code AI website builder. Design freely, manage CMS content, optimize SEO, collaborate, and publish fast.
+
+OG Title:
+  Framer: AI website builder for professional sites
+
+CTA Buttons Found:
+  None found
+
+PRICING SIGNALS
+---------------
+  No pricing found (hidden pricing = conversion barrier ENP can exploit)
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['Name', 'Email', 'Company', 'Country', 'Page', 'website', 'company', 'message', 'subject', 'title', 'description', 'feedback', 'notes', 'details', 'remarks', 'comments']
+  Form: action=POST | method=POST | fields=['Name', 'Email', 'Company', 'Country', 'Page', 'website', 'company', 'message', 'subject', 'title', 'description', 'feedback', 'notes', 'details', 'remarks', 'comments']
+  Form: action=POST | method=POST | fields=['Email', 'website', 'company', 'message', 'subject', 'title', 'description', 'feedback', 'notes', 'details', 'remarks', 'comments']
+
+NAVIGATION STRUCTURE
+--------------------
+  ./stories/
+  ../developers/property-controls
+  ../developers/fetch-examples
+  ../developers/server-api-introduction
+  https://www.framer.com/community/gallery/
+  ../../developers/component-examples
+  ./server-api-quick-start
+  ../../developers/comparison
+  ./developers/server-api-faq
+  ../../developers/property-controls
+  ../developers/plugins-introduction
+  ../../developers/overrides-examples
+  https://framer.com/r/login
+  ./developers/overrides-introduction
+  ../../developers/faq
+
+ROBOTS.TXT (preview)
+--------------------
+User-agent: *
+Disallow: /edit
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No transparent pricing — ENP can use this to build trust
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  Site is well-built — compete on features not tech
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (1)
+  https://app.framerstatic.com/login.FY5T2ZFA.css
+
+JS BUNDLES DOWNLOADED (9)
+  https://cdn.vantara.ai/vantara-browser-api.js
+  https://framer.com/s/app.64adcc940ec81815356e2d047920171c0491da0a/scripts/react/react.production.min.js
+  https://www.dubcdn.com/analytics/script.js
+  https://framer.com/bootstrap.64adcc940ec81815356e2d047920171c0491da0a.js
+  https://framerusercontent.com/sites/3BJ9zINIeWtEEVRMAcoTL8/script_main.B_xCi13E.mjs
+  https://framer.com/s/app.64adcc940ec81815356e2d047920171c0491da0a/scripts/react-dom/react-dom.production.min.js
+  https://events.framer.com/script?v=2
+  https://app.framerstatic.com/login.7WNK27CR.mjs
+  https://www.googletagmanager.com/gtm.js?id=GTM-KQFN6BX
+
+IMAGE ASSETS DOWNLOADED (0)
+
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
