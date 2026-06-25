@@ -1,0 +1,210 @@
+COMPETITIVE INTELLIGENCE REPORT — DIRECTCOLORS
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://directcolors.com
+Category:     epoxy_supplier
+Overall Score: 86/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      25
+Assets Downloaded:  41 (CSS: 15 | JS: 19 | Images: 7)
+API Endpoints:      9
+Forms Found:        188
+Tech Stack Items:   5
+Sitemap URLs:       5
+
+SCORECARD
+---------
+Security:    75/100
+Tech Stack:  40/100
+SEO:        100/100
+Conversion: 100/100
+Design:     100/100
+UX:         100/100
+OVERALL:     86/100
+
+TECH STACK (detected)
+---------------------
+  + Shopify
+  + HubSpot
+  + Klaviyo
+  + GTM
+  + GA4
+
+SECURITY AUDIT
+--------------
+Score: 75/100  Grade: A
+  https: True
+  csp: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+  hsts: max-age=7889238
+  x_frame: DENY
+  x_content_type: nosniff
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5eafadb38c8-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-TG4VR3F']
+  GA_IDs: ['G-EBEE92KHR1']
+  Klaviyo_ID: ['></script>\n  <script>!function(){if(!window.klaviyo){window._klOnsite=window._klOnsite||[];try{window.klaviyo=new Proxy({},{get:function(n,i){return']
+
+API ENDPOINTS FOUND
+-------------------
+  /cart.js
+  /cart
+  //directcolors.com/cdn/s/trekkie.storefront.370ef8ffef154dc56bb5a814fea4666724353464.min.js
+  /search/suggest
+  /cart/update
+  https://monorail-edge.shopifysvc.com/v1/produce
+  /cart/add
+  /sf_private_access_tokens
+  /cart/change
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Terms of Service
+  Collection: 
+                Patio &amp; Walkway Stains
+  Collection: 
+                Products
+  Technical Data Sheets & Safety Data Sheets
+  Portico™ Paver Stain
+  The Direct Colors™ Difference – Color Your Life!
+  Collection: 
+                Acrylic Concrete Sealers
+  Collection: 
+                Concrete Floor Polish &amp; Wax
+
+Meta Description:
+  Your premiere source for Decorative Concrete color products, supplies, photos, design ideas, and a whole lot more ★ Free Project Consultation ★
+
+OG Title:
+  Direct Colors | Decorative Concrete Stains
+
+CTA Buttons Found:
+  Skip to product information
+  shipping
+  Direct Colors
+  Skip to content
+  Start Quiz
+  SIGN UP
+  Clear all
+
+PRICING SIGNALS
+---------------
+  $19.98
+  $344.75
+  $149.95
+  $349.75
+  $499
+  $18.73
+  $579.95
+  $132.95
+  $30,000.00
+  $499.95
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['options[prefix]', 'type', 'q']
+  Form: action=POST | method=POST | fields=['form_type', 'utf8', 'contact[tags]', 'contact[email]']
+  Form: action=POST | method=POST | fields=['form_type', 'utf8', '_method', 'return_to', 'country_code']
+  Form: action=POST | method=POST | fields=['address[zip]']
+  Form: action=POST | method=POST | fields=['discount']
+
+NAVIGATION STRUCTURE
+--------------------
+  /collections/concrete-stamp-release-agent
+  /collections/concrete-pigment
+  /collections/commercial-floor-stains
+  /collections/garage
+  /collections/paver-stains
+  https://directcolors.com/customer_authentication/redirect?locale=en&region_country=US
+  /collections/all?page=4
+  /collections/anti-slip-additives
+  /collections/all?page=2
+  /collections/acid-stain-concrete
+  https://x.com/directcolors/
+  /collections/stamped-concrete-stains
+  /collections/concrete-countertop-stains
+  /collections/colored-concrete-sealers
+  /collections/concrete-stains
+
+ROBOTS.TXT (preview)
+--------------------
+# Shopify storefront. Public product, collection, page, blog, policy, cart, and localized HTML is crawlable.
+# Agent instructions: https://directcolors.com/agents.md
+# UCP discovery: https://directcolors.com/.well-known/ucp
+# UCP/MCP endpoint: https://directcolors.com/api/ucp/mcp
+# Agents should use
+
+SITEMAP URLS (first 10)
+-----------------------
+  https://directcolors.com/sitemap_agentic_discovery.xml
+  https://directcolors.com/sitemap_products_1.xml?from=14844333982061&amp;to=15014115344749
+  https://directcolors.com/sitemap_pages_1.xml?from=702775525741&amp;to=711212269933
+  https://directcolors.com/sitemap_collections_1.xml?from=630542106989&amp;to=639821611373
+  https://directcolors.com/sitemap_blogs_1.xml
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (15)
+  https://directcolors.com/cdn/shop/t/39/assets/vendor.css?v=94183888130352382221777047333
+  https://directcolors.com/cdn/shop/t/39/assets/section-image-with-text.css?v=38486561105862759561777047332
+  https://directcolors.com/cdn/shop/t/39/assets/custom-variant-rich-text.css?v=148628841375492684891777047334
+  https://directcolors.com/cdn/shop/t/39/assets/custom-tabs-image-cards.css?v=30685067132731681291777047334
+  https://directcolors.com/cdn/shop/t/39/assets/component-deferred-media.css?v=73225175381633074481777047333
+  https://directcolors.com/cdn/shop/t/39/assets/component-custom-card.css?v=133785116062957697991777047332
+  https://directcolors.com/cdn/shop/t/39/assets/section-slideshow.css?v=41364212133228574191777047331
+  https://directcolors.com/cdn/shop/t/39/assets/custom-hsfc-form.css?v=94073378569897788051777047333
+  https://directcolors.com/cdn/shop/t/39/assets/section-testimonials.css?v=153836119574949103891777047333
+  https://directcolors.com/cdn/shop/t/39/assets/section-scrolling-gallery-image.css?v=146183897890174981801777047334
+
+JS BUNDLES DOWNLOADED (19)
+  https://directcolors.com/cdn/shop/t/39/assets/cart.js?v=100809959746143226571777047333
+  https://directcolors.com/cdn/shop/t/39/assets/image-comparison.js?v=177303392805820628111777047333
+  https://directcolors.com/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js
+  https://directcolors.com/cdn/shop/t/39/assets/compatibility-warning.js?v=170149763508277203301780513188
+  https://directcolors.com/cdn/shop/t/39/assets/custom-tabs-video-cards.js?v=116877644609502114151777047333
+  https://directcolors.com/cdn/shop/t/39/assets/testimonial.js?v=98072741812298679881777047334
+  https://directcolors.com/cdn/shop/t/39/assets/facets.js?v=4601620510783132191777047331
+  https://directcolors.com/cdn/shop/t/39/assets/custom-quiz-cta.js?v=1941696135896921741777047332
+  https://directcolors.com/cdn/shop/t/39/assets/product-info.js?v=11100903159489658831777047331
+  https://directcolors.com/cdn/shop/t/39/assets/recently-viewed-products.js?v=27075323814696032361777047332
+
+IMAGE ASSETS DOWNLOADED (7)
+  https://directcolors.com/cdn/shop/files/outdoor-concrete-stained-charcoal.webp?v=1772628496&amp;width=320
+  https://directcolors.com/cdn/shop/files/POR-719-concrete-paver-pool-deck-stained-milano-red.webp?v=1776774213&amp;width=200
+  https://directcolors.com/cdn/shop/files/DC-POR-717-4OZ.webp?v=1776774213&amp;width=200
+  https://directcolors.com/cdn/shop/files/DC-KIT-AQT-503-SAT-1GAL.webp?v=1776519429&amp;width=1620
+  https://directcolors.com/cdn/shop/files/outdoor-concrete-stained-cumin.webp?v=1772628812&amp;width=70
+  https://directcolors.com/cdn/shop/files/DC-POR-707-1GAL.webp?v=1776774213&amp;width=70
+  https://directcolors.com/cdn/shop/files/DC-POR-724-concrete-paver-stained-portico-stain-silver_gray.webp?v=1776774213&amp;width=100
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
