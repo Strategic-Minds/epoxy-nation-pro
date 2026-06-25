@@ -1,0 +1,169 @@
+COMPETITIVE INTELLIGENCE REPORT — GARAGE-EXPERTS
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://garageexperts.com
+Category:     epoxy_competitor
+Overall Score: 78/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  10 (CSS: 9 | JS: 1 | Images: 0)
+API Endpoints:      0
+Forms Found:        50
+Tech Stack Items:   3
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    85/100
+Tech Stack:  24/100
+SEO:         85/100
+Conversion: 100/100
+Design:      75/100
+UX:         100/100
+OVERALL:     78/100
+
+TECH STACK (detected)
+---------------------
+  + GTM
+  + GA4
+  + Cloudflare
+
+SECURITY AUDIT
+--------------
+Score: 75/100  Grade: A
+  https: True
+  csp: default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:;
+  hsts: max-age=63072000; includeSubDomains; preload
+  x_frame: SAMEORIGIN
+  x_content_type: nosniff
+  referrer_policy: no-referrer-when-downgrade
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-MTCPTB4']
+  GA_IDs: ['UA-10580394-2']
+
+API ENDPOINTS FOUND
+-------------------
+  None found
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Epoxy &amp; Polyaspartic Garage Floor Coatings
+  Custom Garage Cabinets
+		
+		Custom Garage Cabinets in
+  Our Lifetime Warranty
+  Basement Epoxy Flooring
+		
+		Basement Epoxy Flooring in
+  GarageExperts®
+			Limited Lifetime Warranty on Garage FX®
+			Flooring, Garage Or
+  Storage Racks
+  Committed to Quality
+  Residential Epoxy &amp; Polyaspartic Flooring Services Residential Epoxy &amp; P
+
+Meta Description:
+  GarageExperts® offers high-quality epoxy flooring and custom storage solutions for residential and commercial spaces, all backed by a limited lifetime warranty. Schedule your free estimate today!
+
+OG Title:
+  Epoxy Flooring & Garage Storage | GarageExperts® 
+
+CTA Buttons Found:
+  Find Your Location&nbsp;
+  Website
+  Map View
+  Submit
+  Site Map
+  The Experts' Blog
+  Explore Our Idea Center
+  Custom Garage Ideas
+
+PRICING SIGNALS
+---------------
+  No pricing found (hidden pricing = conversion barrier ENP can exploit)
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['_m_', 'HeaderV4Search$ITM0$AreaSearch']
+  Form: action=POST | method=POST | fields=['_m_', 'MainstageV1VideoGE$ITM1$MainstageV1VideoSearch$ITM0$AreaSearch']
+  Form: action=POST | method=POST | fields=['_m_', 'MainstageV1Search$ITM0$AreaSearch']
+  Form: action=POST | method=POST | fields=['_m_', 'HeaderV4Search$ITM0$AreaSearch']
+  Form: action=POST | method=POST | fields=['_m_', 'ContactFormForm$ITM0$FirstName', 'ContactFormForm$ITM0$LastName', 'ContactFormForm$ITM0$Phone', 'ContactFormForm$ITM0$ZipCode', 'ContactFormForm$ITM0$EmailAddress', 'ContactFormForm$ITM0$FFD6']
+
+NAVIGATION STRUCTURE
+--------------------
+  /why-us/
+  /why-us/what-you-can-expect/
+  /privacy-policy/
+  /epoxy-polyaspartic-flooring/flooring-colors/
+  /epoxy-polyaspartic-flooring/
+  /contact-us/
+  /why-us/blog/
+  /garage-storage/
+  /site-search/
+  /why-us/video-center/
+  /why-us/warranty/
+  /custom-garage-ideas/garage-idea-gallery/
+  /epoxy-polyaspartic-flooring/residential-epoxy-flooring/
+  /accessibility/
+  /why-us/careers/
+
+ROBOTS.TXT (preview)
+--------------------
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+  ❌ No transparent pricing — ENP can use this to build trust
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (9)
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/vcup1wnyuh5.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/db9s7auwwjk.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/nnjmn573dqn.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/b99__l2ybk5.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/8qnn_n6xg79.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/u98dwvzezgq.2502181229560.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/nyjtyfc3j0c.2502181229560.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/5uq_lf2bjvi.2507110720150.css
+  https://d274bhbca04zrd.cloudfront.net/cms/includes/tbg9awggyjd.2604011138578.css
+
+JS BUNDLES DOWNLOADED (1)
+  https://analytics.scorpion.co/sa.js
+
+IMAGE ASSETS DOWNLOADED (0)
+
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
