@@ -1,0 +1,183 @@
+COMPETITIVE INTELLIGENCE REPORT — LEADPAGES
+============================================================
+Generated:    2026-06-25 08:37 UTC
+URL:          https://leadpages.com
+Category:     landing_builder
+Overall Score: 73/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  38 (CSS: 2 | JS: 20 | Images: 16)
+API Endpoints:      29
+Forms Found:        1
+Tech Stack Items:   5
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    90/100
+Tech Stack:  60/100
+SEO:         85/100
+Conversion:  35/100
+Design:      70/100
+UX:         100/100
+OVERALL:     73/100
+
+TECH STACK (detected)
+---------------------
+  + Next.js
+  + GTM
+  + GA4
+  + Hotjar
+  + Cloudflare
+
+SECURITY AUDIT
+--------------
+Score: 80/100  Grade: A
+  https: True
+  csp: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.htmlpub.com https
+  hsts: max-age=31536000; includeSubDomains
+  x_frame: DENY
+  x_content_type: nosniff
+  referrer_policy: strict-origin-when-cross-origin
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5eb1952b967-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-566K5MT9']
+
+API ENDPOINTS FOUND
+-------------------
+  /api/blog-image/3b61cb23a8567e48.jpg\
+  /api/tools/aeo-send-report
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Av8kH1x1b1\
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/mMWqb3bEaC
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Av8kH1x1b1
+  /api/tags
+  /api/auth/affiliate-referral
+  /api/blog-image/89387c9766218fdc.jpg\
+  /api/blog-image/0356c0200a2a3552.jpg\
+  /api/aeo/scan
+  /api/tools/subscribe
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Grr0LVoqyq
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/4u0WmHagFd\
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/5YPjpA3DIA\
+  /api/blog-image/2d495c73ff358a77.webp
+  /api/blog-image/0356c0200a2a3552.jpg
+  /api/tags/assignments
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/4u0WmHagFd
+  /api/tags/assignments/bulk
+  /api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/mMWqb3bEaC\
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  AI Landing Page Builder: Get smarterwith every
+  Custom Domains.Your brand. Better conversions.
+  Google Ads Landing Pages:Stop paying for clicks that don&#x27;t convert.
+  SaaS Landing Page Builder: Turn paid traffic into pipeline.
+  Headline Analyzer
+  Leadpages APIDocumentation
+  CTA Generator
+  Know who&#x27;s on your pages. Before they fill out a form.
+
+Meta Description:
+  AI landing pages with built-in A/B testing, Smart Traffic, and heatmaps. Create pages in 60 seconds. Optimize automatically. No traffic caps. Starting at $99/mo.
+
+OG Title:
+  Leadpages | AI Landing Page Builder with Built-in A/B Testing &amp; CRO
+
+CTA Buttons Found:
+  None found
+
+PRICING SIGNALS
+---------------
+  $3,828
+  $9
+  $25
+  $314
+  $319/mo
+  $17
+  $276
+  $200
+  $461
+  $15
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=[]
+
+NAVIGATION STRUCTURE
+--------------------
+  /compare
+  /
+  /pricing
+  /product
+
+ROBOTS.TXT (preview)
+--------------------
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  Site is well-built — compete on features not tech
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (2)
+  https://static.new.leadpages.com/_next/static/chunks/0vvddfgn26clk.css?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/048t4-2.5852k.css?dpl=0795b9a
+
+JS BUNDLES DOWNLOADED (20)
+  https://static.new.leadpages.com/_next/static/chunks/0oux.-ww_k.y-.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/0lvfnad11cueh.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/03~yq9q893hmn.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/0t9c~0om8ht~w.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/10hfbal6mkea~.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/0_xpd0e.h0po2.js?dpl=0795b9a
+  https://leadpages.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+  https://static.new.leadpages.com/_next/static/chunks/0w_y_b7l1hj14.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/17q9.93bvsd9s.js?dpl=0795b9a
+  https://static.new.leadpages.com/_next/static/chunks/0rmyrvh_z8dds.js?dpl=0795b9a
+
+IMAGE ASSETS DOWNLOADED (16)
+  https://leadpages.com/api/blogs/xspkhb6uq8bm4684n5oxdjjh/assets/Grr0LVoqyq
+  https://leadpages.com/images/integrations/logos/meta-ads-light.svg
+  https://leadpages.com/images/integrations/logos/gumroad-light.svg
+  https://leadpages.com/registrar-icons/domaincom.svg
+  https://i4.ytimg.com/vi/w4YShOtbxEs/maxresdefault.jpg
+  https://leadpages.com/images/integrations/logos/klaviyo-dark.svg
+  https://leadpages.com/logos/logo-6.svg
+  https://leadpages.com/images/integrations/logos/stripe-light.svg
+  https://leadpages.com/images/integrations/logos/meta-ads-dark.svg
+  https://leadpages.com/htmlpub-onboarding1.png
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
