@@ -1,48 +1,56 @@
 {
   "slug": "cascade-concrete",
   "url": "https://cascadeconcrete.com",
-  "cat": "epoxy_competitor",
-  "pages_scraped": 19,
-  "css_files": [],
-  "js_files": [
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/951337b8a6cc89a6/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/1012cf8ab4d8583f/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/a985ac7096d86ef9/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/fb9225e343648395/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/6dbbce887158c5c4/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/7ebb6913bd1a4e86/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/15e78f28a5a9a2a/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/857a6491fc140766/script.js",
-    "https://www.googletagmanager.com/gtag/js?id=G-BF2FDR6KMM",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/5bddba70c509919b/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/6b874e5a5c2a45e7/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/bf69e8a91f75a652/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/9ed2fe3be795ae23/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/82e5544e87b35015/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/b11086fe2559a762/script.js",
-    "https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/2aea41b58108a498/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/fc2a51829c7fbc7f/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/a27427e0115404c4/script.js",
-    "https://img1.wsimg.com/blobby/go/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/gpub/2fcccaabcd3c6bde/script.js"
+  "category": "epoxy_competitor",
+  "cloned_at": "2026-06-25T08:46:46.383130",
+  "extraction": {
+    "pages_scraped": 19,
+    "css_files_downloaded": 0,
+    "js_bundles_downloaded": 3,
+    "images_downloaded": 9,
+    "fonts_downloaded": 5
+  },
+  "security": {
+    "score": 50,
+    "grade": "C",
+    "findings": {
+      "https": true,
+      "csp": "frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com ",
+      "hsts": "max-age=63072000; includeSubDomains; preload",
+      "server": "DPS/2.0.0-beta+sha-91a43b8"
+    }
+  },
+  "tech_stack": [
+    "React",
+    "GTM",
+    "GA4"
   ],
-  "images": [
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/compost.png/:/cr=t:21.8%25,l:0%25,w:100%25,h:56.39%25/rs=w:360,h:270.6766917293233,cg:true",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/more%20stone.jpg/:/cr=t:0%25",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:1023",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/Shirts.jpg/:/rs=w:1110",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:2560",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/promo%20gear.jpg/:/cr=t:0%25",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/topsoil.png/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:360,h:270.6766917293233,cg:true",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/stone%20flag.jpg/:/cr=t:0%25",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/new%202%20inch%20minus.jpg/:/cr=t:21.8%25",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/cas%20conrete%20logo-0001.png/:/rs=w:2157",
-    "https://img1.wsimg.com/isteam/ip/05a17b73-f2e2-4342-9b4f-0a7ec6c3caf1/Hats.jpg/:/rs=w:370,cg:true,m"
-  ],
+  "integrations": {
+    "GA_IDs": [
+      "G-BF2FDR6KMM"
+    ]
+  },
+  "deep_js_analysis": {
+    "apis_in_js": [
+      "https://www.google.com/ccm/geo",
+      "https://stats.g.doubleclick.net/g/collect?v=2&"
+    ],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [
+      "G-BF2FDR6KMM"
+    ],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [],
+    "versions": [],
+    "js_analyzed_kb": 612,
+    "js_files_analyzed": 3
+  },
   "api_endpoints": [
-    "https://www.google.com/ccm/geo"
+    "https://www.google.com/ccm/geo",
+    "https://www.google.com/ccm/geo",
+    "https://stats.g.doubleclick.net/g/collect?v=2&"
   ],
   "forms": [
     {
@@ -224,49 +232,12 @@
       ]
     }
   ],
-  "integrations": {
-    "GA_IDs": [
-      "G-BF2FDR6KMM"
-    ]
-  },
-  "tech": [
-    "React",
-    "GTM",
-    "GA4"
-  ],
-  "security_score": 50,
-  "security_grade": "C",
-  "security_findings": {
-    "https": true,
-    "csp": "frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com ",
-    "hsts": "max-age=63072000; includeSubDomains; preload",
-    "server": "DPS/2.0.0-beta+sha-91a43b8"
-  },
-  "robots_txt": "User-agent: *\n",
-  "sitemap_urls": [],
   "meta_tags": {
     "description": "",
     "keywords": "",
     "og_title": "Cascade Concrete Products",
     "og_desc": ""
   },
-  "schema_data": [],
-  "nav_links": [
-    "/dust-control",
-    "/",
-    "/current-permitting",
-    "/our-work",
-    "/landscape-stone",
-    "/snow-plowing",
-    "/promo-gear-1",
-    "/cascade-concrete-blog",
-    "/calculators",
-    "/contact-us",
-    "/pre-cast",
-    "/concrete",
-    "/products",
-    "/product-usages"
-  ],
   "headings": [
     "Welcome to cascade concrete products co inc.",
     "Pit Information",
@@ -299,19 +270,15 @@
     "$36.00",
     "$29.05"
   ],
-  "assets_downloaded": 33,
-  "drive_folder_id": "1_dPf7S7GdfxTxaprhstTB1c555eqfbZR",
-  "drive_folder_url": "https://drive.google.com/drive/folders/1_dPf7S7GdfxTxaprhstTB1c555eqfbZR",
-  "status": "complete",
-  "errors": [],
-  "duration": 15.7,
-  "nav_structure": [
+  "sitemap_urls": [],
+  "nav_links": [
     "/dust-control",
+    "/",
     "/current-permitting",
-    "/promo-gear-1",
     "/our-work",
     "/landscape-stone",
     "/snow-plowing",
+    "/promo-gear-1",
     "/cascade-concrete-blog",
     "/calculators",
     "/contact-us",
@@ -319,5 +286,48 @@
     "/concrete",
     "/products",
     "/product-usages"
-  ]
+  ],
+  "schema_data": [],
+  "robots_txt": "User-agent: *\n",
+  "assets": {
+    "css": [],
+    "js": [
+      "script.js",
+      "0f2e51facca4.js",
+      "scc-c2.min.js"
+    ],
+    "images": [
+      "cr_t_0_25.jpg",
+      "rs_w_360_h_270.6766917293233_cg_true.jpg",
+      "rs_w_370_cg_true_m.jpg",
+      "rs_w_370_cg_true.jpg",
+      "rs_w_1023.jpg",
+      "rs_w_1110.jpg",
+      "rs_w_2560.jpg",
+      "rs_w_2157.jpg",
+      "cr_t_21.8_25.jpg"
+    ],
+    "fonts": [
+      "1cXxaUPXBpj2rGoU7C9WiHGF.woff2",
+      "1cXxaUPXBpj2rGoU7C9WhnGFucE.woff2",
+      "Qw3aZQNVED7rKGKxtqIqX5EUAnx4RHw.woff2",
+      "Qw3aZQNVED7rKGKxtqIqX5EUA3x4RHw.woff2",
+      "Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2"
+    ],
+    "pages": [
+      "page_00.html",
+      "page_01.html",
+      "page_02.html",
+      "page_03.html",
+      "page_04.html",
+      "page_05.html",
+      "page_06.html",
+      "page_07.html",
+      "page_08.html",
+      "page_09.html"
+    ]
+  },
+  "drive_folder_url": "https://drive.google.com/drive/folders/1_dPf7S7GdfxTxaprhstTB1c555eqfbZR",
+  "github_path": "builds/clones/cascade-concrete/",
+  "storage_complete": true
 }
