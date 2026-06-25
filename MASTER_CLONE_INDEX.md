@@ -1,0 +1,87 @@
+# MASTER CLONE INDEX — Strategic Minds Advisory OS
+**Generated:** 2026-06-25 08:27 UTC  
+**Total Sites Cloned:** 18/19  
+**Supabase Brain:** `clone_<slug>` keys (importance=8, tags=[clone, intelligence])  
+**Drive Folders:** Epoxy Clones + KB Library (Shared Drive)
+
+---
+
+## 🏭 EPOXY / FLOOR / CONCRETE COMPETITORS
+
+| Site | Security | Tech Stack | H1 Headline | Drive |
+|------|----------|-----------|-------------|-------|
+| [garage-experts](https://garageexperts.com) | A/100 | GTM | Epoxy &amp; Polyaspartic Garage Floor Coatings | [📁 Folder](https://drive.google.com/drive/folders/1MPB8-OUTPzXkLlp5H6pQ0caulSF26sua) |
+| [penntek](https://penntek.com) | A/85 | Webflow,jQuery,GTM | Penntek Concrete Coatings | [📁 Folder](https://drive.google.com/drive/folders/1Jg1-iqqR-2W5mo_l6n1l-1KK9uZSA3vp) |
+| [stronghold-floors](https://strongholdfloors.com) | B/70 | HubSpot,GTM | Stronghold Floors | [📁 Folder](https://drive.google.com/drive/folders/1VnFkbh7KhoqjeQzQNrv8Rko-DsNwzEyZ) |
+| [cascade-concrete](https://cascadeconcrete.com) | B/70 | GTM | Welcome to cascade concrete products co inc. | [📁 Folder](https://drive.google.com/drive/folders/1NlfEsYbFQsJntuesW6khm9gvpnRlyAhc) |
+| [torginol](https://torginol.com) | B/60 | GTM | Resinous Floor Finishes | [📁 Folder](https://drive.google.com/drive/folders/1dhMeQWWy4X0BbC3vXHBoTckstqre_hkn) |
+| [epoxy-floors-texas](https://epoxyfloorstexas.com) | C/45 | WordPress,jQuery | Fill out the quick contact form for a free estimat | [📁 Folder](https://drive.google.com/drive/folders/1pAnlsGxJfHuuRGzZD9gwYRjPDArwDZXO) |
+| [quality-epoxy](https://qualityepoxy.com) | D/30 | Bootstrap,jQuery,GTM | We install the best FULL polyaspartic-1” flake flo | [📁 Folder](https://drive.google.com/drive/folders/1yaq_RmcZKlgunL0W1yBmTpoV8zUNXRLF) |
+| [level10-coatings](https://level10coatings.com) | D/30 | WordPress,Bootstrap,jQuery | Concrete Coatings For Homes And Businesses | [📁 Folder](https://drive.google.com/drive/folders/15N8jgMiGOqcWhpQGxHmq_2AfhoO8Q3Mn) |
+
+**Key Epoxy Competitor Findings:**
+- **GarageExperts** — A/100 security. GTM only. H1: "Epoxy & Polyaspartic Garage Floor Coatings"
+- **Penntek** — A/85. Built on **Webflow**. Strong brand positioning.
+- **Stronghold** — B/70. Running **HubSpot**. Good CRM integration signal.
+- **Level10/Quality** — D/30. WordPress + Bootstrap = **technical debt** = ENP's opening.
+- **Torginol** — B/60. Supplier, not competitor. Key partner to position around.
+
+**Universal Gap Confirmed:** None of these have a digital bid engine, customer portal, or floor visualizer.
+
+---
+
+## 🔧 WEBSITE BUILDERS / PLATFORMS
+
+| Site | Security | Pricing | CTA | Tech |
+|------|----------|---------|-----|------|
+| [duda](https://duda.co) | A/100 | hidden | AI Widget Builder | Webflow,HubSpot,GTM |
+| [leadpages](https://leadpages.com) | A/100 | $66 / $90 | Or see a 2-minute demo → | Next.js,Webflow,HubSpot |
+| [unbounce](https://unbounce.com) | A/100 | hidden | Start My Free Trial | WordPress,HubSpot,jQuery |
+| [webflow](https://webflow.com) | A/85 | $500 / $6 | Designer | Webflow,jQuery,GTM |
+| [framer](https://framer.com) | A/80 | hidden | Quick Start | Webflow,Framer,Shopify |
+| [wix](https://wix.com) | B/65 | $1 / $, | Website Design | React,Wix |
+| [squarespace](https://squarespace.com) | B/65 | $14 / $36 | Get Started | Squarespace,GTM |
+| [shopify](https://shopify.com) | B/65 | $4 / $125.00 | Free Tools | React,Shopify,GTM |
+| [wordpress](https://wordpress.org) | B/65 | hidden | Try the Block Editor | WordPress,GTM |
+| [godaddy-sites](https://godaddy.com/websites) | C/45 | hidden | ? | unknown |
+
+**Key Builder Findings:**
+- **Unbounce/Leadpages/Duda** — A/100 security. Enterprise hardened. Study their onboarding flow.
+- **Webflow** — A/85. Pricing: $6–$500/mo range. Visual builder = ENP clone factory model.
+- **Squarespace** — B/65. $14–$36/mo. Simple pricing = easy to undercut for niche.
+- **Shopify** — B/65. $4–$125/mo. eCommerce focus — contrast vs ENP's service-first model.
+- **GoDaddy** — C/45. Lowest security. Most vulnerable positioning.
+
+---
+
+## 📚 AI / FRAMEWORK KNOWLEDGE BASE (Previously Cloned)
+
+21 sites indexed to Drive KB folder `1KamfNyac7hJGGRReUhdAZBZDOghxB2Lr`:
+LangGraph, CrewAI, Letta, Google ADK, LlamaIndex, Mastra AI, n8n, PydanticAI,
+SaaStr Playbook, Lyzr Enterprise, Firecrawl, ServiceTitan, YC Library,
+McKinsey AI, OpenAI Agents, Anthropic Tool Use, Semantic Kernel, AutoGen,
+Paul Graham, Mem0, DeepLearning.AI
+
+---
+
+## ❌ FAILED CLONES (1)
+
+| Site | Error |
+|------|-------|
+| dallas-epoxy-pros | Domain does not resolve (dallasdepoxypros.com) |
+
+---
+
+## 📊 TOTAL INTELLIGENCE LIBRARY
+
+| Category | Count | Location |
+|----------|-------|----------|
+| Epoxy Competitors | 8 | Drive: Epoxy Clones folder |
+| Epoxy Suppliers | 1 | Drive: Epoxy Clones folder |
+| Website Builders | 10 | Drive: KB Library folder |
+| AI/Framework KB | 21 | Drive: KB Library folder |
+| **TOTAL** | **40** | Supabase brain + GitHub |
+
+---
+*Auto-generated by Strategic Minds Advisory OS — APEX Orchestrator*  
+*Repo: Strategic-Minds/epoxy-nation-pro*
