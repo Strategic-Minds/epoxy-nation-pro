@@ -1,0 +1,191 @@
+COMPETITIVE INTELLIGENCE REPORT — TORGINOL
+============================================================
+Generated:    2026-06-25 08:38 UTC
+URL:          https://torginol.com
+Category:     epoxy_supplier
+Overall Score: 66/100
+============================================================
+
+EXTRACTION DEPTH
+----------------
+Pages Scraped:      26
+Assets Downloaded:  15 (CSS: 3 | JS: 7 | Images: 5)
+API Endpoints:      4
+Forms Found:        33
+Tech Stack Items:   4
+Sitemap URLs:       0
+
+SCORECARD
+---------
+Security:    55/100
+Tech Stack:  32/100
+SEO:         65/100
+Conversion: 100/100
+Design:      45/100
+UX:         100/100
+OVERALL:     66/100
+
+TECH STACK (detected)
+---------------------
+  + Stripe
+  + GTM
+  + GA4
+  + Cloudflare
+
+SECURITY AUDIT
+--------------
+Score: 45/100  Grade: C
+  https: True
+  x_frame: SAMEORIGIN
+  x_content_type: nosniff
+  server: cloudflare
+  cloudflare: True
+  cf_ray: a112a5eb0f27d46b-IAD
+
+THIRD-PARTY INTEGRATIONS
+------------------------
+  GTM_IDs: ['GTM-KVT9XWQH']
+  Stripe_PK: ['pk_live_51LnjSFLEy3FpQjzDP9vSBzXEVx1xndFx7Q4LVEeJo3HAqCISCk0XckRtnLoigjupli3vuRT6J4kof6i6xnMRu4kA00xgpM3rz5']
+
+API ENDPOINTS FOUND
+-------------------
+  /ajax/sitewideAlerts?urgentAlerts=
+  /freeform/tokens
+  /freeform/ab-test/tracker
+  /actions/reusser/forms?form=contact
+
+CONTENT INTELLIGENCE
+--------------------
+H1/H2 Headlines:
+  Sitemap
+  Color Palettes
+  Blog
+  Claystone
+  Pergola
+  Yosemite
+  ColorLab
+  Customer Service
+
+Meta Description:
+  For over 60 years, Torginol has been enhancing everyday spaces with innovative materials that inspire creativity. Find your perfect product today.
+
+OG Title:
+  
+
+CTA Buttons Found:
+  ColorLab
+  Flooring Samples
+  FREE SAMPLE
+  Submit
+  1/4&quot;
+  Hybrid
+  View Recommendations
+  Start Visualizing
+
+PRICING SIGNALS
+---------------
+  $3.75
+  $35.00
+  $1.99
+  $27.00
+  $33.00
+  $44.00
+  $1.00
+  $45.00
+
+FORMS / LEAD CAPTURE
+--------------------
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+  Form: action=POST | method=POST | fields=['keywords']
+
+NAVIGATION STRUCTURE
+--------------------
+  https://torginol.com/inspiration/flooring-samples
+  https://torginol.com/products/pigment-flooring
+  https://torginol.com/resources/color-palettes
+  https://torginol.com/resources/blog
+  https://torginol.com/inspiration/colorlab
+  https://torginol.com/company/customer-service
+  /inspiration/flooring-samples
+  https://torginol.com/company/careers
+  /design
+  https://torginol.com/markets/commercial-flooring
+  https://torginol.com/contact
+  https://torginol.com/professionals/commercial-a-d
+  /cart
+  /search
+  https://torginol.com/inspiration
+
+ROBOTS.TXT (preview)
+--------------------
+# robots.txt for https://torginol.com/
+
+sitemap: https://torginol.com/sitemaps-1-sitemap.xml
+
+# live - don't allow web crawlers to index ctrlpanelresources/ or vendor/
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /ctrlpanelresources/
+Disallow: /vendor/
+Disallow: /.env
+Disallow: /cache/
+
+
+
+SITEMAP URLS (first 10)
+-----------------------
+  No sitemap
+
+ENP COMPETITIVE GAPS (what they DON'T have)
+--------------------------------------------
+  ❌ No digital bid engine / instant estimator
+  ❌ No customer portal / project tracking dashboard
+  ❌ No floor visualizer / color preview tool
+  ❌ No WhatsApp OS / automated lead engagement
+  ❌ No HeyGen personalized video follow-up
+  ❌ No multi-city clone factory / 70-city presence
+  ❌ No HubSpot CRM integration detected
+
+TOP 3 WEAKNESSES ENP CAN EXPLOIT
+----------------------------------
+  1. ⚠️ Security score 45/100 — ENP runs enterprise-grade hardened infrastructure
+  2. ⚠️ Legacy frontend stack — ENP runs Next.js 14 with SSR
+
+WHAT THEY NEED TO MATCH ENP
+-----------------------------
+  1. Next.js 14 frontend with server-side rendering
+  2. Supabase real-time database + lead pipeline
+  3. Digital bid engine (ENP's proprietary 30-second estimate)
+  4. Customer portal with HeyGen video follow-up
+  5. Twilio WhatsApp OS for automated outreach
+  6. Floor visualizer (ENP's unfair advantage)
+  7. 70-city SEO clone factory
+
+CSS FILES DOWNLOADED (3)
+  https://torginol.com/ctrlpanelresources/8514fa70/_main.css?v=1780328624
+  https://torginol.com/dist/css/app-zG-rTSii.css
+  https://torginol.com/ctrlpanelresources/46ca5c3f/css/front-end/plugin/freeform.css?v=1776963219
+
+JS BUNDLES DOWNLOADED (7)
+  https://torginol.com/dist/js/sitewideAlerts-DhOwiyVc.js
+  https://torginol.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+  https://torginol.com/ctrlpanelresources/46ca5c3f/js/scripts/front-end/plugin/freeform.js?v=1776963219
+  https://torginol.com/dist/js/react-BhnGJ18D.js
+  https://maps.googleapis.com/maps/api/js?key=AIzaSyD9mzQJd46_yj6CyTpXAHhxpStwVkUWx_c&libraries=places
+  https://torginol.com/dist/js/partner-locator-CNnFEV2B.js
+  https://static.addtoany.com/menu/page.js
+
+IMAGE ASSETS DOWNLOADED (5)
+  https://assets.torginol.com/uploads/Products/Flake/Hybrid%20Stone/FB-4102-Quartzite/_380x380_fit_center-center_none_ns/50257/FB-4102_QUARTZITE_PILE.avif?v=1773866485
+  https://assets.torginol.com/uploads/Products/_120x120_crop_center-center_none_ns/STONE-FLAKE-bifold-2024_5.jpg?v=1773884735
+  https://assets.torginol.com/uploads/_640xAUTO_crop_center-center_none_ns/155148/FB-255_Growl_Commercial_Locker_Room_1200x1200.avif?v=1780342910
+  https://assets.torginol.com/uploads/Products/Flake/Terrazzo/FB-4214-Denali/_380x380_crop_center-center_none_ns/FB-4214_DENALI_PILE.jpg?v=1773866600
+  https://assets.torginol.com/uploads/Products/Flake/Archive/FB-220%20Daredevil/_120x120_crop_center-center_none_ns/FB-220_DAREDEVIL_PILE.jpg?v=1773870514
+
+---
+Generated by Strategic Minds Advisory OS — APEX Orchestrator
+Repo: Strategic-Minds/epoxy-nation-pro
