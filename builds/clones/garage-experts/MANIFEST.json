@@ -1,23 +1,52 @@
 {
   "slug": "garage-experts",
   "url": "https://garageexperts.com",
-  "cat": "epoxy_competitor",
-  "pages_scraped": 26,
-  "css_files": [
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/vcup1wnyuh5.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/db9s7auwwjk.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/nnjmn573dqn.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/b99__l2ybk5.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/8qnn_n6xg79.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/u98dwvzezgq.2502181229560.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/nyjtyfc3j0c.2502181229560.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/5uq_lf2bjvi.2507110720150.css",
-    "https://d274bhbca04zrd.cloudfront.net/cms/includes/tbg9awggyjd.2604011138578.css"
+  "category": "epoxy_competitor",
+  "cloned_at": "2026-06-25T08:46:45.525809",
+  "extraction": {
+    "pages_scraped": 26,
+    "css_files_downloaded": 9,
+    "js_bundles_downloaded": 1,
+    "images_downloaded": 0,
+    "fonts_downloaded": 0
+  },
+  "security": {
+    "score": 75,
+    "grade": "A",
+    "findings": {
+      "https": true,
+      "csp": "default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:;",
+      "hsts": "max-age=63072000; includeSubDomains; preload",
+      "x_frame": "SAMEORIGIN",
+      "x_content_type": "nosniff",
+      "referrer_policy": "no-referrer-when-downgrade"
+    }
+  },
+  "tech_stack": [
+    "GTM",
+    "GA4",
+    "Cloudflare"
   ],
-  "js_files": [
-    "https://analytics.scorpion.co/sa.js"
-  ],
-  "images": [],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-MTCPTB4"
+    ],
+    "GA_IDs": [
+      "UA-10580394-2"
+    ]
+  },
+  "deep_js_analysis": {
+    "apis_in_js": [],
+    "secrets_found": {},
+    "gtm_ids": [],
+    "ga_ids": [],
+    "fb_pixels": [],
+    "hotjar_ids": [],
+    "emails_in_js": [],
+    "versions": [],
+    "js_analyzed_kb": 12,
+    "js_files_analyzed": 1
+  },
   "api_endpoints": [],
   "forms": [
     {
@@ -523,64 +552,12 @@
       ]
     }
   ],
-  "integrations": {
-    "GTM_IDs": [
-      "GTM-MTCPTB4"
-    ],
-    "GA_IDs": [
-      "UA-10580394-2"
-    ]
-  },
-  "tech": [
-    "GTM",
-    "GA4",
-    "Cloudflare"
-  ],
-  "security_score": 75,
-  "security_grade": "A",
-  "security_findings": {
-    "https": true,
-    "csp": "default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:;",
-    "hsts": "max-age=63072000; includeSubDomains; preload",
-    "x_frame": "SAMEORIGIN",
-    "x_content_type": "nosniff",
-    "referrer_policy": "no-referrer-when-downgrade"
-  },
-  "robots_txt": "",
-  "sitemap_urls": [],
   "meta_tags": {
     "description": "GarageExperts\u00ae offers high-quality epoxy flooring and custom storage solutions for residential and commercial spaces, all backed by a limited lifetime warranty. Schedule your free estimate today!",
     "keywords": "",
     "og_title": "Epoxy Flooring & Garage Storage | GarageExperts\u00ae ",
     "og_desc": "GarageExperts\u00ae offers high-quality epoxy flooring and custom storage solutions for residential and commercial spaces, all backed by a limited lifetime warranty. Schedule your free estimate today!"
   },
-  "schema_data": [
-    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t",
-    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t",
-    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t"
-  ],
-  "nav_links": [
-    "/why-us/",
-    "/why-us/what-you-can-expect/",
-    "/privacy-policy/",
-    "/epoxy-polyaspartic-flooring/flooring-colors/",
-    "/epoxy-polyaspartic-flooring/",
-    "/contact-us/",
-    "/why-us/blog/",
-    "/garage-storage/",
-    "/site-search/",
-    "/why-us/video-center/",
-    "/why-us/warranty/",
-    "/custom-garage-ideas/garage-idea-gallery/",
-    "/epoxy-polyaspartic-flooring/residential-epoxy-flooring/",
-    "/accessibility/",
-    "/why-us/careers/",
-    "/epoxy-polyaspartic-flooring/residential-epoxy-flooring/garage-epoxy-flooring/",
-    "/custom-garage-ideas/recent-garage-makeovers/",
-    "/site-map/",
-    "/garage-storage/garage-cabinets/cabinet-colors/",
-    "https://www.garageexpertsfranchise.com/"
-  ],
   "headings": [
     "Epoxy &amp; Polyaspartic Garage Floor Coatings",
     "Custom Garage Cabinets\n\t\t\n\t\tCustom Garage Cabinets in",
@@ -606,13 +583,8 @@
     "Custom Garage Ideas"
   ],
   "pricing_signals": [],
-  "assets_downloaded": 10,
-  "drive_folder_id": "1nvnL42jyVwn4FwTkKv5v6CM8VUxBSQ5-",
-  "drive_folder_url": "https://drive.google.com/drive/folders/1nvnL42jyVwn4FwTkKv5v6CM8VUxBSQ5-",
-  "status": "complete",
-  "errors": [],
-  "duration": 80.0,
-  "nav_structure": [
+  "sitemap_urls": [],
+  "nav_links": [
     "/why-us/",
     "/why-us/what-you-can-expect/",
     "/privacy-policy/",
@@ -627,6 +599,50 @@
     "/custom-garage-ideas/garage-idea-gallery/",
     "/epoxy-polyaspartic-flooring/residential-epoxy-flooring/",
     "/accessibility/",
-    "/why-us/careers/"
-  ]
+    "/why-us/careers/",
+    "/epoxy-polyaspartic-flooring/residential-epoxy-flooring/garage-epoxy-flooring/",
+    "/custom-garage-ideas/recent-garage-makeovers/",
+    "/site-map/",
+    "/garage-storage/garage-cabinets/cabinet-colors/",
+    "https://www.garageexpertsfranchise.com/"
+  ],
+  "schema_data": [
+    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t",
+    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t",
+    "\n{\n\t\"@context\": \"http://schema.org\",\n\t\"@type\": \"LocalBusiness\",\n\t\"name\": \"GarageExperts\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"1051 Mustang Dr, \",\n\t\t\"addressLocality\": \"Grapevine\",\n\t\t\"addressRegion\": \"TX\",\n\t\t\"postalCode\": \"76051\"\n\t},\n\t\"image\": \"/assets/logo.2411120802177.png\",\n\t\"telePhone\": \"(888) 393-3527\",\n\t\"url\": \"http://www.garageexperts.com\",\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"32.917781\",\n\t\t\"longitude\": \"-97.0818794\"\n\t}\n\n}\n\t"
+  ],
+  "robots_txt": "",
+  "assets": {
+    "css": [
+      "nyjtyfc3j0c.2502181229560.css",
+      "vcup1wnyuh5.2507110720150.css",
+      "db9s7auwwjk.2507110720150.css",
+      "tbg9awggyjd.2604011138578.css",
+      "5uq_lf2bjvi.2507110720150.css",
+      "b99__l2ybk5.2507110720150.css",
+      "nnjmn573dqn.2507110720150.css",
+      "8qnn_n6xg79.2507110720150.css",
+      "u98dwvzezgq.2502181229560.css"
+    ],
+    "js": [
+      "sa.js"
+    ],
+    "images": [],
+    "fonts": [],
+    "pages": [
+      "page_00.html",
+      "page_01.html",
+      "page_02.html",
+      "page_03.html",
+      "page_04.html",
+      "page_05.html",
+      "page_06.html",
+      "page_07.html",
+      "page_08.html",
+      "page_09.html"
+    ]
+  },
+  "drive_folder_url": "https://drive.google.com/drive/folders/1nvnL42jyVwn4FwTkKv5v6CM8VUxBSQ5-",
+  "github_path": "builds/clones/garage-experts/",
+  "storage_complete": true
 }
