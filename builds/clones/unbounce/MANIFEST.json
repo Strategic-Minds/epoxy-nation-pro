@@ -1,0 +1,408 @@
+{
+  "slug": "unbounce",
+  "url": "https://unbounce.com",
+  "cat": "landing_builder",
+  "pages_scraped": 26,
+  "css_files": [
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/css/singleblog.min.css?a7fe055ad704d36b9fac9629c8667db7",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/css/general2019.min.css?bd7fbccbaa380260935f2be690d8a0de",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/css/contentLibrary2023.min.css?1765348522"
+  ],
+  "js_files": [
+    "https://d3rqem538l0q4a.cloudfront.net/Scripts/insightly/core/apps/marketing/ins.marketingformsubmissionhandler.js",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/jquery.webui-popover.js",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/bootstrap2024.min.js?1745912369",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/general.min.js?f13a7b6e02c5085b86fa473dfb5990d8",
+    "https://unbounce.com/wp-content/plugins/perfmatters/js/lazyload.min.js",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/template2019.min.js?9ce3422a75b2a2de7e83e3911feb6336",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/embedform2025.min.js?1747290993",
+    "https://cdn.jsdelivr.net/gh/space10-community/conversational-form@1.0.1/dist/conversational-form.min.js",
+    "https://unbounce.com/wp-includes/js/jquery/jquery.min.js",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/layout2025.min.js?1775833272",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/blog.min.js?23853a45d5db93c1780ac9a7d6950bef",
+    "https://www.google.com/recaptcha/api.js",
+    "https://unbounce.com/wp-content/themes/unbounce2019/assets/js/product2019.min.js?f441909c02e5c9e096591d46e340ff65",
+    "https://unbounce.com/wp-content/cache/perfmatters/unbounce.com/minify/a5d7b995b279.typer.min.js",
+    "https://unbounce.com/photos/essb_cache/dea9a6bf4f575bf879afc8be757c45de.js"
+  ],
+  "images": [
+    "https://unbounce.com/photos/Integrations-preview-1-650x406.webp",
+    "https://unbounce.com/photos/home-hero-mobile-v2.png",
+    "https://unbounce.com/photos/Crown-1.svg",
+    "https://unbounce.com/photos/Whip-up-mobile-responsive-720-x-853-650x770.png",
+    "https://unbounce.com/photos/version.svg",
+    "https://unbounce.com/photos/how-to-create-a-landing-page-horizontal_model.jpg",
+    "https://unbounce.com/photos/webinar-templates.png",
+    "https://unbounce.com/photos/Mark_Bunker-1.png",
+    "https://unbounce.com/photos/BookOpenCheck.svg",
+    "https://unbounce.com/photos/video.png",
+    "https://unbounce.com/photos/BrainCircuit.svg"
+  ],
+  "api_endpoints": [
+    "/wp-admin/admin-ajax.php"
+  ],
+  "forms": [
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "submit",
+      "method": "POST",
+      "fields": [
+        "utm_campaign",
+        "utm_medium",
+        "utm_source",
+        "Email",
+        "insightly_additional_field",
+        "Opt_in_gdpr_comms",
+        "Opt_in_gdpr_comms",
+        "Opt_in_privacy_policy"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry",
+        "industry"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "submit",
+      "method": "POST",
+      "fields": [
+        "utm_campaign",
+        "utm_medium",
+        "utm_source",
+        "Email",
+        "insightly_additional_field",
+        "Opt_in_gdpr_comms",
+        "Opt_in_gdpr_comms",
+        "Opt_in_privacy_policy"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    },
+    {
+      "action": "submit",
+      "method": "POST",
+      "fields": [
+        "utm_campaign",
+        "utm_medium",
+        "utm_source",
+        "First_name",
+        "Last_name",
+        "Email",
+        "Phone_number",
+        "Company_name",
+        "insightly_additional_field",
+        "Opt_in_privacy_policy",
+        "Opt_in_gdpr_comms",
+        "Opt_in_gdpr_comms"
+      ]
+    },
+    {
+      "action": "submit",
+      "method": "POST",
+      "fields": [
+        "utm_campaign",
+        "utm_medium",
+        "utm_source",
+        "First_name",
+        "Last_name",
+        "Email",
+        "Phone_number",
+        "Company_name",
+        "insightly_additional_field",
+        "Opt_in_privacy_policy",
+        "Opt_in_gdpr_comms",
+        "Opt_in_gdpr_comms"
+      ]
+    },
+    {
+      "action": "POST",
+      "method": "POST",
+      "fields": [
+        "hidden",
+        "s"
+      ]
+    }
+  ],
+  "integrations": {
+    "GTM_IDs": [
+      "GTM-ND9H2L"
+    ],
+    "GA_IDs": [
+      "UA-10210606-22"
+    ]
+  },
+  "tech": [
+    "WordPress",
+    "GTM",
+    "GA4",
+    "Cloudflare",
+    "Bootstrap",
+    "jQuery"
+  ],
+  "security_score": 80,
+  "security_grade": "A",
+  "security_findings": {
+    "https": true,
+    "csp": "upgrade-insecure-requests;",
+    "hsts": "max-age=63072000",
+    "x_frame": "SAMEORIGIN",
+    "x_content_type": "nosniff",
+    "referrer_policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "cloudflare": true,
+    "cf_ray": "a112a5eb1919c94b-IAD"
+  },
+  "robots_txt": "User-agent: *\r\nDisallow: /wp-admin/\r\nDisallow: /wp-includes/\r\nDisallow: /docs/\r\nDisallow: /photos/*.pdf\r\nDisallow: /partner/\r\nDisallow: /wp-json/\r\nAllow: /docs/*.gif$\r\nAllow: /docs/*.png$\r\nAllow: /docs/*.jpg$\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\n\r\nSitemap: https://unbounce.com/sitemap_index.xml\r\n",
+  "sitemap_urls": [
+    "https://unbounce.com/post-sitemap.xml",
+    "https://unbounce.com/post-sitemap2.xml",
+    "https://unbounce.com/page-sitemap.xml",
+    "https://unbounce.com/cipillars-sitemap.xml",
+    "https://unbounce.com/landingpageexample-sitemap.xml",
+    "https://unbounce.com/landingpagetemplate-sitemap.xml",
+    "https://unbounce.com/customers-sitemap.xml",
+    "https://unbounce.com/integrationtemplate-sitemap.xml",
+    "https://unbounce.com/glossary-sitemap.xml",
+    "https://unbounce.com/lpsessions-sitemap.xml",
+    "https://unbounce.com/category-sitemap.xml",
+    "https://unbounce.com/landing-page-templates-sitemap.xml"
+  ],
+  "meta_tags": {
+    "description": "Grow your leads and sales with Unbounce. Easily create, test, and optimize landing pages, and boost conversions using AI insights\u2014start turning traffic into customers today!",
+    "keywords": "",
+    "og_title": "Scale campaigns and conversions with ease",
+    "og_desc": "Unbounce has everything you need to optimize for conversion."
+  },
+  "schema_data": [
+    "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/unbounce.com\\/\",\"url\":\"https:\\/\\/unbounce.com\\/\",\"name\":\"The Best Landing Page Builder and CRO platform | Unbounce\",\"isPartOf\":{\"@id\":\"https:\\/\\/unbounce.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/unbounce.com\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/unbounce.com\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"datePublished\":\"2025-03-10T08:15:09+00:00\",\"dateModified\":\"2026-01-31T10:10:31+00:00\",\"description\":\"Grow your leads and sales with Unbounce. Easily create, test, and optimize landing pages, and boost conversions using AI insights\u2014start turning traffic into customers today!\",\"breadcrumb\":{\"@id\":\"https:\\/\\/unbounce.com\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/unbounce.com\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/unbounce.com\\/#primaryimage\",\"url\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"contentUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"width\":1800,\"height\":900,\"caption\":\"Open graph\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/unbounce.com\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home New\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/unbounce.com\\/#website\",\"url\":\"https:\\/\\/unbounce.com\\/\",\"name\":\"Unbounce\",\"description\":\"Landing Pages: Build Publish &amp; Test Without I.T.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/unbounce.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}",
+    "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/unbounce.com\\/privacy\\/\",\"url\":\"https:\\/\\/unbounce.com\\/privacy\\/\",\"name\":\"Unbounce Privacy Policy\",\"isPartOf\":{\"@id\":\"https:\\/\\/unbounce.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/unbounce.com\\/privacy\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/unbounce.com\\/privacy\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"datePublished\":\"2009-08-17T08:28:18+00:00\",\"dateModified\":\"2025-03-14T16:21:10+00:00\",\"description\":\"At Unbounce, we are dedicated to safeguarding your personal information. This privacy policy outlines how we collect, use, and protect your data.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/unbounce.com\\/privacy\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/unbounce.com\\/privacy\\/#primaryimage\",\"url\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"contentUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"width\":1800,\"height\":900,\"caption\":\"Open graph\"},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/unbounce.com\\/#website\",\"url\":\"https:\\/\\/unbounce.com\\/\",\"name\":\"Unbounce\",\"description\":\"Landing Pages: Build Publish &amp; Test Without I.T.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/unbounce.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}",
+    "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/\",\"url\":\"https:\\/\\/unbounce.com\\/product\\/features\\/\",\"name\":\"Unbounce landing page builder features - Build, Customize, Test, Convert, and Optimize\",\"isPartOf\":{\"@id\":\"https:\\/\\/unbounce.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"datePublished\":\"2009-12-29T23:24:42+00:00\",\"dateModified\":\"2026-02-19T06:28:24+00:00\",\"description\":\"Create, test, and optimize like a pro with the top-rated landing page builder. Learn how Unbounce\u2019s smart features help marketers launch campaigns faster\u2014that actually convert.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/unbounce.com\\/product\\/features\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/#primaryimage\",\"url\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"contentUrl\":\"https:\\/\\/unbounce.com\\/photos\\/Open-graph-3.jpg\",\"width\":1800,\"height\":900,\"caption\":\"Open graph\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/unbounce.com\\/product\\/features\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Product\",\"item\":\"https:\\/\\/unbounce.com\\/product\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Features\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/unbounce.com\\/#website\",\"url\":\"https:\\/\\/unbounce.com\\/\",\"name\":\"Unbounce\",\"description\":\"Landing Pages: Build Publish &amp; Test Without I.T.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/unbounce.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}"
+  ],
+  "nav_links": [
+    "/marketing-ai/",
+    "/landing-page-templates/",
+    "/solutions/use-case/social-ads/",
+    "/a-b-testing/",
+    "/solutions/industry/professional-services/",
+    "/landing-page-examples-built-with-unbounce/",
+    "/ecommerce/",
+    "/solutions/use-case/email-marketing/",
+    "/solutions/industry/saas/",
+    "https://unbounce.com/landing-pages/",
+    "/contact-us/",
+    "https://copy.unbounce.com/",
+    "/solutions/industry/small-businesses/",
+    "/solutions/industry/ecommerce/",
+    "https://unbounce.com/landing-page-templates/",
+    "/product/smart-copy/",
+    "/landing-page-examples/",
+    "/digital-content/",
+    "http://copy.unbounce.com/register",
+    "https://app.unbounce.com/signup/trial_2024"
+  ],
+  "headings": [
+    "Launch faster. Convert more.",
+    "Privacy Policy",
+    "Features that set you up for success",
+    "Accessibility statement",
+    "The AI copywriting assistant that builds better landing pages",
+    "CCPA/CPRA",
+    "Attract more qualified leads with landing pages",
+    "Quickly launch high-converting landing pages",
+    "Marketing resources",
+    "Give every social ad its best shot to convert",
+    "We\u2019d love to hear from you",
+    "Choose from over 100 high-converting landing page, popup, and sticky bar templat"
+  ],
+  "cta_texts": [
+    "Start my 14-days trial",
+    "Try it for free",
+    "Connect with a solutions specialist",
+    "Apply filters",
+    "Start optimizing",
+    "Start experimenting for free",
+    "Connect with a Solutions Specialist",
+    "Watch their story"
+  ],
+  "pricing_signals": [
+    "$4",
+    "$500",
+    "$6",
+    "$1",
+    "$053",
+    "$5",
+    "$2,500",
+    "$5,000",
+    "$74/mo",
+    "$300"
+  ],
+  "assets_downloaded": 29,
+  "drive_folder_id": "166aRyNMr6w2C95v7868hE7rdwfBNWlge",
+  "drive_folder_url": "https://drive.google.com/drive/folders/166aRyNMr6w2C95v7868hE7rdwfBNWlge",
+  "status": "complete",
+  "errors": [],
+  "duration": 77.7,
+  "nav_structure": [
+    "/marketing-ai/",
+    "/landing-page-templates/",
+    "/solutions/use-case/social-ads/",
+    "/a-b-testing/",
+    "/solutions/industry/professional-services/",
+    "/landing-page-examples-built-with-unbounce/",
+    "/ecommerce/",
+    "/solutions/use-case/email-marketing/",
+    "/solutions/industry/saas/",
+    "https://unbounce.com/landing-pages/",
+    "/contact-us/",
+    "https://copy.unbounce.com/",
+    "/solutions/industry/small-businesses/",
+    "/solutions/industry/ecommerce/",
+    "https://unbounce.com/landing-page-templates/"
+  ]
+}
