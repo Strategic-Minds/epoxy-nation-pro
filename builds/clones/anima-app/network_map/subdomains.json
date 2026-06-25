@@ -1,0 +1,110 @@
+{
+  "live": [
+    {
+      "subdomain": "api.animaapp.com",
+      "ip": "54.185.13.62"
+    },
+    {
+      "subdomain": "dev.animaapp.com",
+      "ip": "34.223.245.244"
+    },
+    {
+      "subdomain": "beta.animaapp.com",
+      "ip": "13.226.238.82"
+    },
+    {
+      "subdomain": "test.animaapp.com",
+      "ip": "52.41.190.204"
+    },
+    {
+      "subdomain": "admin.animaapp.com",
+      "ip": "3.170.19.53"
+    },
+    {
+      "subdomain": "accounts.animaapp.com",
+      "ip": "18.67.65.83"
+    },
+    {
+      "subdomain": "cdn.animaapp.com",
+      "ip": "3.171.38.40"
+    },
+    {
+      "subdomain": "static.animaapp.com",
+      "ip": "3.171.76.118"
+    },
+    {
+      "subdomain": "s3.animaapp.com",
+      "ip": "35.160.8.22"
+    },
+    {
+      "subdomain": "docs.animaapp.com",
+      "ip": "104.16.242.118"
+    },
+    {
+      "subdomain": "support.animaapp.com",
+      "ip": "3.167.112.94"
+    },
+    {
+      "subdomain": "blog.animaapp.com",
+      "ip": "52.85.193.125"
+    },
+    {
+      "subdomain": "stats.animaapp.com",
+      "ip": "34.211.71.74"
+    },
+    {
+      "subdomain": "email.animaapp.com",
+      "ip": "34.110.180.34"
+    },
+    {
+      "subdomain": "slack.animaapp.com",
+      "ip": "52.5.82.174"
+    },
+    {
+      "subdomain": "playground.animaapp.com",
+      "ip": "54.185.13.62"
+    },
+    {
+      "subdomain": "status.animaapp.com",
+      "ip": "3.167.37.96"
+    }
+  ],
+  "paths": [
+    {
+      "path": "/api",
+      "status": 200,
+      "ct": "",
+      "size": 237065
+    },
+    {
+      "path": "/dashboard",
+      "status": 200,
+      "ct": "",
+      "size": 1359
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "ct": "",
+      "size": 125
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "ct": "",
+      "size": 6279
+    },
+    {
+      "path": "/favicon.ico",
+      "status": 200,
+      "ct": "",
+      "size": 4286
+    },
+    {
+      "path": "/changelog",
+      "status": 200,
+      "ct": "",
+      "size": 153139
+    }
+  ]
+}
