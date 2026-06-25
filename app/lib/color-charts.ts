@@ -1,0 +1,8 @@
+export const COLOR_CHARTS = [
+  { id: "flake",    title: "Top Flake Colors",           subtitle: "Full-broadcast flake finish options.",              image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-top-flake-colors-approved.png?v=1781670774",          alt: "XPS top 12 epoxy flake color chart"     },
+  { id: "metallic", title: "Top Metallic Colors",        subtitle: "Decorative metallic epoxy finish options.",         image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-top-metallic-colors-standardized.png?v=1781670766",  alt: "XPS top metallic colors chart"          },
+  { id: "quartz",   title: "Top Quartz Colors",          subtitle: "Quartz texture finish options.",                    image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-top-quartz-colors-standardized.png?v=1781670783",   alt: "XPS top quartz colors chart"            },
+  { id: "solid",    title: "Solid Color Base Coats",     subtitle: "Solid color epoxy used as the base coat.",          image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-solid-color-epoxy-base-coats.png?v=1781680330",     alt: "XPS solid color epoxy base coat chart"  },
+  { id: "glitter",  title: "Glitter Additive Colors",    subtitle: "Glitter additive for overall sparkle.",             image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-top-glitter-additive-colors.png?v=1781680348",      alt: "XPS top glitter additive color chart"   },
+  { id: "stain",    title: "Concrete Dye & Stain",       subtitle: "Dye and stain for polished or decorative concrete.",image: "https://cdn.shopify.com/s/files/1/0754/8905/0678/files/xps-concrete-dye-stain-colors.png?v=1781680338",       alt: "XPS concrete dye and stain color chart" },
+];
