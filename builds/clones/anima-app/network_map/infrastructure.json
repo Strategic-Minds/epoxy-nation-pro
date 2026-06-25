@@ -1,0 +1,224 @@
+{
+  "animaapp.com": {
+    "domain": "animaapp.com",
+    "ip": "13.226.238.82",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "commonName": "Amazon RSA 2048 M04"
+      },
+      "notAfter": "Oct 27 23:59:59 2026 GMT",
+      "notBefore": "Apr 13 00:00:00 2026 GMT",
+      "san": [
+        "animaapp.com",
+        "*.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "www.animaapp.com": {
+    "domain": "www.animaapp.com",
+    "ip": "13.226.238.111",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "commonName": "Amazon RSA 2048 M04"
+      },
+      "notAfter": "Oct 27 23:59:59 2026 GMT",
+      "notBefore": "Apr 13 00:00:00 2026 GMT",
+      "san": [
+        "animaapp.com",
+        "*.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "api.animaapp.com": {
+    "domain": "api.animaapp.com",
+    "ip": "34.223.245.244",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "api.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Let's Encrypt",
+        "commonName": "R13"
+      },
+      "notAfter": "Jul 31 09:17:24 2026 GMT",
+      "notBefore": "May  2 09:17:25 2026 GMT",
+      "san": [
+        "api.animaapp.com",
+        "projects.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "dev.animaapp.com": {
+    "domain": "dev.animaapp.com",
+    "ip": "34.223.245.244",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "dev.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Let's Encrypt",
+        "commonName": "YR2"
+      },
+      "notAfter": "Sep 14 01:55:58 2026 GMT",
+      "notBefore": "Jun 16 01:55:59 2026 GMT",
+      "san": [
+        "dev.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "playground-api.animaapp.com": {
+    "domain": "playground-api.animaapp.com",
+    "ip": "34.223.245.244",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "playground-api.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Let's Encrypt",
+        "commonName": "YR1"
+      },
+      "notAfter": "Aug 30 07:03:58 2026 GMT",
+      "notBefore": "Jun  1 07:03:59 2026 GMT",
+      "san": [
+        "playground-api.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "projects.animaapp.com": {
+    "domain": "projects.animaapp.com",
+    "ip": "13.226.209.24",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "*.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "commonName": "Amazon RSA 2048 M01"
+      },
+      "notAfter": "Oct 29 23:59:59 2026 GMT",
+      "notBefore": "Apr 15 00:00:00 2026 GMT",
+      "san": [
+        "*.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "docs.animaapp.com": {
+    "domain": "docs.animaapp.com",
+    "ip": "104.16.242.118",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "docs.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Google Trust Services",
+        "commonName": "WE1"
+      },
+      "notAfter": "Sep 12 08:13:57 2026 GMT",
+      "notBefore": "Jun 14 07:14:08 2026 GMT",
+      "san": [
+        "docs.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "c.animaapp.com": {
+    "domain": "c.animaapp.com",
+    "ip": "3.167.99.93",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "*.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "commonName": "Amazon RSA 2048 M01"
+      },
+      "notAfter": "Oct 29 23:59:59 2026 GMT",
+      "notBefore": "Apr 15 00:00:00 2026 GMT",
+      "san": [
+        "*.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "mcp.animaapp.com": {
+    "domain": "mcp.animaapp.com",
+    "ip": null,
+    "resolves": false,
+    "ssl": {},
+    "headers": {}
+  },
+  "cdn.animaapp.com": {
+    "domain": "cdn.animaapp.com",
+    "ip": "3.171.38.86",
+    "resolves": true,
+    "ssl": {
+      "subject": {
+        "commonName": "*.animaapp.com"
+      },
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Amazon",
+        "commonName": "Amazon RSA 2048 M01"
+      },
+      "notAfter": "Oct 29 23:59:59 2026 GMT",
+      "notBefore": "Apr 15 00:00:00 2026 GMT",
+      "san": [
+        "*.animaapp.com"
+      ],
+      "version": 3
+    },
+    "headers": {}
+  },
+  "assets.animaapp.com": {
+    "domain": "assets.animaapp.com",
+    "ip": null,
+    "resolves": false,
+    "ssl": {},
+    "headers": {}
+  },
+  "storage.animaapp.com": {
+    "domain": "storage.animaapp.com",
+    "ip": null,
+    "resolves": false,
+    "ssl": {},
+    "headers": {}
+  }
+}
