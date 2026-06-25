@@ -14,16 +14,14 @@ const NAV_LINKS = [
   { label: "Start Digital Bid",  href: "/digital-estimator",          section: "Get Started" },
   { label: "Design Center",      href: "/design",                     section: "Get Started" },
   { label: "My Dashboard",       href: "/customer-portal/dashboard",  section: "Client Portal" },
+  { label: "Sign In",            href: "/customer-portal",            section: "Client Portal" },
   { label: "Admin Dashboard",    href: "/admin-dashboard",            section: "Operations" },
   { label: "Owner Dashboard",    href: "/owner-dashboard",            section: "Operations" },
   { label: "Crew Dashboard",     href: "/crew-dashboard",             section: "Operations" },
-  { label: "Installer App",      href: "/installer",                  section: "Operations" },
-  { label: "Ops Command Center", href: "/ops",                        section: "Operations" },
 ];
 
 const SECTIONS = ["Main", "Get Started", "Client Portal", "Operations"];
 
-// All styles self-contained so NO external CSS file can interfere
 const CSS = `
   .mnav-trigger {
     display: flex;
@@ -56,8 +54,8 @@ const CSS = `
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(0,0,0,.55);
-    z-index: 9998;
+    background: rgba(0,0,0,.6);
+    z-index: 298;
   }
   .mnav-backdrop.is-open { display: block; }
 
@@ -66,7 +64,7 @@ const CSS = `
     top: 0; right: 0; bottom: 0;
     width: min(320px, 88vw);
     background: #050505;
-    z-index: 9999;
+    z-index: 299;
     display: flex;
     flex-direction: column;
     overflow-y: auto;
@@ -85,7 +83,15 @@ const CSS = `
     border-bottom: 1px solid rgba(255,255,255,.1);
     flex-shrink: 0;
   }
-  .mnav-head img { height: 36px; width: auto; }
+  .mnav-logo-wrap { display: flex; align-items: center; gap: 10px; }
+  .mnav-logo-mark {
+    width: 32px; height: 32px;
+    background: #F6B800; border-radius: 7px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; font-weight: 900; color: #000;
+    flex-shrink: 0;
+  }
+  .mnav-logo-name { color: #fff; font-weight: 900; font-size: 15px; }
   .mnav-x {
     width: 34px; height: 34px;
     border-radius: 50%;
@@ -98,6 +104,7 @@ const CSS = `
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
+    flex-shrink: 0;
   }
 
   .mnav-section-label {
@@ -143,7 +150,7 @@ const CSS = `
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
   }
-  .mnav-cta  { background: linear-gradient(180deg,#ffd75a,#f6b800); color: #050505; }
+  .mnav-cta  { background: #F6B800; color: #050505; }
   .mnav-wa   { background: #25d366; color: #fff; }
   .mnav-call { background: rgba(255,255,255,.07); color: #fff; border: 1px solid rgba(255,255,255,.15); }
 `;
@@ -151,7 +158,6 @@ const CSS = `
 export function MobileNavigation() {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
-  const btnRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => { setOpen(false); }, [pathname]);
 
@@ -170,9 +176,7 @@ export function MobileNavigation() {
     <>
       <style dangerouslySetInnerHTML={{ __html: CSS }} />
 
-      {/* ── HAMBURGER BUTTON ── */}
       <button
-        ref={btnRef}
         className={`mnav-trigger${open ? " is-open" : ""}`}
         type="button"
         aria-label={open ? "Close menu" : "Open menu"}
@@ -185,14 +189,12 @@ export function MobileNavigation() {
         <span className="bar" />
       </button>
 
-      {/* ── BACKDROP ── */}
       <div
         className={`mnav-backdrop${open ? " is-open" : ""}`}
         onPointerDown={() => setOpen(false)}
         aria-hidden="true"
       />
 
-      {/* ── DRAWER ── */}
       <nav
         className={`mnav-drawer${open ? " is-open" : ""}`}
         role="dialog"
@@ -200,8 +202,17 @@ export function MobileNavigation() {
         aria-label="Site navigation"
       >
         <div className="mnav-head">
-          <div style={{display:'flex',alignItems:'center',gap:'10px'}}><div style={{width:32,height:32,background:'#F6B800',borderRadius:7,display:'flex',alignItems:'center',justifyContent:'center',fontSize:10,fontWeight:900,color:'#000'}}>ENP</div><span style={{color:'#fff',fontWeight:900,fontSize:15}}>Epoxy Nation Pro</span></div></div>
-          <button className="mnav-x" onPointerDown={() => setOpen(false)} aria-label="Close menu">✕</button>
+          <div className="mnav-logo-wrap">
+            <div className="mnav-logo-mark">ENP</div>
+            <span className="mnav-logo-name">Epoxy Nation Pro</span>
+          </div>
+          <button
+            className="mnav-x"
+            onPointerDown={() => setOpen(false)}
+            aria-label="Close menu"
+          >
+            ✕
+          </button>
         </div>
 
         {SECTIONS.map((section) => (
@@ -225,10 +236,10 @@ export function MobileNavigation() {
             Start Digital Bid →
           </a>
           <a className="mnav-wa" href="https://wa.me/17722090266" target="_blank" rel="noopener noreferrer">
-            📱 WhatsApp Us
+            WhatsApp Us
           </a>
           <a className="mnav-call" href={phoneHref}>
-            📞 {phone}
+            {phone}
           </a>
         </div>
       </nav>
